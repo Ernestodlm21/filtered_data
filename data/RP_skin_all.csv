@@ -1,0 +1,2370 @@
+FeatureID,Name,Formula,calc_mw,mz,rt,annot_source,Annot. Source: mzVault Search
+Feature2369,Indole-3-carboxaldehyde,C9 H7 N O,145.05268,146.05996,12.402,mzVault and mzCloud,Full match
+Feature2368,Ornithine,C5 H12 N2 O2,115.06321,116.07049,1.057,mzVault and mzCloud,Invalid mass
+Feature2367,Ornithine,C5 H12 N2 O2,132.08982,133.09709,1.058,mzVault and mzCloud,Full match
+Feature2366,Histamine,C5 H9 N3,94.053,112.08682,1.003,mzVault and mzCloud,Invalid mass
+Feature2365,D-Aspartic acid,C4 H7 N O4,133.03737,134.04465,1.215,mzVault and mzCloud,Full match
+Feature2364,Cytidine-5'-monophosphate,C9 H14 N3 O8 P,323.0517,324.05897,1.799,mzVault and mzCloud,Full match
+Feature2363,D-Histidine,C6 H9 N3 O2,155.06937,156.07667,1.131,mzVault and mzCloud,Full match
+Feature2362,D-Histidine,C6 H9 N3 O2,155.06934,156.07662,1.169,mzVault and mzCloud,Full match
+Feature2361,O-Phosphorylethanolamine,C2 H8 N O4 P,141.01897,142.02625,1.187,mzVault,Full match
+Feature2360,L-Alanine,C3 H7 N O2,89.04761,90.05489,1.428,mzVault and mzCloud,Full match
+Feature2359,D-Threonine,C4 H9 N O3,102.03152,120.06534,1.257,mzVault and mzCloud,Invalid mass
+Feature2358,D-Threonine,C4 H9 N O3,119.05809000000001,120.06537,1.253,mzVault and mzCloud,Full match
+Feature2357,Cytidine,C9 H13 N3 O5,243.08533,244.0926,2.295,mzVault and mzCloud,Full match
+Feature2356,Cytidine,C9 H13 N3 O5,226.0588,227.06611,2.277,mzVault and mzCloud,Invalid mass
+Feature2355,L-Alanine,C3 H7 N O2,89.04762,90.0549,1.227,mzVault and mzCloud,Full match
+Feature2354,L-Citrulline,C6 H13 N3 O3,175.09553,176.10281,1.306,mzVault and mzCloud,Full match
+Feature2353,L-Citrulline,C6 H13 N3 O3,158.06898,159.07628,1.305,mzVault and mzCloud,Invalid mass
+Feature2352,N-Acetylglutamic acid,C7 H11 N O5,189.06359,190.07087,3.943,mzVault,Full match
+Feature2351,D-Valine,C5 H11 N O2,117.07884,118.08612,2.027,mzVault and mzCloud,Full match
+Feature2350,D-Leucine,C6 H13 N O2,131.09448,132.10176,4.534,mzVault and mzCloud,Full match
+Feature2349,D-Glutamine,C5 H10 N2 O3,146.06902,147.0763,1.231,mzVault and mzCloud,Full match
+Feature2348,D-Glutamine,C5 H10 N2 O3,129.04249,130.04974,1.231,mzVault and mzCloud,Invalid mass
+Feature2347,D-Glutamic acid,C5 H9 N O4,147.05302,148.06029,1.286,mzVault and mzCloud,Full match
+Feature2346,D-Glutamic acid,C5 H9 N O4,130.02648,148.06031,1.286,mzVault and mzCloud,Invalid mass
+Feature2345,Propionyllevocarnitine,C10 H19 N O4,217.13121,218.13849,5.686,mzVault and mzCloud,Full match
+Feature2344,D-Serine,C3 H7 N O3,105.04244,106.04972,1.187,mzVault and mzCloud,Full match
+Feature2343,D-(+)-Cellobiose,C12 H22 O11,359.1425,360.14977,1.436,mzVault and mzCloud,Invalid mass
+Feature2342,D-(+)-Cellobiose,C12 H22 O11,359.14243,360.14971,1.464,mzVault and mzCloud,Invalid mass
+Feature2341,L-Tyrosine,C9 H11 N O3,164.04721,165.05451,4.285,mzVault and mzCloud,Invalid mass
+Feature2340,L-Tyrosine,C9 H11 N O3,181.07373,182.08101,4.281,mzVault and mzCloud,Full match
+Feature2339,sn-glycero-3-Phosphocholine,C8 H20 N O6 P,257.1025,258.10978,1.267,mzVault,Full match
+Feature2338,O-Acetyl-L-carnitine,C9 H17 N O4,203.11557,204.12285,2.388,mzVault and mzCloud,Full match
+Feature2337,Uridine,C9 H12 N2 O6,244.06931,245.07659,4.747,mzVault,Full match
+Feature2336,Citicoline,C14 H26 N4 O11 P2,488.10684,489.11412,1.464,mzVault and mzCloud,Full match
+Feature2335,2'-Deoxyadenosine,C10 H13 N5 O3,251.10164,252.10891,6.477,mzVault and mzCloud,Full match
+Feature2334,L-Cystine,C6 H12 N2 O4 S2,240.02361,241.03089,1.173,mzVault and mzCloud,Full match
+Feature2333,L-Glutathione oxidized,C20 H32 N6 O12 S2,612.15152,613.1588,5.586,mzVault and mzCloud,Full match
+Feature2332,D-Proline,C5 H9 N O2,115.06316,116.07044,1.47,mzVault and mzCloud,Full match
+Feature2331,L-Tryptophan,C11 H12 N2 O2,187.06318,205.09698,8.831,mzVault and mzCloud,Invalid mass
+Feature2330,L-Asparagine,C4 H8 N2 O3,115.02682,116.03408,1.206,mzVault and mzCloud,Invalid mass
+Feature2329,L-Asparagine,C4 H8 N2 O3,132.05335,133.06063,1.195,mzVault and mzCloud,Full match
+Feature2328,Betaine,C5 H11 N O2,117.07882,118.0861,1.312,mzVault and mzCloud,Full match
+Feature2327,D-Phenylalanine,C9 H11 N O2,148.05231,166.08613,7.302,mzVault and mzCloud,Invalid mass
+Feature2326,5-Aminovaleric acid,C5 H11 N O2,100.05231,118.08613,1.666,mzVault and mzCloud,Invalid mass
+Feature2325,D-Pantothenate,C9 H17 N O5,219.1105,220.11778,8.234,mzVault,Full match
+Feature2324,Maltotriose,C18 H32 O16,504.16862,522.20244,1.545,mzVault and mzCloud,Full match
+Feature2323,Maltotriose,C18 H32 O16,521.19512,522.2024,1.544,mzVault and mzCloud,Invalid mass
+Feature2322,4-Aminosalicylic acid,C7 H7 N O3,153.04252,154.0498,8.618,mzVault and mzCloud,Full match
+Feature2321,D-Glutamic acid,C5 H9 N O4,147.05304,148.06032,1.492,mzVault and mzCloud,Full match
+Feature2320,L-Pyroglutamic acid,C5 H7 N O3,129.04248,130.04976,3.4,mzVault and mzCloud,Full match
+Feature2319,Phosphocholine,C5 H14 N O4 P,183.06587,184.07314,1.224,mzVault,Full match
+Feature2318,Guanosine,C10 H13 N5 O5,283.09143,284.0987,6.546,mzVault,Full match
+Feature2317,L-Norleucine,C6 H13 N O2,131.09449,132.10177,4.201,mzVault and mzCloud,Full match
+Feature2316,L-Norleucine,C6 H13 N O2,131.09452,132.10179,4.106,mzVault and mzCloud,Full match
+Feature2315,Phosphocholine,C5 H14 N O4 P,183.06586,184.07313,1.289,mzVault,Full match
+Feature2314,Phosphocholine,C5 H14 N O4 P,183.06589,184.07316,1.358,mzVault,Full match
+Feature2313,Creatinine,C4 H7 N3 O,113.05876,114.06604,1.336,mzVault and mzCloud,Full match
+Feature2312,D-α-aminobutyric acid,C4 H9 N O2,103.06322,104.0705,1.404,mzVault and mzCloud,Full match
+Feature2311,2'-Deoxycytidine,C9 H13 N3 O4,227.09045,228.09773,2.917,mzVault,Full match
+Feature2310,Xanthine,C5 H4 N4 O2,152.03332,153.0406,4.094,mzVault,Full match
+Feature2309,Xanthine,C5 H4 N4 O2,135.00682,153.04064,4.095,mzVault,Invalid mass
+Feature2308,Uridine-5'-phosphate,C9 H13 N2 O9 P,324.0357,325.04298,2.175,mzVault,Full match
+Feature2307,Guanine,C5 H5 N5 O,151.04931,152.05659,2.329,mzVault and mzCloud,Full match
+Feature2306,L-Carnitine,C7 H15 N O3,161.10504,162.11232,1.279,mzVault and mzCloud,Full match
+Feature2305,Taurine,C2 H7 N O3 S,125.01453,126.0218,1.212,mzVault and mzCloud,Full match
+Feature2304,Adenosine,C10 H13 N5 O4,267.09646,268.10374,6.299,mzVault and mzCloud,Full match
+Feature2303,D-(+)-Glucose,C6 H12 O6,197.08971,198.09699,1.3,mzVault and mzCloud,Invalid mass
+Feature2302,D-(+)-Glucose,C6 H12 O6,180.06316,198.09698,1.298,mzVault and mzCloud,Full match
+Feature2301,D-Arginine,C6 H14 N4 O2,157.085,158.09231,1.136,mzVault and mzCloud,Invalid mass
+Feature2300,D-Arginine,C6 H14 N4 O2,174.11156,175.11884,1.137,mzVault and mzCloud,Full match
+Feature2299,Creatine,C4 H9 N3 O2,131.06934,132.07661,1.429,mzVault and mzCloud,Full match
+Feature2298,Creatine,C4 H9 N3 O2,131.06934,132.07662,1.5,mzVault and mzCloud,Full match
+Feature2297,N-Acetyl-L-methionine,C7 H13 N O3 S,191.06145,192.06873,9.243,mzVault,Full match
+Feature2296,DL-Kynurenine,C10 H12 N2 O3,191.0581,209.09192,6.81,mzVault and mzCloud,Invalid mass
+Feature2295,DL-Kynurenine,C10 H12 N2 O3,208.08462,209.0919,6.817,mzVault and mzCloud,Full match
+Feature2294,L-Pyroglutamic acid,C5 H7 N O3,129.0425,130.04978,3.138,mzVault and mzCloud,Full match
+Feature2293,L-Carnosine,C9 H14 N4 O3,226.10638,227.11366,1.135,mzVault and mzCloud,Full match
+Feature2292,L-Carnosine,C9 H14 N4 O3,209.07979,227.11362,1.133,mzVault and mzCloud,Invalid mass
+Feature2291,Maltotriose,C18 H32 O16,521.19533,522.20261,1.737,mzVault and mzCloud,Invalid mass
+Feature2290,Maltotriose,C18 H32 O16,504.1689,522.20273,1.737,mzVault and mzCloud,Full match
+Feature2289,4-Guanidinobutyric acid,C5 H11 N3 O2,145.08504,146.09231,2.197,mzVault and mzCloud,Full match
+Feature2288,Acetylcholine,C7 H16 N O2,145.11013,146.11741,1.418,mzVault and mzCloud,Invalid mass
+Feature2287,Acetylcholine,C7 H16 N O2,128.08359,146.11742,1.418,mzVault and mzCloud,Invalid mass
+Feature2286,N-α-Acetyl-L-glutamine,C7 H12 N2 O4,188.07962,189.08690000000001,2.438,mzVault,Full match
+Feature2285,N-Acetyl-DL-serine,C5 H9 N O4,147.05309,148.06036,1.981,mzVault and mzCloud,Full match
+Feature2284,Nicotinic acid,C6 H5 N O2,123.03193,124.03921,2.645,mzVault and mzCloud,Full match
+Feature2283,Thymine,C5 H6 N2 O2,126.0428,127.05008,5.751,mzVault and mzCloud,Full match
+Feature2282,Creatinine,C4 H7 N3 O,113.05881,114.06609,1.474,mzVault and mzCloud,Full match
+Feature2281,Phenylac-Gly-OH,C10 H11 N O3,193.07371,194.08099,10.719,mzVault and mzCloud,Full match
+Feature2280,5-Methylcytidine,C10 H15 N3 O5,257.10098,258.10826,3.375,mzVault,Full match
+Feature2279,N-Acetyl-D-mannosamine,C8 H15 N O6,221.08973,222.09701,1.491,mzVault and mzCloud,Full match
+Feature2278,N-Acetyl-D-mannosamine,C8 H15 N O6,221.08974,222.09702,1.543,mzVault and mzCloud,Full match
+Feature2277,trans-Urocanic Acid,C6 H6 N2 O2,138.04284,139.05012,2.594,mzVault and mzCloud,Full match
+Feature2276,β-Alanine,C3 H7 N O2,89.04762,90.0549,1.167,mzVault and mzCloud,Full match
+Feature2275,Niacinamide,C6 H6 N2 O,122.04788,123.05516,2.977,mzVault and mzCloud,Full match
+Feature2274,Creatine,C4 H9 N3 O2,131.06936,132.07663,1.587,mzVault and mzCloud,Full match
+Feature2273,Imidazole-4(5)-acetic acid,C5 H6 N2 O2,126.04279,127.05007,1.427,mzVault and mzCloud,Full match
+Feature2272,N-Acetylglycine,C4 H7 N O3,117.0425,118.04977,2.214,mzVault,Full match
+Feature2271,7-Methylguanine,C6 H7 N5 O,165.06497,166.07225,3.653,mzVault and mzCloud,Full match
+Feature2270,Choline,C5 H13 N O,103.09958,104.10686,1.194,mzVault and mzCloud,Full match
+Feature2269,Hippuric acid,C9 H9 N O3,179.0581,180.06538,10.013,mzVault and mzCloud,Full match
+Feature2268,N-Acetyl-L-arginine,C8 H16 N4 O3,216.12208,217.12935,2.382,mzVault and mzCloud,Full match
+Feature2267,Hypoxanthine,C5 H4 N4 O,136.03839,137.04567,3.313,mzVault and mzCloud,Full match
+Feature2266,Trigonelline,C7 H7 N O2,137.04757,138.05485,1.447,mzVault and mzCloud,Full match
+Feature2265,D-(+)-Xylose,C5 H10 O5,172.0346,173.04188,1.371,mzVault,Invalid mass
+Feature2264,N-Acetylneuraminic acid,C11 H19 N O9,309.10579,310.11306,1.449,mzVault and mzCloud,Full match
+Feature2263,Hypoxanthine,C5 H4 N4 O,136.03842,137.0457,3.445,mzVault and mzCloud,Full match
+Feature2262,Adenine,C5 H5 N5,135.05441,136.06169,2.234,mzVault and mzCloud,Full match
+Feature2261,L(-)-Pipecolinic acid,C6 H11 N O2,129.07888,130.08616,2.183,mzVault and mzCloud,Full match
+Feature2260,L(-)-Pipecolinic acid,C6 H11 N O2,129.07887,130.08614,2.37,mzVault,Full match
+Feature2259,2-Deoxy-D-glucose,C6 H12 O5,181.09487,182.10215,1.523,mzVault,Invalid mass
+Feature2258,2-Deoxy-D-glucose,C6 H12 O5,164.06833,182.10216,1.524,mzVault,Full match
+Feature2257,2-Deoxy-D-glucose,C6 H12 O5,164.06831,182.10213,1.55,mzVault,Full match
+Feature2256,Allantoin,C4 H6 N4 O3,158.04388,159.05116,1.38,mzVault,Full match
+Feature2255,2′-Deoxyguanosine,C10 H13 N5 O4,267.09656,268.10383,6.828,mzVault and mzCloud,Full match
+Feature2254,N-Acetyl-D-galactosamine,C8 H15 N O6,221.08974,222.09702,1.378,mzVault and mzCloud,Full match
+Feature2253,1-Methyl adenosine,C11 H15 N5 O4,281.11217,282.11945,7.825,mzVault and mzCloud,Full match
+Feature2252,Glycyl-L-leucine,C8 H16 N2 O3,188.11593,189.12321,7.803,mzVault and mzCloud,Full match
+Feature2251,Glycyl-L-leucine,C8 H16 N2 O3,171.0894,189.12323,7.803,mzVault and mzCloud,Invalid mass
+Feature2250,N-Acetyl-L-Lysine,C8 H16 N2 O3,188.11596,189.12324,1.561,mzVault,Full match
+Feature2249,D-(−)-Arabinose,C5 H10 O5,167.07925,168.08653,1.371,mzVault,Invalid mass
+Feature2248,L-Carnitine,C7 H15 N O3,161.10507,162.11235,1.345,mzVault and mzCloud,Full match
+Feature2247,2-Pyrrolidinone,C4 H7 N O,85.05274,86.06002,4.97,mzVault,Full match
+Feature2246,Uric acid,C5 H4 N4 O3,168.02827,169.03554,3.084,mzVault and mzCloud,Full match
+Feature2245,4-(Acetylamino)butanoic acid,C6 H11 N O3,145.07381,146.08108,6.121,mzVault and mzCloud,Full match
+Feature2244,N-Acetyl-L-Lysine,C8 H16 N2 O3,188.11598,189.12326,1.661,mzVault,Full match
+Feature2243,(S)-(+)-5-Hydroxymethyl-2-pyrrolidinone,C5 H9 N O2,115.06323,116.0705,3.145,mzVault and mzCloud,Full match
+Feature2242,Bicine,C6 H13 N O4,163.08431,164.09159,1.291,mzVault and mzCloud,Full match
+Feature2241,Indole-3-carboxaldehyde,C9 H7 N O,145.05267,146.05994,12.165,mzVault and mzCloud,Full match
+Feature2240,N-Acetylneuraminic acid,C11 H19 N O9,309.10576,310.11304,1.406,mzVault,Full match
+Feature2239,D-Lysine,C6 H14 N2 O2,129.07889,130.08616,1.058,mzVault,Invalid mass
+Feature2238,NA,C20 H35 N O6,385.24623,386.25351,17.382,NA,No results
+Feature2237,NA,C20 H33 N O5,367.23567,368.24295,17.381,NA,No results
+Feature2236,Tiglic acid,C5 H8 O2,100.05227,101.05959,1.561,mzCloud,No results
+Feature2235,12-Oxo phytodienoic acid,C18 H28 O3,274.19308,275.20035,18.152,mzCloud,No results
+Feature2234,NA,C4 H4 O7 P2,225.94396,226.95124,1.11,NA,No results
+Feature2233,NA,C5 H9 N O3,131.05808,132.06535,1.256,NA,No results
+Feature2232,NA,C18 H33 N O,279.25596,280.26325,21.029,NA,No results
+Feature2231,[Similar to: 8-{3-Oxo-2-[(2E)-2-penten-1-yl]-1-cyclopenten-1-yl}octanoic acid; ΔMass: 36.0209 Da],C18 H32 O5,328.22476,329.23205,18.152,NA,No results
+Feature2230,NA,C18 H30 O2,278.22434,296.25816,19.638,NA,No results
+Feature2229,NA,C18 H30 O,262.22948,263.23676,21,NA,No results
+Feature2228,NA,C20 H31 N O4,349.22515,350.23242,17.381,NA,No results
+Feature2227,NA,C18 H30 O2,278.22438,296.25821,19.463,NA,No results
+Feature2226,"9S,13R-12-Oxophytodienoic acid",C18 H28 O3,292.20362,293.2109,18.153,mzCloud,No results
+Feature2225,NA,C6 H12 O6,180.06318,198.097,1.205,NA,No results
+Feature2224,NA,C18 H30 O,262.22945,280.26328,19.442,NA,No results
+Feature2223,NA,C10 H16 N2 O4,228.11078,229.11806,1.563,NA,No results
+Feature2222,NA,C10 H22 N2 O4,234.15771,235.16499,1.309,NA,No results
+Feature2221,Acetohydroxamic acid,C2 H5 N O2,75.03201,76.03929,1.172,mzCloud,No results
+Feature2220,NA,C18 H30 O2,278.22435,279.23162,19.351,NA,No results
+Feature2219,NA,NA,241.91787,242.92514,1.115,NA,No results
+Feature2218,NA,C20 H33 N O5,367.23562,368.2429,16.774,NA,No results
+Feature2217,Hypotaurine,C2 H7 N O2 S,109.01961,110.02689,1.235,mzCloud,No results
+Feature2216,Sulfadiazine,C10 H10 N4 O2 S,250.05227,251.05955,8.37,mzCloud,No results
+Feature2215,NA,C6 H15 N2 O6 P,242.06657,243.07385,1.146,NA,No results
+Feature2214,Hypoxanthine,C5 H4 N4 O,136.0384,137.04567,6.534,mzCloud,No results
+Feature2213,NA,C18 H30 O,262.22945,263.23675,19.627,NA,No results
+Feature2212,Inosine,C10 H12 N4 O5,268.08053,269.08781,6.534,mzCloud,No results
+Feature2211,NA,C18 H30 O2,278.22441,296.25824,19.794,NA,No results
+Feature2210,NA,C7 H15 N O4,177.09993,178.10721,9.793,NA,No results
+Feature2209,NA,C18 H30 O,262.22946,280.26329,19.543,NA,No results
+Feature2208,NA,C10 H17 N3 O6,275.11148,276.11876,1.515,NA,No results
+Feature2207,NA,C7 H15 N O3 S,193.07709,194.08436,11.292,NA,No results
+Feature2206,1-Dodecyl-2-pyrrolidinone,C16 H31 N O,236.2138,254.24763,20.728,mzCloud,No results
+Feature2205,NA,C7 H14 N2 O3,174.10029,175.10757,1.561,NA,No results
+Feature2204,NA,C2 H3 P S,89.96928,90.97656,1.11,NA,No results
+Feature2203,NA,C19 H32 O5 S2,404.1675,405.17478,18.151,NA,No results
+Feature2202,NA,C14 H18 N8 O4 S2,426.08749,427.09477,1.534,NA,No results
+Feature2201,NA,C4 H10 O3,106.06287,124.09669,3.376,NA,No results
+Feature2200,NA,C22 H46 N2 O,354.36082,355.3681,18.341,NA,No results
+Feature2199,NA,C9 H12 O2,152.08365,170.11748,11.839,NA,No results
+Feature2198,NA,C18 H30 O4,310.21419,311.22146,18.152,NA,No results
+Feature2197,NA,C8 H8 O7 S,247.99883,266.03265,6.403,NA,No results
+Feature2196,NA,C15 H31 N3 O4,317.23284,318.24011,19.639,NA,No results
+Feature2195,NA,C8 H6,102.04681,120.08064,7.301,NA,No results
+Feature2194,12-Oxo phytodienoic acid,C18 H28 O3,274.19311,275.20039,17.749,mzCloud,No results
+Feature2193,NA,C16 H27 N7 O3 S2,429.16271,430.16999,17.381,NA,No results
+Feature2192,NA,NA,257.8918,258.89908,1.119,NA,No results
+Feature2191,NA,C6 H5 N6 O9 P3 S,429.90599,430.91327,1.109,NA,No results
+Feature2190,NA,C8 H17 N O6,223.10537,224.11265,1.169,NA,No results
+Feature2189,5-Hydroxylysine,C6 H14 N2 O3,162.10033,163.10761,1.056,mzCloud,No results
+Feature2188,Zolazepam,C15 H15 F N4 O,286.12275,287.13003,10.323,mzCloud,No results
+Feature2187,NA,C9 H14 O2,154.09931,155.10658,11.944,NA,No results
+Feature2186,NA,C2 H6 O8,158.00577,159.01305,17.233,NA,No results
+Feature2185,L-Cystathionine,C7 H14 N2 O4 S,222.0672,223.07448,1.166,mzCloud,No results
+Feature2184,NA,C2 H6 O8,158.00578,159.01305,17.512,NA,No results
+Feature2183,NA,C22 H45 N O6,419.32434,442.31353,19.564,NA,No results
+Feature2182,NA,C20 H31 N O4,349.22512,350.23239,16.774,NA,No results
+Feature2181,NA,C18 H34 O2,282.2557,283.26298,20.638,NA,No results
+Feature2180,NA,C20 H41 N O5,375.29811,376.30541,19.538,NA,No results
+Feature2179,NA,C7 H11 N O3,157.07372,175.10754,1.56,NA,No results
+Feature2178,NA,C21 H35 N O6 S2,461.18896,462.19623,17.382,NA,No results
+Feature2177,NA,C9 H15 N3 O2 S,229.08825,230.09553,1.546,NA,No results
+Feature2176,"9S,13R-12-Oxophytodienoic acid",C18 H28 O3,292.20365,293.21093,17.748,mzCloud,No results
+Feature2175,NA,C9 H13 N O4,199.08429,200.09157,3.101,NA,No results
+Feature2174,NA,C9 H17 N O3,187.12069,188.12797,11.839,NA,No results
+Feature2173,"N6,N6,N6-Trimethyl-L-lysine",C9 H20 N2 O2,188.15234,189.15961,1.127,mzCloud,No results
+Feature2172,Adenosine 5'-monophosphate,C10 H14 N5 O7 P,347.0629,348.07017,2.786,mzCloud,No results
+Feature2171,Methionine,C5 H11 N O2 S,132.02442,133.03169,2.494,mzCloud,No results
+Feature2170,NA,C6 H8 N2 O8 P2 S2,361.91872,362.926,1.11,NA,No results
+Feature2169,NA,C8 H18 N6 O4,262.13873,263.146,1.429,NA,No results
+Feature2168,NA,C24 H50 N O7 P,495.33217,496.33944,20.875,NA,No results
+Feature2167,NA,C10 H14 N2 O3,210.10028,211.10756,7.576,NA,No results
+Feature2166,NA,C20 H33 N O5,367.23562,368.24289,17.094,NA,No results
+Feature2165,NA,C18 H26 O2,274.1931,275.20037,17.96,NA,No results
+Feature2164,NA,NA,157.95664,158.96392,1.11,NA,No results
+Feature2163,NA,C8 H14 N6 O2 S2,290.06312,291.0704,14.471,NA,No results
+Feature2162,"9S,13R-12-Oxophytodienoic acid",C18 H28 O3,292.20362,293.2109,17.961,mzCloud,No results
+Feature2161,NA,C8 H14 N6 O2,226.11761,227.12488,1.337,NA,No results
+Feature2160,NA,NA,111.99243,112.99971,1.333,NA,No results
+Feature2159,1-Dodecyl-2-pyrrolidinone,C16 H31 N O,253.24038,254.24766,20.728,mzCloud,No results
+Feature2158,NA,C19 H32 O4,324.22986,325.23714,18.152,NA,No results
+Feature2157,NA,C21 H44 N2 O,340.34508,341.35236,17.953,NA,No results
+Feature2156,NA,C11 H21 N O4,231.14686,232.15414,14.112,NA,No results
+Feature2155,NA,C7 H10 N2 O3,170.06899,171.07627,1.557,NA,No results
+Feature2154,NA,C14 H31 N4 O P,302.22437,303.23165,20.006,NA,No results
+Feature2153,NA,C5 H14 N O6 P,215.05566,216.06294,1.228,NA,No results
+Feature2152,NA,C4 H9 N,71.07349,72.08077,2.027,NA,No results
+Feature2151,NA,C18 H24 O,256.1825,257.18978,18.153,NA,No results
+Feature2150,NA,C3 H O7 P3 S,273.86574,274.87302,1.121,NA,No results
+Feature2149,NA,C18 H30 O,262.22948,280.26331,19.762,NA,No results
+Feature2148,NA,C18 H30 O,262.22946,280.26328,20.201,NA,No results
+Feature2147,NA,NA,121.91707,122.92435,1.12,NA,No results
+Feature2146,NA,C6 H10 O5,162.05265,180.08647,1.298,NA,No results
+Feature2145,NA,C8 H9 N2 O15 P3 S,497.89344,498.90071,1.108,NA,No results
+Feature2144,NA,C20 H33 N O6,383.23055,384.23782,16.803,NA,No results
+Feature2143,NA,C15 H33 N3 O4,319.24852,320.25579,19.443,NA,No results
+Feature2142,NA,C8 H15 N3 O5 S2,297.0451,298.05238,1.188,NA,No results
+Feature2141,NA,C7 H9 N O5,187.04785999999999,205.08168,1.422,NA,No results
+Feature2140,NA,C7 H5 N8 O15 P3 S,565.8808,566.88808,1.106,NA,No results
+Feature2139,1-Methylhistidine,C7 H11 N3 O2,169.08504,170.09232,1.147,mzCloud,No results
+Feature2138,NA,C24 H49 N O7,463.35051,464.35775,19.598,NA,No results
+Feature2137,NA,C10 H14 N2 O6,258.08493,259.09219,1.514,NA,No results
+Feature2136,NA,C4 H7 N O2 S,133.01961,134.02689,1.541,NA,No results
+Feature2135,NA,C20 H35 N O6,385.24618,386.25346,17.094,NA,No results
+Feature2134,NA,C3 H6 N8,154.07168,177.06088,1.074,NA,No results
+Feature2133,Dihydrothymine,C5 H8 N2 O2,128.05844,129.06572,1.394,mzCloud,No results
+Feature2132,NA,C5 H11 N,85.0891,86.09638,4.534,NA,No results
+Feature2131,NA,C18 H26 O2,274.19311,275.20039,17.382,NA,No results
+Feature2130,NA,C8 H13 N O3,171.0895,172.09678,8.62,NA,No results
+Feature2129,NA,C18 H29 N6 O11 P,536.16111,537.16838,6.533,NA,No results
+Feature2128,NA,C22 H45 N O5,403.32948,426.3187,20.508,NA,No results
+Feature2127,NA,C18 H30 O5,326.20914,327.21644,17.994,NA,No results
+Feature2126,NA,C7 H12 O4,160.07341,178.10724,9.795,NA,No results
+Feature2125,NA,C6 H14 O4,150.0891,151.09639,6.863,NA,No results
+Feature2124,NA,C7 H15 O9 P,274.04507,275.05235,1.253,NA,No results
+Feature2123,NA,C24 H49 N O6,447.35565,470.34486,20.512,NA,No results
+Feature2122,16α-Hydroxydehydroepiandrosterone,C19 H28 O3,321.23026,322.23754,17.381,mzCloud,No results
+Feature2121,NA,C9 H N6 O8 P3 S,445.87989,446.88717,1.114,NA,No results
+Feature2120,NA,C11 H20 N2 O8,308.12174,309.12901,1.356,NA,No results
+Feature2119,NA,C19 H30 O3,306.2193,307.22658,18.154,NA,No results
+Feature2118,2-Aminoadipic acid,C6 H11 N O4,161.06869,162.07597,1.485,mzCloud,No results
+Feature2117,NA,NA,701.85542,702.8627,1.107,NA,No results
+Feature2116,NA,C5 H9 N O S,131.04037,132.04764,11.292,NA,No results
+Feature2115,L-(+)-Citrulline,C6 H13 N3 O3,197.08152,198.0888,1.364,mzCloud,No results
+Feature2114,NA,C11 H18 O2,182.13052,200.16434,14.727,NA,No results
+Feature2113,NA,C14 H32 N5 O3 P,349.2251,350.23237,17.095,NA,No results
+Feature2112,NA,C14 H29 N O,227.22474,228.23201,20.472,NA,No results
+Feature2111,NA,C23 H48 N2 O,368.37644,369.38372,18.819,NA,No results
+Feature2110,NA,C21 H44 N2 O2,356.34007,357.34734,17.67,NA,No results
+Feature2109,NA,C10 H14 N2 O5,242.09001,243.09728,1.562,NA,No results
+Feature2108,"3-(propan-2-yl)-octahydropyrrolo[1,2-a]pyrazine-1,4-dione",C10 H16 N2 O2,196.12099,197.12827,10.214,mzCloud,No results
+Feature2107,NA,C14 H5 N8 O12 P3 S2,633.86812,634.8754,1.107,NA,No results
+Feature2106,NA,C9 H4 N2 O7 P2 S2,377.8926,378.89988,1.114,NA,No results
+Feature2105,NA,C18 H33 N O2,295.25094,296.25823,19.638,NA,No results
+Feature2104,NA,C10 H16 O3,184.10977,202.1436,11.838,NA,No results
+Feature2103,NA,C18 H35 N O2,297.26658,298.27384,20.201,NA,No results
+Feature2102,NA,C13 H8 N2 O2,224.05854,225.06582,15.425,NA,No results
+Feature2101,NA,C10 H17 N O2,183.12578,184.13305,13.3,NA,No results
+Feature2100,NA,C12 H19 N3 O5,285.13228,286.13956,2.418,NA,No results
+Feature2099,NA,C8 H15 N O3,173.105,174.11228,10.176,NA,No results
+Feature2098,NA,C6 H11 N4 O3 P S,250.02908,251.03636,1.211,NA,No results
+Feature2097,"N3,N4-Dimethyl-L-arginine",C8 H18 N4 O2,202.14278,203.15005,1.481,mzCloud,No results
+Feature2096,NA,C3 H8 N2 O6 P2 S2,293.93132,294.93859,1.11,NA,No results
+Feature2095,NA,C10 H16 N2 O4,228.11086,229.11813,1.945,NA,No results
+Feature2094,1-Dodecyl-2-pyrrolidinone,C16 H31 N O,253.24037,254.24765,20.808,mzCloud,No results
+Feature2093,NA,C5 H5 N8 O4 P3 S4,461.85386,462.86114,1.118,NA,No results
+Feature2092,NA,C16 H30 N6 O3 S2,418.1832,419.19047,17.749,NA,No results
+Feature2091,Uracil,C4 H4 N2 O2,95.00058,113.03441,4.749,mzCloud,No results
+Feature2090,L-Pyroglutamic acid,C5 H7 N O3,129.04245,130.04973,1.286,mzCloud,No results
+Feature2089,NA,C9 H18 N2 O4,218.12647,219.13375,1.364,NA,No results
+Feature2088,NA,C8 H15 N O5,205.09483,206.1021,1.17,NA,No results
+Feature2087,NA,C19 H27 N5 O2,357.21496,358.22223,15.885,NA,No results
+Feature2086,δ-Valerolactam,C5 H9 N O,99.06833,100.07561,7.372,mzCloud,No results
+Feature2085,NA,C7 H15 N O5,193.09487,194.10214,1.358,NA,No results
+Feature2084,NA,C10 H19 N O2,185.14142,186.1487,13.43,NA,No results
+Feature2083,NA,C24 H50 N2 O,382.39207,383.39935,19.036,NA,No results
+Feature2082,NA,C18 H33 N O2,295.25095,296.25822,19.35,NA,No results
+Feature2081,NA,C30 H62 N5 O4 P S,619.429,620.43628,20.233,NA,No results
+Feature2080,NA,C7 H14 N2 O3,174.10032,175.1076,1.695,NA,No results
+Feature2079,Isobutyric acid,C4 H8 O2,88.05239,89.05966,3.376,mzCloud,No results
+Feature2078,NA,C21 H27 N5 O,365.21997,366.22725,16.803,NA,No results
+Feature2077,2-Aminoadipic acid,C6 H11 N O4,144.04215,162.07598,1.484,mzCloud,No results
+Feature2076,NA,C10 H19 N O3,201.13629,202.14357,13.3,NA,No results
+Feature2075,NA,C22 H35 N7 O9,541.24943,542.25671,6.646,NA,No results
+Feature2074,NA,C4 H8 N10,196.09344,197.10073,1.133,NA,No results
+Feature2073,NA,C12 H21 N O2,211.15705,212.16432,15.694,NA,No results
+Feature2072,NA,C12 H24 N2 O8,324.15307,325.16034,1.057,NA,No results
+Feature2071,NA,C33 H27 N7 O2 P2,615.16899,616.17627,17.146,NA,No results
+Feature2070,NA,C25 H52 N2 O2,412.40247,413.40974,19.091,NA,No results
+Feature2069,NA,C9 H O12 P3,393.8665,394.87377,1.118,NA,No results
+Feature2068,NA,C20 H37 N O6,387.26181,388.26909,16.121,NA,No results
+Feature2067,NA,C26 H53 N O8,507.37665,508.38397,19.619,NA,No results
+Feature2066,NA,C5 H8,68.06256,86.09639,4.201,NA,No results
+Feature2065,NA,C12 H23 N O3,229.16761,230.17489,15.695,NA,No results
+Feature2064,N-(9-oxodecyl)acetamide,C12 H23 N O2,213.17269,214.17997,15.844,mzCloud,No results
+Feature2063,NA,C20 H30 O2,302.22436,303.23164,20.151,NA,No results
+Feature2062,NA,C9 H2 Cl O15 P3,477.82782,478.83509,1.121,NA,No results
+Feature2061,NA,NA,189.90446,190.91173,1.12,NA,No results
+Feature2060,NA,C16 H26 N6 O3,350.20675,351.21403,17.751,NA,No results
+Feature2059,NA,NA,103.99591,105.00318,0.977,NA,No results
+Feature2058,NA,C11 H20 O4,216.13596,217.14324,15.667,NA,No results
+Feature2057,NA,NA,97.97679,98.98407,1.247,NA,No results
+Feature2056,NA,C26 H36 N10 O6,584.28033,585.2876,9.628,NA,No results
+Feature2055,NA,C18 H30 O,262.22949,280.26332,19.358,NA,No results
+Feature2054,Cytidine,C9 H13 N3 O5,486.17071,487.17799,2.301,mzCloud,No results
+Feature2053,a-Pyrrolidinohexanophenone,C16 H23 N O,245.17366,246.18094,1.163,mzCloud,No results
+Feature2052,NA,C9 H14 O3,170.09414,188.12795,10.177,NA,No results
+Feature2051,δ-Valerolactam,C5 H9 N O,82.04176,100.07558,1.561,mzCloud,No results
+Feature2050,NA,C18 H37 N O4,331.27196,354.26117,19.472,NA,No results
+Feature2049,NA,C24 H45 N O6,443.32428,444.33156,20.181,NA,No results
+Feature2048,NA,C4 H8 N8,168.08731,169.09463,1.073,NA,No results
+Feature2047,NA,C12 H24 O8,296.14689,314.18072,9.895,NA,No results
+Feature2046,NA,C11 H15 N O10,321.06935,322.07662,4.788,NA,No results
+Feature2045,NA,C4 H N4 O7 P3,309.90524,310.91252,1.114,NA,No results
+Feature2044,NA,C18 H24 O2,272.17747,273.18474,17.994,NA,No results
+Feature2043,NA,C18 H30 O3,294.21932,295.22665,19.901,NA,No results
+Feature2042,Bis(4-ethylbenzylidene)sorbitol,C24 H30 O6,414.20399,415.21127,18.099,mzCloud,No results
+Feature2041,DL-Stachydrine,C7 H13 N O2,143.09449,144.10176,1.553,mzCloud,No results
+Feature2040,NA,C18 H33 N O2,295.25091,296.25818,19.795,NA,No results
+Feature2039,DL-Stachydrine,C7 H13 N O2,126.06796,144.10178,1.553,mzCloud,No results
+Feature2038,NA,C18 H37 N O2,299.28227,300.28955,18.504,NA,No results
+Feature2037,NA,C20 H35 N O5,369.25128,370.25856,17.102,NA,No results
+Feature2036,NA,C18 H33 N O,279.25608,280.26335,19.63,NA,No results
+Feature2035,NP-001346,C11 H15 N5 O3 S,297.08934,298.09662,9.15,mzCloud,No results
+Feature2034,NA,C6 H11 O8 P,242.01893,260.05275,1.243,NA,No results
+Feature2033,Proline,C5 H9 N O2,115.0632,116.07047,9.794,mzCloud,No results
+Feature2032,NA,C18 H28 O3,292.20361,310.23744,17.288,NA,No results
+Feature2031,NA,C20 H33 N O4,351.24078,352.24806,17.097,NA,No results
+Feature2030,Guanine,C5 H5 N5 O,134.02271,152.05654,6.544,mzCloud,No results
+Feature2029,NA,C6 H11 N3 O3,173.07969,212.04285,1.353,NA,No results
+Feature2028,NA,C6 H11 N4 O7 P,282.03792,283.0452,1.187,NA,No results
+Feature2027,NA,NA,769.84268,770.84995,1.107,NA,No results
+Feature2026,NA,C20 H34 O5 S2,418.18316,419.19044,18.153,NA,No results
+Feature2025,NA,C18 H32 O5,328.22478,351.21399,17.96,NA,No results
+Feature2024,NA,C17 H26 O2,262.1931,263.20038,17.995,NA,No results
+Feature2023,Uracil,C4 H4 N2 O2,112.02715,113.03443,4.748,mzCloud,No results
+Feature2022,NA,C18 H33 N O,279.25602,280.2633,19.543,NA,No results
+Feature2021,NA,C20 H42 N2 O,326.32959,327.33687,17.414,NA,No results
+Feature2020,NA,C29 H40 O6,484.28225,485.28954,20.641,NA,No results
+Feature2019,NA,C23 H30 N3 O2 P S,443.17837,444.18565,16.774,NA,No results
+Feature2018,NA,C30 H61 N7 O9,663.45535,664.46263,20.241,NA,No results
+Feature2017,NA,C11 H5 N2 O14 P3 S,513.86735,514.87462,1.113,NA,No results
+Feature2016,Kanosamine,C6 H13 N O5,201.06355,202.07082,5.847,mzCloud,No results
+Feature2015,"N3,N4-Dimethyl-L-arginine",C8 H18 N4 O2,202.14277,203.15005,1.53,mzCloud,No results
+Feature2014,NA,C9 H14 N2 O12 P2,404.0018,405.00907,1.527,NA,No results
+Feature2013,NA,C12 H21 N5 O5,315.15417,316.16145,2.689,NA,No results
+Feature2012,NA,C13 H23 N3 O5,301.16352,302.17079,7.287,NA,No results
+Feature2011,NA,C8 H12 N2 O2,168.08976,169.09704,7.62,NA,No results
+Feature2010,NA,C6 H14 N2 O7 S,258.05192,259.0592,1.214,NA,No results
+Feature2009,NA,C8 H4 N6 O17 P2 S2,581.85478,582.86205,1.112,NA,No results
+Feature2008,NA,C5 H11 N O5 S,197.03567,198.04295,1.348,NA,No results
+Feature2007,NA,C9 H15 N O4,201.09996,202.10723,5.894,NA,No results
+Feature2006,NA,C15 H32 N9 O P,385.2462,386.25348,17.297,NA,No results
+Feature2005,NP-017061,C20 H30 O4,351.24078,352.24806,16.476,mzCloud,No results
+Feature2004,NA,C4 H7 N,69.05782,70.06509,1.47,NA,No results
+Feature2003,NA,C9 H15 N O2,169.11023,170.1175,11.841,NA,No results
+Feature2002,NA,C6 H O10 P3,325.87921,326.88649,1.118,NA,No results
+Feature2001,NA,C11 H16 O2,180.11484,198.14867,13.894,NA,No results
+Feature2000,NA,C19 H33 N O6,371.23065,372.23793,16.684,NA,No results
+Feature1999,NA,C12 H19 N3 O5,285.13231,286.13959,3.28,NA,No results
+Feature1998,NA,C7 H14 O6,194.07889,212.11272,2.126,NA,No results
+Feature1997,NA,C8 H14 N2 O7 P2,312.02831,313.03559,1.078,NA,No results
+Feature1996,NA,C7 H9 N O4,171.05298,189.08681,1.375,NA,No results
+Feature1995,NA,C7 H10 N2 O4,186.06382,204.09765,1.502,NA,No results
+Feature1994,NA,C18 H26 O3,290.18802,291.1953,17.635,NA,No results
+Feature1993,NA,C20 H33 N O6,383.23054,384.23782,17.212,NA,No results
+Feature1992,NA,C10 H8 N8 O2,272.07681,273.08409,3.312,NA,No results
+Feature1991,NA,C11 H13 N O3 S,239.0614,240.06868,15.144,NA,No results
+Feature1990,NA,C4 H11 O6 P,186.02915,187.03643,1.506,NA,No results
+Feature1989,NA,C5 H5 N5 O4,199.03317,200.04045,1.126,NA,No results
+Feature1988,NA,C18 H29 N O5,339.20441,340.21169,15.887,NA,No results
+Feature1987,NA,C8 H17 N O2,159.12579,160.13306,10.442,NA,No results
+Feature1986,NA,C H4 O4 P2 S,173.93055,174.93782,1.116,NA,No results
+Feature1985,[Similar to: N-Acetylneuraminic acid; ΔMass: -36.0213 Da],C11 H15 N O7,273.08468,274.09196,1.449,NA,No results
+Feature1984,NA,C8 H10 O2,138.06796,156.10179,10.177,NA,No results
+Feature1983,NA,C18 H26 O3,290.188,291.19527,17.995,NA,No results
+Feature1982,NA,C6 H15 O8 P,246.05021,247.05749,1.361,NA,No results
+Feature1981,NA,C6 H2 Cl O13 P3,409.84046,410.84774,1.121,NA,No results
+Feature1980,NA,C7 H7 N O6 S,232.99923,234.00651,8.619,NA,No results
+Feature1979,NA,C4 H9 N,71.07347,72.08076,0.98,NA,No results
+Feature1978,NA,C9 H17 N O2,171.12586,172.13314,11.946,NA,No results
+Feature1977,NP-013736,C10 H16 N2 O2,179.09441,197.12823,10.076,mzCloud,No results
+Feature1976,NA,C13 H4 N8 O18 P2 S3,717.82937,718.83665,1.111,NA,No results
+Feature1975,NA,C14 H28 O9,340.17309,358.20692,10.51,NA,No results
+Feature1974,12-Oxo phytodienoic acid,C18 H28 O3,274.19311,275.20039,18.101,mzCloud,No results
+Feature1973,NA,C7 H17 N O6,211.10541,212.11269,2.125,NA,No results
+Feature1972,NA,C13 H5 N4 O12 P3 S3,597.82871,598.83599,1.116,NA,No results
+Feature1971,NA,C7 H N8 O11 P3 S2,529.84131,530.84858,1.117,NA,No results
+Feature1970,"9S,13R-12-Oxophytodienoic acid",C18 H28 O3,292.20365,293.21092,18.102,mzCloud,No results
+Feature1969,NA,C11 H22 N6 O4,302.17001,303.17728,1.179,NA,No results
+Feature1968,NA,C22 H4 O16 P2 S2,649.84214,650.84942,1.112,NA,No results
+Feature1967,NA,C20 H37 N O5,371.26694,372.27422,17.556,NA,No results
+Feature1966,Pyridoxine,C8 H11 N O3,169.07384,170.08112,8.145,mzCloud,No results
+Feature1965,"3-(2,3-dihydro-1-benzofuran-5-yl)-1-isopropyldihydro-2,4(1H,3H)-pyrimidinedione",C15 H18 N2 O3,257.10835,275.14218,10.81,mzCloud,No results
+Feature1964,NA,C8 H14 N2 O4,202.09519,203.10246,4.724,NA,No results
+Feature1963,NA,C18 H30 O4,310.21423,311.2215,17.96,NA,No results
+Feature1962,NA,C18 H24 O2,272.17746,273.18473,17.636,NA,No results
+Feature1961,NA,NA,85.9854,86.992679999999993,0.977,NA,No results
+Feature1960,NA,C18 H33 N O2,295.25093,296.25819,19.97,NA,No results
+Feature1959,EPK,C16 H28 N4 O6,169.07372,187.10755,1.545,mzCloud,No results
+Feature1958,NA,C25 H33 N O6 S,475.20456,476.21183,16.773,NA,No results
+Feature1957,NA,C9 H14 N2 O12 P2,404.00188000000003,405.00915,1.598,NA,No results
+Feature1956,NA,C20 H33 N O5,367.23564,368.24292,17.296,NA,No results
+Feature1955,NA,C18 H34 O5,330.24039,331.24768,17.035,NA,No results
+Feature1954,NA,C15 H33 N3 O5 P2 S,429.16273,430.17001,17.094,NA,No results
+Feature1953,Cyclo(leucylprolyl),C11 H18 N2 O2,210.13662,211.1439,12.069,mzCloud,No results
+Feature1952,NA,C13 H27 N8 O5 P,406.18488,407.19216,9.624,NA,No results
+Feature1951,NA,C12 H23 N4 O7 P,366.13174,367.13901,1.222,NA,No results
+Feature1950,NA,C13 H24 N6 O4,328.18562,329.19288,1.561,NA,No results
+Feature1949,NA,C11 H21 N5 O5,303.15402,304.16129,1.197,NA,No results
+Feature1948,NA,C6 H5 N O3 S,170.99895,172.00623,10.119,NA,No results
+Feature1947,5-Hydroxylysine,C6 H14 N2 O3,145.07375,146.08107,1.056,mzCloud,No results
+Feature1946,NA,C8 H12 O2,140.08361,158.11744,10.252,NA,No results
+Feature1945,NA,C8 H15 N4 O6 P S,326.04396,327.05124,1.077,NA,No results
+Feature1944,NA,C6 H18 N2 P2 S,212.06738000000001,213.07466,1.126,NA,No results
+Feature1943,NA,C12 H20 O3,212.14103,230.17485,14.584,NA,No results
+Feature1942,NA,C14 H22 N4 O6,342.15374,343.16102,3.398,NA,No results
+Feature1941,NA,C14 H17 N5 O8,383.10744,384.11472,8.589,NA,No results
+Feature1940,"1,4a-dimethyl-9-oxo-7-(propan-2-yl)-1,2,3,4,4a,9,10,10a-octahydrophenanthrene-1-carboxylic acid",C20 H26 O3,336.16427,337.17155,1.195,mzCloud,No results
+Feature1939,NA,C15 H9 O18 P3 S3,665.81615,666.82343,1.117,NA,No results
+Feature1938,NA,C20 H31 N O5,365.22002,366.22729,16.264,NA,No results
+Feature1937,NA,C12 H29 N4 O P,276.20868,277.21596,17.035,NA,No results
+Feature1936,NA,C31 H53 N5 O5,575.40293,576.41021,20.226,NA,No results
+Feature1935,NP-011220,C11 H18 N2 O2,210.13664,211.14391,11.796,mzCloud,No results
+Feature1934,NA,C8 H13 N8 O P,268.09384,269.10112,6.294,NA,No results
+Feature1933,NA,C22 H28 O5 S,404.16754,405.17482,17.962,NA,No results
+Feature1932,NA,C7 H13 N3 O4,203.09032,204.0976,1.502,NA,No results
+Feature1931,NA,C4 H10 N3 O5 P,211.03561,212.04289,1.355,NA,No results
+Feature1930,NA,C20 H33 N O5 S2,431.17835,432.18562,16.122,NA,No results
+Feature1929,"1-(4-methyl-2-pyridyl)pyrrolidine-2,5-dione",C10 H10 N2 O2,190.06924,191.07651,1.072,mzCloud,No results
+Feature1928,NA,C4 H5 N O,83.03705,84.04433,1.286,NA,No results
+Feature1927,NA,C18 H28 O4,308.19859,309.20587,17.992,NA,No results
+Feature1926,NA,C21 H29 N5 O2,383.23056,384.23784,15.215,NA,No results
+Feature1925,NA,C8 H13 N O6,219.07409,220.08137,1.235,NA,No results
+Feature1924,NA,NA,118.01154,119.01881,0.977,NA,No results
+Feature1923,NA,C14 H23 N3 O6,329.15853,330.1658,9.656,NA,No results
+Feature1922,α-Methylhistamine,C6 H11 N3,108.06864,126.10247,1.035,mzCloud,No results
+Feature1921,NA,C14 H5 N6 O18 P3 S3,733.80322,734.81049,1.114,NA,No results
+Feature1920,NA,C4 H5 N6 O18 P3 S3,613.8026,614.80988,1.12,NA,No results
+Feature1919,NA,C24 H53 N10 O7 P,624.38447,625.39174,20.235,NA,No results
+Feature1918,NA,C3 H7 N3 O2,117.05368,118.06095,1.283,NA,No results
+Feature1917,NA,C13 H24 N2 O,224.18869,225.19596,17.276,NA,No results
+Feature1916,NA,C16 H37 N3 P2 S,365.22001,366.22729,16.91,NA,No results
+Feature1915,NA,C11 H13 N O2 S2,255.03854,256.04582,16.141,NA,No results
+Feature1914,NA,C11 H15 N3 O6,285.09578,324.05892,1.559,NA,No results
+Feature1913,NA,C11 H21 N O4,231.14687,232.15414,7.61,NA,No results
+Feature1912,NA,C8 H13 N O5,203.07919,204.08647,1.493,NA,No results
+Feature1911,NA,C18 H30 O2,278.22437,279.23165,17.934,NA,No results
+Feature1910,NA,C11 H19 N3 O7 S2,369.06616,370.07344,1.45,NA,No results
+Feature1909,NA,C9 H9 O13 P3 S4,545.81532,546.82259,1.12,NA,No results
+Feature1908,NA,C6 H10 O5,162.05267,163.05995,1.558,NA,No results
+Feature1907,NA,C7 H11 N3 O3,185.07992,186.0872,2.286,NA,No results
+Feature1906,UDP-N-acetylglucosamine,C17 H27 N3 O17 P2,607.08114,608.08842,1.546,mzCloud,No results
+Feature1905,NA,C14 H18 N2 O4,278.12652,279.1338,8.269,NA,No results
+Feature1904,NA,C14 H30 N4 O2,286.23659,287.24387,1.557,NA,No results
+Feature1903,NA,C7 H20 N2 O5 P2 S,306.05807,307.06534,11.337,NA,No results
+Feature1902,NA,C20 H35 N O5,369.25125,370.25853,16.123,NA,No results
+Feature1901,NA,C18 H30 O5,326.20918,327.21646,17.634,NA,No results
+Feature1900,N-(4-{(R)-Hydroxy[(3R)-4-(4-methoxybenzyl)-5-oxo-3-morpholinyl]methyl}phenyl)-4-(2-methyl-2-propanyl)benzamide,C30 H34 N2 O5,484.2279,485.23518,6.765,mzCloud,No results
+Feature1899,NA,C35 H68 N9 P3,707.48144,708.48872,20.247,NA,No results
+Feature1898,NA,C16 H21 N3 O5,335.14801,336.15529,8.302,NA,No results
+Feature1897,NA,C17 H29 N5 O6,399.21139,400.21866,7.694,NA,No results
+Feature1896,NA,C10 H19 N O3,201.13629,202.14357,10.741,NA,No results
+Feature1895,NA,C9 H15 N O3,185.1051,186.11237,12.21,NA,No results
+Feature1894,NA,C9 H18 N4 O3,230.13767000000001,231.14495,1.328,NA,No results
+Feature1893,Υ-L-Glutamyl-L-glutamic acid,C10 H16 N2 O7,276.09558,277.10286,2.063,mzCloud,No results
+Feature1892,Adenine,C5 H5 N5,135.05445,136.06172,6.297,mzCloud,No results
+Feature1891,NA,C8 H13 N O5,203.07916,204.08643,1.546,NA,No results
+Feature1890,NA,C21 H33 N O6 S2,459.17329,460.18057,16.803,NA,No results
+Feature1889,NA,C8 H13 N O3,171.08947,172.09675,10.21,NA,No results
+Feature1888,[Similar to: 1-O-(28-Oxo-3-{[pentopyranosyl-(1-2)pentopyranosyl-(1-6)-2-acetamido-2-deoxyhexopyranosyl]oxy}olean-12-en-28-yl)hexopyranose; ΔMass: -882.4979 Da],C8 H13 N O5,203.07918,204.08646,1.381,NA,No results
+Feature1887,NA,C16 H22 O2,246.1618,247.16907,16.851,NA,No results
+Feature1886,NA,NA,785.81656,786.82384,1.11,NA,No results
+Feature1885,Prolinamide,C5 H10 N2 O,114.0792,115.08648,1.057,mzCloud,No results
+Feature1884,NA,C3 H7 Cl N2 O5 S,217.97619,218.98346,0.976,NA,No results
+Feature1883,NA,C19 H34 O3,310.25056,311.25784,19.637,NA,No results
+Feature1882,L-Glutathione (reduced),C10 H17 N3 O6 S,307.08357,308.09084,1.535,mzCloud,No results
+Feature1881,NA,C6 H8 N2 O2,140.0585,141.06578,2.087,NA,No results
+Feature1880,NA,C18 H29 N7 O4,407.22812,408.23539,16.771,NA,No results
+Feature1879,NA,C11 H17 N O5,243.11045,261.14428,9.694,NA,No results
+Feature1878,NA,C13 H32 N5 O4 P,353.22011,354.22739,16.683,NA,No results
+Feature1877,NA,C12 H9 N2 O5 P S2,355.96787,356.97514,6.405,NA,No results
+Feature1876,NA,C11 H19 N O2,197.14138,198.14866,14.585,NA,No results
+Feature1875,NA,C17 H24 O2,260.17756,261.18483,17.543,NA,No results
+Feature1874,Guanine,C5 H5 N5 O,151.04928,152.05656,6.55,mzCloud,No results
+Feature1873,NA,C2 H7 N2 O2 P3 S,215.94318,216.95045,0.977,NA,No results
+Feature1872,NA,C14 H35 N4 O P,306.25573,307.26301,20.494,NA,No results
+Feature1871,NA,C8 H11 N O6,217.05842,235.09224,1.374,NA,No results
+Feature1870,NA,C20 H29 N O4,347.20948,348.21675,16.802,NA,No results
+Feature1869,NA,NA,751.01081,752.01809,18.154,NA,No results
+Feature1868,NA,C11 H21 N O3,215.15193,216.15921,13.3,NA,No results
+Feature1867,S-Adenosylhomocysteine,C14 H20 N6 O5 S,384.12132,385.1286,5.875,mzCloud,No results
+Feature1866,NA,C4 H4 O2,84.02104,85.02835,1.29,NA,No results
+Feature1865,NA,C23 H50 N9 O3 P,531.3768,532.38408,20.213,NA,No results
+Feature1864,NA,C6 H11 N O,113.0839,131.11772,1.562,NA,No results
+Feature1863,NA,C13 H24 N2 O8,336.15306,337.16033,1.486,NA,No results
+Feature1862,NA,C18 H28 O2,276.20876,277.21607,17.971,NA,No results
+Feature1861,NA,C24 H31 N O6 S,461.18898,462.19625,17.094,NA,No results
+Feature1860,NA,C11 H17 N O8,291.09521,292.10249,1.449,NA,No results
+Feature1859,NA,C7 H10 N2 O3,170.06905,171.07632,1.644,NA,No results
+Feature1858,NA,C10 H19 N O3,201.1363,202.14358,11.84,NA,No results
+Feature1857,NA,C18 H30 N7 O11 P,551.17208,552.17936,6.541,NA,No results
+Feature1856,NA,C5 H10 N6 O4,218.07539,219.08267,1.13,NA,No results
+Feature1855,NA,C4 H2 Cl N2 O16 P3 S,493.80182,494.80909,1.123,NA,No results
+Feature1854,NA,C9 H15 N O7,249.08462,250.0919,1.377,NA,No results
+Feature1853,NA,C11 H21 N O7,279.13155,280.13882,1.566,NA,No results
+Feature1852,NA,NA,259.88991,260.89719,1.118,NA,No results
+Feature1851,NA,C24 H53 N7 O7,551.40289,552.41016,19.636,NA,No results
+Feature1850,NA,C11 H21 N3 O5,275.14785,276.15513,1.22,NA,No results
+Feature1849,NA,C18 H28 O4,308.19865,309.20593,17.317,NA,No results
+Feature1848,NA,NA,269.19483,270.2021,1.19,NA,No results
+Feature1847,NA,C9 H19 O11 P,334.06626,335.07354,1.245,NA,No results
+Feature1846,NA,C11 H19 N5 O2,253.15363,254.16091,6.398,NA,No results
+Feature1845,NA,C8 H18 N2 O2,174.13666,175.14394,1.13,NA,No results
+Feature1844,NA,C11 H21 N O3,215.15196,216.15924,14.585,NA,No results
+Feature1843,NA,C11 H5 N6 O15 P3 S4,681.78989,682.79717,1.121,NA,No results
+Feature1842,α-Methylhistamine,C6 H11 N3,125.09519,126.10247,1.038,mzCloud,No results
+Feature1841,NA,C12 H21 N O4 S,275.11889,276.12617,12.841,NA,No results
+Feature1840,NA,C11 H20 N2 O4,244.14215,245.14943,7.121,NA,No results
+Feature1839,NA,C12 H30 N4 O12 P2,484.13325,485.14052,1.147,NA,No results
+Feature1838,NA,C18 H31 N O2,293.23535,294.24256,19.225,NA,No results
+Feature1837,NA,C17 H35 N4 O10 P,486.20707,487.21434,6.305,NA,No results
+Feature1836,NA,C7 H13 N3 O4,203.09038,204.09766,1.563,NA,No results
+Feature1835,NA,C19 H23 N5,321.19384,322.20112,15.887,NA,No results
+Feature1834,NA,C7 H15 N O3,161.10508,162.11236,11.293,NA,No results
+Feature1833,NA,C10 H18 O3,186.12543,187.13271,11.944,NA,No results
+Feature1832,NA,C H2 Cl N4 O7 P3 S,341.85314,342.86042,1.121,NA,No results
+Feature1831,NA,C19 H29 N O2,303.21975,304.22703,17.383,NA,No results
+Feature1830,NA,C9 H15 N3 O5,245.10089,246.10817,1.565,NA,No results
+Feature1829,NA,C10 H16 N2 O6,260.10059,261.10786,1.562,NA,No results
+Feature1828,NA,C11 H19 N5 O2,253.15367,254.16094,6.86,NA,No results
+Feature1827,NA,C10 H20 O7,252.12071,253.12797,9.151,NA,No results
+Feature1826,Cyclo(phenylalanyl-prolyl),C14 H16 N2 O2,244.12091,245.12818,12.605,mzCloud,No results
+Feature1825,NA,C13 H32 N5 O2 P,321.23028,322.23755,16.774,NA,No results
+Feature1824,NA,C19 H35 N7 O9,505.24924,506.25652,6.414,NA,No results
+Feature1823,Indole-3-lactic acid,C11 H11 N O3,205.0737,206.08098,12.101,mzCloud,No results
+Feature1822,NA,NA,402.17227,403.17955,18.152,NA,No results
+Feature1821,NA,C26 H35 O4 P,442.22534,443.23262,16.472,NA,No results
+Feature1820,NA,C9 H15 N3 O5,245.10097,246.10825,2.137,NA,No results
+Feature1819,NA,C24 H26 N4 O3 S3,514.1156,515.12288,18.152,NA,No results
+Feature1818,NA,C15 H31 N O,241.24035,242.24762,20.894,NA,No results
+Feature1817,NA,C10 H14 O3 P2,244.04094,245.04821,1.076,NA,No results
+Feature1816,NA,C11 H21 N O2,199.15706,200.16434,14.725,NA,No results
+Feature1815,NA,C5 H10 N4 O5,206.06411,207.07139,1.071,NA,No results
+Feature1814,Octylphosphonic acid,C8 H19 O3 P,194.10535,195.11262,8.874,mzCloud,No results
+Feature1813,NA,C9 H15 N O6,233.08968,234.09696,1.301,NA,No results
+Feature1812,NA,C10 H21 N O2,187.15704,188.16432,13.602,NA,No results
+Feature1811,NA,C18 H30 O2,278.22439,279.23167,18.331,NA,No results
+Feature1810,NP-019401,C11 H15 N O2,215.09045,216.09772,2.157,mzCloud,No results
+Feature1809,NA,C25 H49 N6 O11 P,640.31775,641.32502,8.032,NA,No results
+Feature1808,NA,C17 H35 N7 S2,401.24095,402.24824,16.147,NA,No results
+Feature1807,NA,C7 H12 N2 O4,188.07958,189.08685,1.374,NA,No results
+Feature1806,NA,C10 H14 O2,166.09924,184.13304,12.513,NA,No results
+Feature1805,NP-003800,C10 H15 N O3,219.0894,220.09668,12.345,mzCloud,No results
+Feature1804,Methionine sulfoxide,C5 H11 N O3 S,165.04583,166.0531,1.325,mzCloud,No results
+Feature1803,Cytosine,C4 H5 N3 O,111.04315,112.05042,2.289,mzCloud,No results
+Feature1802,NA,C11 H20 N2 O4,244.14212,245.14940000000001,6.908,NA,No results
+Feature1801,NA,C4 H11 N O3,121.07376,122.08104,1.144,NA,No results
+Feature1800,NA,C10 H15 N O5,229.09479,247.12861,6.025,NA,No results
+Feature1799,N6-Acetyl-L-lysine,C8 H16 N2 O3,188.11596,189.12324,2.31,mzCloud,No results
+Feature1798,NA,C9 H15 N3 O5,245.101,246.10828,1.774,NA,No results
+Feature1797,NA,C21 H31 N5 O2,385.24626,386.25351,16.05,NA,No results
+Feature1796,NA,C24 H42 N5 O4 P3,557.2441,558.25138,6.474,NA,No results
+Feature1795,NA,C11 H21 N O4,231.14684,232.15412,7.459,NA,No results
+Feature1794,NA,C11 H17 N O8,291.09519,292.10247,1.406,NA,No results
+Feature1793,NA,C20 H37 N O7,403.25673,404.26401,15.752,NA,No results
+Feature1792,NA,C12 H32 N5 P,277.24041,278.24769,19.175,NA,No results
+Feature1791,NA,C8 H12 N2 O3,184.08467,185.09195,5.518,NA,No results
+Feature1790,NA,C11 H30 N6 O8 S,406.1831,407.19037,17.035,NA,No results
+Feature1789,NA,C8 H14 O2,142.09927,160.13309,10.442,NA,No results
+Feature1788,NA,C11 H20 N2 O6,276.1319,277.13917,1.561,NA,No results
+Feature1787,NA,C8 H10 N10 O13 P2,515.9904,516.99767,1.081,NA,No results
+Feature1786,NA,C11 H18 N2 O3,226.13157,227.13885,10.493,NA,No results
+Feature1785,NA,C10 H33 N10 P3 S,418.18322,419.1905,17.96,NA,No results
+Feature1784,NA,C7 H12 O2,128.08363,146.11746,8.597,NA,No results
+Feature1783,NA,C10 H18 N2 O5,246.12137,247.12864,2.117,NA,No results
+Feature1782,NA,C18 H26 O2,274.19306,275.20033,16.774,NA,No results
+Feature1781,NA,C8 H17 N O2,159.1258,160.13308,1.563,NA,No results
+Feature1780,1-Methyladenine,C6 H7 N5,149.06869,150.07596,1.208,mzCloud,No results
+Feature1779,NA,C9 H16 O2,156.11481,174.14864,12.131,NA,No results
+Feature1778,NA,C12 H22 O5,246.14651,247.15379,14.306,NA,No results
+Feature1777,NA,C8 H14 N2 O5,218.09011,219.09739,2.17,NA,No results
+Feature1776,NA,C18 H31 N O,277.24037,278.24765,19.054,NA,No results
+Feature1775,NA,C19 H30 O3,306.21931,307.22659,17.75,NA,No results
+Feature1774,NA,C8 H13 N O5,203.07922,204.0865,1.748,NA,No results
+Feature1773,NA,C18 H22 N9 P S,427.14711,428.15438,16.803,NA,No results
+Feature1772,NA,C13 H24 N10 O4,384.19923,402.23305,11.031,NA,No results
+Feature1771,NA,C21 H31 N7 O4 P2 S2,571.1372,572.14448,17.383,NA,No results
+Feature1770,NA,C10 H7 N O2,173.0475,174.05477,10.704,NA,No results
+Feature1769,NA,C10 H18 N2 O4,230.12641,231.13369,1.469,NA,No results
+Feature1768,NA,NA,459.19367,460.20095,17.382,NA,No results
+Feature1767,NA,C3 H4 N4 O6 S,223.98486,224.99213,1.334,NA,No results
+Feature1766,NA,C17 H22 N2 O7,366.14243,367.1497,7.074,NA,No results
+Feature1765,"3-[(4-hydroxyphenyl)methyl]-octahydropyrrolo[1,2-a]pyrazine-1,4-dione",C14 H16 N2 O3,260.11586,261.12314,9.633,mzCloud,No results
+Feature1764,NA,C15 H28 Cl N5 O4,377.18408,378.19136,13.169,NA,No results
+Feature1763,NA,NA,427.16747,428.17475,17.381,NA,No results
+Feature1762,NA,C8 H11 N O5,201.06357,219.09739,2.173,NA,No results
+Feature1761,NA,C18 H28 O2,276.20876,277.21604,17.57,NA,No results
+Feature1760,NA,C18 H33 N O,279.25595,280.26322,19.778,NA,No results
+Feature1759,NA,NA,837.82995,838.83723,1.104,NA,No results
+Feature1758,NA,C5 H11 N,85.08911,86.09641,0.996,NA,No results
+Feature1757,NA,C11 H21 N O7,279.13163,280.13891,1.916,NA,No results
+Feature1756,Hypoxanthine,C5 H4 N4 O,136.03841,137.04569,6.873,mzCloud,No results
+Feature1755,NA,C18 H24 O,256.18256,257.18984,17.382,NA,No results
+Feature1754,NA,C26 H55 O11 P3,636.29768,637.30502,21.04,NA,No results
+Feature1753,"7-(tert-butyl)-4-imino-1,2,3,4,5,6-hexahydropyrido[3,4-d]pyridazine-1,5-dione",C11 H14 N4 O2,234.11149,235.11876,4.149,mzCloud,No results
+Feature1752,NA,C7 H5 N O3 S2,214.97086,215.97813,10.478,NA,No results
+Feature1751,NA,C8 H Cl P2 S3,289.8397,290.84698,1.123,NA,No results
+Feature1750,NA,C10 H7 N10 P,298.05881,299.06609,14.499,NA,No results
+Feature1749,NA,C7 H9 N O4,171.05306,172.06037,2.44,NA,No results
+Feature1748,NA,C18 H27 N O5 S2,401.13152,402.13879,15.887,NA,No results
+Feature1747,NA,C10 H13 N2 O2 P S,256.0424,257.04967,3.374,NA,No results
+Feature1746,NA,C18 H33 N O,279.25598,280.26326,19.359,NA,No results
+Feature1745,NA,C6 H10 N2 O2,142.0741,143.08138,1.555,NA,No results
+Feature1744,NA,C6 H8 O7,192.02686,193.03414,3.033,NA,No results
+Feature1743,NA,C5 H8 O3,116.0472,117.05448,1.559,NA,No results
+Feature1742,"(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid",C18 H32 O5,328.2248,329.23212,18.099,mzCloud,No results
+Feature1741,NA,C12 H31 N4 O2 P,294.21931,295.22659,20.027,NA,No results
+Feature1740,NA,C13 H26 N O9 P,371.13427,372.14155,6.379,NA,No results
+Feature1739,3-Chloro-N-[1-(2-furyl)ethyl]-N-pyridin-2-yl-1-benzothiophene-2-carboxamide,C20 H15 Cl N2 O2 S,404.04306,405.05033,1.202,mzCloud,No results
+Feature1738,NA,C5 H11 N4 O8 P,286.03045,287.03771,1.139,NA,No results
+Feature1737,"3-(2,3-dihydro-1-benzofuran-5-yl)-1-isopropyldihydro-2,4(1H,3H)-pyrimidinedione",C15 H18 N2 O3,274.1349,275.14218,10.807,mzCloud,No results
+Feature1736,NA,C10 H18 N2 O4,230.12647,231.13375,7.765,NA,No results
+Feature1735,NA,C7 H9 N2 O16 P3 S5,629.77652,630.7838,1.122,NA,No results
+Feature1734,NA,C18 H30 O3,294.2192,295.22648,17.035,NA,No results
+Feature1733,NA,C12 H24 N O12 P,405.1032,406.11048,1.255,NA,No results
+Feature1732,NA,C22 H34 N6 O8,510.24352,511.2508,7.112,NA,No results
+Feature1731,NA,C21 H29 N5 O,367.23572,368.243,16.048,NA,No results
+Feature1730,NA,C18 H31 N O,277.24037,278.24765,20.751,NA,No results
+Feature1729,Uracil,C4 H4 N2 O2,112.02717,113.03445,2.431,mzCloud,No results
+Feature1728,NA,C10 H19 N O8,281.11084,282.11812,1.384,NA,No results
+Feature1727,NA,C18 H5 N6 O12 P3 S5,749.77729,750.78457,1.12,NA,No results
+Feature1726,NA,C11 H20 N2 O5,260.13705,261.14432,3.405,NA,No results
+Feature1725,NA,C30 H29 N5 S4,587.13216,588.13944,17.385,NA,No results
+Feature1724,NA,C6 H9 N O2,127.06322,145.09705,1.055,NA,No results
+Feature1723,NA,C14 H31 N,213.24543,214.2527,17.023,NA,No results
+Feature1722,NA,NA,192.06064,193.06792,5.876,NA,No results
+Feature1721,NA,C4 H3 N9,177.05126,178.05855,1.124,NA,No results
+Feature1720,NA,C11 H25 N8 P,300.19355,301.20082,16.85,NA,No results
+Feature1719,NA,C4 H5 N O,83.03705,84.04434,1.231,NA,No results
+Feature1718,NA,C18 H24 O,256.18258,257.18985,17.748,NA,No results
+Feature1717,NA,C7 H2 N2 O18 S5,561.78923,562.79651,1.123,NA,No results
+Feature1716,NA,C23 H5 N2 O18 P3 S4,817.76464,818.77192,1.115,NA,No results
+Feature1715,NA,C11 H14 N2 O6,270.08501,271.09229,6.901,NA,No results
+Feature1714,NA,C12 H23 N O4,245.16248,246.16976,9.192,NA,No results
+Feature1713,NA,C7 H12 N2 O3,172.0846,173.09191,1.555,NA,No results
+Feature1712,NA,C8 H6 N8,214.07176,215.07904,1.119,NA,No results
+Feature1711,NA,NA,205.87837,206.88565,1.122,NA,No results
+Feature1710,NA,C11 H28 N6 O S,292.20366,293.21093,17.381,NA,No results
+Feature1709,4-Fluoro IPV,C14 H20 F N O,237.15744,238.16471,7.243,mzCloud,No results
+Feature1708,NA,C10 H14 N2 O6,258.0849,259.09218,1.556,NA,No results
+Feature1707,NA,C6 H9 N O4 S,191.02513,192.03241,1.835,NA,No results
+Feature1706,NA,C12 H31 N4 P,262.22952,280.26336,20.149,NA,No results
+Feature1705,NA,C19 H29 N O4,335.20958,336.21685,16.682,NA,No results
+Feature1704,NA,C4 H6 O2 S,118.0087,119.01597,1.561,NA,No results
+Feature1703,NA,C10 H14 N5 O8 P,363.05787,364.06514,3.138,NA,No results
+Feature1702,NA,C12 H20 O4,228.13598,229.14326,14.304,NA,No results
+Feature1701,NA,C15 H34 N9 O P,387.26189,388.26917,17.847,NA,No results
+Feature1700,NA,C12 H27 N O6,281.18365,282.19093,8.05,NA,No results
+Feature1699,"7-{[(1S,4aS,6S,8aR)-6-hydroxy-5,5,8a-trimethyl-2-methylidene-decahydronaphthalen-1-yl]methoxy}-2H-chromen-2-one",C24 H30 O4,404.20169,405.20897,3.78,mzCloud,No results
+Feature1698,NA,C16 H30 N9 P S2,443.17843,444.1857,17.38,NA,No results
+Feature1697,NA,C6 H9 N O4 S,191.02512,192.0324,1.78,NA,No results
+Feature1696,NA,C11 H21 N3 O5,275.14787,276.15515,1.423,NA,No results
+Feature1695,NA,C12 H19 N O4,241.1312,242.13848,12.925,NA,No results
+Feature1694,NA,C9 H16 N2 O4,216.11082,217.11809,1.351,NA,No results
+Feature1693,NA,C7 H5 N O7,215.00709,216.01437,1.128,NA,No results
+Feature1692,NA,C9 H14 N3 O8 P,323.05162,324.0589,1.564,NA,No results
+Feature1691,NA,C4 H7 N O2,101.04754,102.05482,1.255,NA,No results
+Feature1690,NA,C3 H7 N O S,105.02472,106.032,11.293,NA,No results
+Feature1689,NA,C10 H14 N2 O6,258.08501,259.09228,3.402,NA,No results
+Feature1688,NA,C11 H17 N O7,275.10031,276.10759,7.386,NA,No results
+Feature1687,L-Ergothioneine,C9 H15 N3 O2 S,229.08832,230.09559,1.65,mzCloud,No results
+Feature1686,NA,C8 H9 N O4,183.05302,184.06032,3.126,NA,No results
+Feature1685,NA,C6 H11 N O5 S,209.03551,210.04279,1.557,NA,No results
+Feature1684,NA,C9 H2 Cl N10 O12 P3 S4,697.76385,698.77112,1.122,NA,No results
+Feature1683,NA,C20 H33 N O3,335.24588,336.25315,17.557,NA,No results
+Feature1682,NA,C4 H6 N6 O6,234.03417,235.04145,1.225,NA,No results
+Feature1681,NA,C4 H16 N4 O8 P2 S,342.01788,343.02516,1.085,NA,No results
+Feature1680,L-Glutathione (reduced),C10 H17 N3 O6 S,307.08345,308.09073,5.587,mzCloud,No results
+Feature1679,NA,NA,100.00101,101.00828,0.977,NA,No results
+Feature1678,NA,C17 H18 N8 O6,430.13324,431.14051,6.791,NA,No results
+Feature1677,NA,C6 H14 N O8 P,259.04538,260.05265,1.244,NA,No results
+Feature1676,NA,C13 H23 N O2,225.17264,226.17993,16.193,NA,No results
+Feature1675,NA,C8 H11 N3 O3,197.07987,198.08714,1.56,NA,No results
+Feature1674,NA,C8 H15 N3 S,185.0985,186.10578,1.546,NA,No results
+Feature1673,NA,C9 H15 N O3,185.10511,186.11239,12.01,NA,No results
+Feature1672,"7-(tert-butyl)-4-imino-1,2,3,4,5,6-hexahydropyrido[3,4-d]pyridazine-1,5-dione",C11 H14 N4 O2,234.11148,235.11876,4.597,mzCloud,No results
+Feature1671,NA,C9 H12 N2 O6,244.06932,262.10314,1.389,NA,No results
+Feature1670,NA,C8 H15 N3 O5,233.10094,234.10821,1.543,NA,No results
+Feature1669,NA,C11 H19 N O2,197.14141,198.14869,13.894,NA,No results
+Feature1668,NA,C3 H2 Cl N6 O5 P3 S3,425.81441,426.82168,1.123,NA,No results
+Feature1667,NA,C19 H31 N O3,321.23022,322.23749,17.094,NA,No results
+Feature1666,NA,C13 H20 N4 O7 S2,408.0757,409.08297,6.533,NA,No results
+Feature1665,NA,C6 H12 N2 O3,160.08465,161.09193,1.412,NA,No results
+Feature1664,NA,C7 H8 O2,124.05227,142.0861,8.384,NA,No results
+Feature1663,NA,C6 H7 N O3 S,173.01456,191.04839,2.113,NA,No results
+Feature1662,NA,C8 H11 N O4,185.06863,186.07593,1.547,NA,No results
+Feature1661,NA,C21 H47 N9 O4 S,521.34784,522.35511,21.064,NA,No results
+Feature1660,NA,C7 H14 N2 O6,222.08499,223.09227,1.358,NA,No results
+Feature1659,NA,C14 H16 N2 O3,260.11595,261.12322,11.187,NA,No results
+Feature1658,NA,C5 H11 N O4 S,181.04073,182.04801,1.362,NA,No results
+Feature1657,"1-(2-Morpholinophenyl)dihydro-1H-pyrrole-2,5-dione",C14 H16 N2 O3,260.11927,261.12655,9.353,mzCloud,No results
+Feature1656,NA,C24 H39 N10 O P3,576.25407,577.26135,9.318,NA,No results
+Feature1655,NA,C9 H24 N8 O8 S4,500.0583,501.06558,1.212,NA,No results
+Feature1654,NA,C16 H27 N6 O3 P3 S2,508.08111,509.08839,1.213,NA,No results
+Feature1653,NA,C24 H5 N6 O18 P3 S3,853.8038,854.81108,1.111,NA,No results
+Feature1652,7-Methylguanosine,C11 H15 N5 O5,297.10708,298.11435,7.396,mzCloud,No results
+Feature1651,NA,NA,206.19921,207.20649,1.192,NA,No results
+Feature1650,2'-O-Methyladenosine,C11 H15 N5 O4,281.11216,282.11943,7.405,mzCloud,No results
+Feature1649,NA,C7 H5 N O2,135.03194,136.03921,8.615,NA,No results
+Feature1648,NA,C6 H11 N3 O3,173.07994,174.08722,1.821,NA,No results
+Feature1647,NA,C3 H7 N2 P3 S,195.95364,196.96092,1.235,NA,No results
+Feature1646,NA,C9 H13 N O6,231.0741,232.08138,2.182,NA,No results
+Feature1645,NA,C20 H5 N2 O15 P3 S5,765.75104,766.75832,1.121,NA,No results
+Feature1644,NA,C20 H35 N O5,369.25132,370.2586,15.45,NA,No results
+Feature1643,NA,C8 H16 O6,208.0945,209.10178,8.191,NA,No results
+Feature1642,NA,C19 H29 N O5 S2,415.14725,416.15452,16.683,NA,No results
+Feature1641,NA,C9 H12 N4 O15 S,448.00305,449.01033,1.08,NA,No results
+Feature1640,NA,C6 H13 N O3,147.08946,148.09674,2.169,NA,No results
+Feature1639,NA,C14 H13 N O3 S,275.06141,276.06869,8.788,NA,No results
+Feature1638,NA,C8 H11 N O4,185.06866,186.07594,1.494,NA,No results
+Feature1637,[Similar to: ERH; ΔMass: -137.0591 Da],C11 H21 N5 O5,303.15405,304.16132,1.439,NA,No results
+Feature1636,NA,C10 H17 N3 O4,243.12178,244.12906,3.038,NA,No results
+Feature1635,"3-[(4-hydroxyphenyl)methyl]-octahydropyrrolo[1,2-a]pyrazine-1,4-dione",C14 H16 N2 O3,260.11587,261.12315,9.533,mzCloud,No results
+Feature1634,NA,C7 H13 N8 O P S,288.06778,289.07506,14.471,NA,No results
+Feature1633,NA,C6 H8 O4,144.04213,145.04941,1.298,NA,No results
+Feature1632,NA,C7 H15 N O4,177.09994,178.10722,1.459,NA,No results
+Feature1631,NA,C9 H11 N3 O4,225.07482,226.0821,2.794,NA,No results
+Feature1630,NA,C23 H5 N2 O17 P3 S5,833.73838,834.74566,1.12,NA,No results
+Feature1629,NA,C18 H17 N2 O11 P3,530.00612,531.0134,1.082,NA,No results
+Feature1628,NA,C5 H14 N2 O5 S,214.06211,215.06939,1.221,NA,No results
+Feature1627,NA,C5 H4 O,80.02616,81.03344,1.206,NA,No results
+Feature1626,NA,C18 H33 N O,279.25599,280.26326,20.203,NA,No results
+Feature1625,NA,C10 H22 N6 O6,322.15913,345.14835,1.07,NA,No results
+Feature1624,NA,C5 H10 N6 O6 S2,314.01151,315.01879,2.38,NA,No results
+Feature1623,NA,C11 H20 N2 O5,260.13704,261.14431,9.691,NA,No results
+Feature1622,NA,C13 H19 N3 O11,393.10323,394.11051,1.254,NA,No results
+Feature1621,NA,C20 H31 N O5,365.22003,366.2273,15.214,NA,No results
+Feature1620,NA,C8 H13 N O4,187.08424,188.09152,15.065,NA,No results
+Feature1619,NA,C9 H9 N5 O4,251.06522,252.07249,8.589,NA,No results
+Feature1618,NA,C21 H31 N5 O,369.25131,370.25858,17.846,NA,No results
+Feature1617,NA,C9 H16 N2 O5 S,264.07785,265.08512,5.943,NA,No results
+Feature1616,NA,C6 H11 N8 P S,258.05658,259.06385,1.075,NA,No results
+Feature1615,NA,C4 H8 N4 O4,176.05364,177.06091,1.073,NA,No results
+Feature1614,NA,C8 H15 N7 O2 S2,305.07403,306.08131,7.303,NA,No results
+Feature1613,NA,C14 H17 N2 O8 P S,404.04301,405.05029,1.301,NA,No results
+Feature1612,NA,C24 H41 N4 O4 P3,542.23349,543.24077,6.96,NA,No results
+Feature1611,NA,C16 H24 O2,248.17743,249.1847,17.374,NA,No results
+Feature1610,NP-013736,C10 H16 N2 O2,196.12099,197.12826,10.071,mzCloud,No results
+Feature1609,NA,NA,921.79131,922.79859,1.11,NA,No results
+Feature1608,NA,NA,570.14141,571.14869,17.378,NA,No results
+Feature1607,Valpromide,C8 H17 N O,143.13092,144.1382,15.689,mzCloud,No results
+Feature1606,NA,C15 H31 N3 O4,317.23282,318.2401,21.037,NA,No results
+Feature1605,[Similar to: N-Acetylneuraminic acid; ΔMass: -36.0213 Da],C11 H15 N O7,273.0847,274.09197,2.062,NA,No results
+Feature1604,NA,C27 H22 N4 O4 S2,530.11067,531.11795,18.152,NA,No results
+Feature1603,NA,C12 H21 N3 O7 S,351.10976,352.11704,1.399,NA,No results
+Feature1602,NA,C10 H13 N4 O8 P,348.04694,349.05422,3.121,NA,No results
+Feature1601,NA,C5 H10 N4 O4,190.07004,191.07732,1.534,NA,No results
+Feature1600,L-Pyroglutamic acid,C5 H7 N O3,129.04251,130.04979,2.44,mzCloud,No results
+Feature1599,NA,C14 H24 N4 O5,328.17455,329.18182,7.211,NA,No results
+Feature1598,NA,NA,81.01899,82.02627,1.106,NA,No results
+Feature1597,NA,C16 H37 N3 P2 S,365.21998,366.22725,17.21,NA,No results
+Feature1596,"2-{(3S)-1-[4-(Trifluoromethyl)benzyl]-3-pyrrolidinyl}-1,3-benzoxazole",C19 H17 F3 N2 O,346.13496,347.14226,1.067,mzCloud,No results
+Feature1595,NA,C20 H33 N O6 S2,447.17345,448.18071,16.683,NA,No results
+Feature1594,NA,C8 H14 N2 O,154.1105,155.11778,10.34,NA,No results
+Feature1593,Acetophenone,C8 H8 O,120.05738,121.06466,4.487,mzCloud,No results
+Feature1592,NA,C18 H24 N9 O P S,445.15757,446.16484,16.148,NA,No results
+Feature1591,NA,C10 H17 N3 O5,259.11667,260.12395,1.753,NA,No results
+Feature1590,NA,C12 H31 N4 O2 P,294.21923,295.2265,17.969,NA,No results
+Feature1589,NA,C5 H19 N8 O12 P S,446.06001,447.06728,1.43,NA,No results
+Feature1588,NA,C14 H16 N2 O2,244.12094,245.12821,12.312,NA,No results
+Feature1587,UDP-N-acetylglucosamine,C17 H27 N3 O17 P2,607.0813,608.08858,1.748,mzCloud,No results
+Feature1586,Benzoguanamine,C9 H9 N5,187.08436,188.09164,2.91,mzCloud,No results
+Feature1585,NA,C12 H27 N4 O2 P,290.18801,291.19528,17.733,NA,No results
+Feature1584,NA,C12 H23 N6 O7 P,394.13463,395.14191,2.318,NA,No results
+Feature1583,NA,C10 H18 N2 O5 S,278.09347,279.10075,7.164,NA,No results
+Feature1582,NA,C8 H9 N O3,167.05817,168.06545,8.615,NA,No results
+Feature1581,NA,C6 H10 N2 O10 S,302.00442,303.01168,1.14,NA,No results
+Feature1580,NA,C7 H15 N3 O3,189.11113,190.11841,1.542,NA,No results
+Feature1579,NA,C7 H10 N8 O7 P2,380.01574,381.02301,1.079,NA,No results
+Feature1578,NA,C14 H36 N5 O3 P,353.25646,354.26373,17.553,NA,No results
+Feature1577,NA,NA,175.10859,176.11587,1.136,NA,No results
+Feature1576,NA,C19 H29 N5 O2,359.23059,360.23786,16.404,NA,No results
+Feature1575,NA,C10 H19 N O2,185.14145,186.14873,12.594,NA,No results
+Feature1574,NA,C8 H15 N O7,237.08463,238.09191,1.237,NA,No results
+Feature1573,NA,C10 H10 N10 O2,302.09861,303.10588,2.326,NA,No results
+Feature1572,NA,C9 H17 N O8,267.09512,268.1024,1.256,NA,No results
+Feature1571,NA,C20 H29 N O4,347.20944,348.21672,16.911,NA,No results
+Feature1570,NA,C14 H30 O10,358.18502,359.1923,8.003,NA,No results
+Feature1569,NA,C2 H5 N O S,91.0091,92.01638,1.235,NA,No results
+Feature1568,NA,C9 H14 O3,170.09418,188.12798,9.151,NA,No results
+Feature1567,NA,C20 H31 N O5 S2,429.16273,430.17001,17.296,NA,No results
+Feature1566,NA,C7 H11 N O5,189.06358,190.07086,6.109,NA,No results
+Feature1565,NA,C5 H10 N2 O4,162.06392,163.07121,1.178,NA,No results
+Feature1564,NA,C20 H33 N O3,335.24593,336.25321,16.943,NA,No results
+Feature1563,NA,C9 H16 N2 O8 P2,342.03887,343.04615,1.076,NA,No results
+Feature1562,Argininosuccinic acid,C10 H18 N4 O6,290.12233,291.1296,1.301,mzCloud,No results
+Feature1561,NA,C3 H7 O7 P,185.99275,187.00003,1.315,NA,No results
+Feature1560,NA,C10 H15 N O5,229.09479,247.12861,7.257,NA,No results
+Feature1559,NA,C3 H5 N2 P S,131.9908,132.99808,0.977,NA,No results
+Feature1558,NA,C10 H16 O3,184.10975,185.11702,10.738,NA,No results
+Feature1557,NA,C6 H18 N9 O4 P S2,375.06553,376.07281,6.299,NA,No results
+Feature1556,NA,C7 H5 N O3,151.02683,152.03411,2.976,NA,No results
+Feature1555,NA,C10 H22 N2 O5,250.15269,251.15997,0.989,NA,No results
+Feature1554,NA,C20 H33 N O6 S2,447.17334,448.18062,15.752,NA,No results
+Feature1553,NA,C10 H12 N4 O6,284.07548,285.08276,7.208,NA,No results
+Feature1552,NA,C12 H15 N5 O6,325.10069,326.10796,1.344,NA,No results
+Feature1551,NA,C15 H27 N5 O3,325.20987,326.21715,8.707,NA,No results
+Feature1550,NA,C11 H15 N5 O5,297.10712,298.1144,7.567,NA,No results
+Feature1549,NA,C20 H31 N O5 S2,429.1627,430.16998,16.047,NA,No results
+Feature1548,Guanine,C5 H5 N5 O,151.04932,152.05659,6.827,mzCloud,No results
+Feature1547,NA,C8 H17 N O8,255.09517,256.10245,1.194,NA,No results
+Feature1546,NA,C5 H9 N O4 S,179.0251,180.03238,2.182,NA,No results
+Feature1545,NA,C17 H19 N4 O16 P,566.05465,584.08848,1.528,NA,No results
+Feature1544,NA,C10 H16 N2 O3 S,244.08792,245.0952,6.975,NA,No results
+Feature1543,NA,C19 H27 N5 O,341.22006,342.22733,16.407,NA,No results
+Feature1542,NA,C6 H10 O5,162.05274,163.06002,1.685,NA,No results
+Feature1541,NA,C11 H16 N4 O4,268.11693,269.12421,1.442,NA,No results
+Feature1540,NA,C12 H32 N7 O12 P S4,625.07289,626.08016,1.212,NA,No results
+Feature1539,NA,C7 H19 N2 O10 P S,354.0502,355.05748,1.13,NA,No results
+Feature1538,NA,C8 H14 O4,174.08902,175.09629,12.06,NA,No results
+Feature1537,NA,C11 H15 N O7,273.08464,291.11847,1.357,NA,No results
+Feature1536,NA,C24 H36 O2,356.27139,357.27867,19.129,NA,No results
+Feature1535,NA,C8 H8 O4,168.04208,186.0759,1.547,NA,No results
+Feature1534,NA,C8 H21 N2 O14 P3,462.01872,463.026,1.08,NA,No results
+Feature1533,NA,C6 H10 N2 O3 S,190.0411,191.04838,2.112,NA,No results
+Feature1532,NA,C6 H13 N O4,163.08432,164.0916,1.168,NA,No results
+Feature1531,NA,C21 H27 N5 O,365.2201,366.22737,16.529,NA,No results
+Feature1530,NA,C16 H28 N2 O11,424.16898,425.17625,1.458,NA,No results
+Feature1529,NA,C12 H9 N8 O18 P,583.97784,584.98512,1.081,NA,No results
+Feature1528,NA,C4 H8 N8 O,184.08222,185.08954,1.066,NA,No results
+Feature1527,NA,C7 H3 N2 O14 P3 S,463.85152,464.8588,1.12,NA,No results
+Feature1526,[Similar to: NP-001798; ΔMass: -151.0998 Da],C7 H4 O,104.02609,105.03337,10.012,NA,No results
+Feature1525,NA,C7 H13 N O3,159.08943,160.09671,1.537,NA,No results
+Feature1524,δ-Valerolactam,C5 H9 N O,82.04178,100.07561,1.666,mzCloud,No results
+Feature1523,NA,C7 H13 N O3,159.08941,160.09669,7.887,NA,No results
+Feature1522,NA,C4 H7 N,69.05783,70.06511,1.057,NA,No results
+Feature1521,NA,C12 H23 N O3,229.16761,230.17489,14.585,NA,No results
+Feature1520,NA,C7 H11 N O4,173.06867,191.1025,1.377,NA,No results
+Feature1519,NA,C21 H43 O7 P3,500.22282,501.2301,6.421,NA,No results
+Feature1518,NA,C8 H11 N O4,185.06869,186.07597,1.748,NA,No results
+Feature1517,NA,C11 H18 N2 O7,290.11114,291.11842,1.356,NA,No results
+Feature1516,NA,C6 H13 N O4,163.08433,164.09161,1.35,NA,No results
+Feature1515,NA,C8 H8 N2 O3,180.05328,198.0871,1.56,NA,No results
+Feature1514,4-chloro-N-[4-chloro-2-(trifluoromethoxy)phenyl]benzamide,C14 H8 Cl2 F3 N O2,348.99441,350.00169,1.208,mzCloud,No results
+Feature1513,NA,C11 H21 N O7,279.13164,280.13891,2.669,NA,No results
+Feature1512,NA,C9 H18 N6 O3 S2,322.08932,323.0966,14.306,NA,No results
+Feature1511,NA,C15 H34 N2 O S4,386.15707,387.16434,17.751,NA,No results
+Feature1510,NA,C9 H21 N3 O,187.16834,188.17561,1.124,NA,No results
+Feature1509,NA,C6 H16 N6 O S,220.11163,221.1189,3.377,NA,No results
+Feature1508,NA,C15 H27 N7 O5,385.20707,386.21435,1.563,NA,No results
+Feature1507,NA,C10 H18 N2 O6,262.11619,263.12347,1.459,NA,No results
+Feature1506,NA,C5 H7 N7 O2 S2,261.01147,262.01874,8.621,NA,No results
+Feature1505,NA,C11 H17 N O3,211.12069,212.12797,11.277,NA,No results
+Feature1504,NA,C9 H15 N O4,201.09987,219.1337,1.363,NA,No results
+Feature1503,NA,C5 H17 N4 O2 P S,228.08044,229.08774,1.546,NA,No results
+Feature1502,NA,C10 H15 N O4 S,245.07196,246.07924,1.264,NA,No results
+Feature1501,NA,C11 H14 N10 O6,382.10846,383.11573,1.201,NA,No results
+Feature1500,NA,C17 H31 N5 O6,401.22588,402.23315,11.037,NA,No results
+Feature1499,NA,C9 H13 N O5,215.07925,216.08653,1.985,NA,No results
+Feature1498,NA,C11 H20 N2 O6,276.132,277.13927,1.86,NA,No results
+Feature1497,NA,C7 H14 N6 O3 S2,294.05812,295.06539,12.061,NA,No results
+Feature1496,NA,C12 H28 N8 O4,348.22311,349.23039,1.136,NA,No results
+Feature1495,NP-022231,C6 H13 N O4,185.06873,186.07601,3.152,mzCloud,No results
+Feature1494,NA,C17 H39 O P3,352.22078,353.22806,1.176,NA,No results
+Feature1493,NA,C11 H21 N O6 S,295.10869,296.11597,1.368,NA,No results
+Feature1492,NA,C7 H14 N2 O4,190.09519,191.10247,1.378,NA,No results
+Feature1491,NA,C7 H13 N O3,159.08938,160.09667,8.383,NA,No results
+Feature1490,NA,C19 H29 N3 O8,427.19678,428.20406,11.943,NA,No results
+Feature1489,NA,C20 H26 O2,298.19305,299.20033,18.746,NA,No results
+Feature1488,NA,C11 H18 O,166.13564,184.16942,15.695,NA,No results
+Feature1487,NA,C10 H14 N2 O6,258.08493,259.0922,6.953,NA,No results
+Feature1486,NA,C9 H18 N2 O3,202.13156,203.13883,1.46,NA,No results
+Feature1485,NA,C12 H27 N7 O9 S,445.15765,446.16493,17.382,NA,No results
+Feature1484,Panthenol,C9 H19 N O4,205.13124,206.13852,8.328,mzCloud,No results
+Feature1483,NA,C8 H13 N O2,155.09454,156.10182,10.177,NA,No results
+Feature1482,NA,C6 H11 N O7,209.05342,210.06069,3.039,NA,No results
+Feature1481,NA,C7 H14 N2 O3,174.10032,175.1076,1.356,NA,No results
+Feature1480,Cyclopropyl[(3S)-3-(5-methyl-1H-benzimidazol-2-yl)-1-pyrrolidinyl]methanone,C16 H19 N3 O,269.14865,270.15593,4.814,mzCloud,No results
+Feature1479,NA,C9 H12 N2 O5,228.07438,246.1082,1.564,NA,No results
+Feature1478,NA,C21 H29 N5,351.24071,352.24799,16.12,NA,No results
+Feature1477,NA,C8 H13 N O6,219.07407,220.08135,1.351,NA,No results
+Feature1476,NA,C10 H19 N O4,217.13119,218.13847,11.05,NA,No results
+Feature1475,NA,C15 H24 N10,344.21967,345.2269,17.037,NA,No results
+Feature1474,NA,C20 H36 N O3 P S2,433.18791,434.19519,13.471,NA,No results
+Feature1473,NA,C6 H14 O6,182.07884,183.08612,1.305,NA,No results
+Feature1472,NA,C9 H19 N O2,173.14142,174.1487,12.132,NA,No results
+Feature1471,NA,C7 H15 N O6,209.08972,210.097,1.251,NA,No results
+Feature1470,NA,C8 H17 N O8 S,287.06716,288.07444,1.267,NA,No results
+Feature1469,NA,C8 H15 N O2,157.1102,158.11747,2.474,NA,No results
+Feature1468,NA,C9 H3 O10 P3 S,395.86436,396.87164,1.115,NA,No results
+Feature1467,NA,C27 H54 N O6 P3,581.3171,582.32438,10.045,NA,No results
+Feature1466,NA,C8 H15 N3 O5 S2,297.04506,298.05234,1.534,NA,No results
+Feature1465,NA,C H3 N2 O10 P,233.95372,234.961,0.977,NA,No results
+Feature1464,NA,C9 H15 N O2,169.11023,170.1175,14.112,NA,No results
+Feature1463,NA,C13 H24 N2 O3 S,288.15054,289.15782,12.217,NA,No results
+Feature1462,NA,C21 H47 N2 O15 P,598.27079,599.27806,6.837,NA,No results
+Feature1461,NA,C7 H8 N2 O3,168.05342,169.06069,2.972,NA,No results
+Feature1460,NA,C4 H9 Cl N2 O5 S,231.99182,232.99909,0.977,NA,No results
+Feature1459,Cytosine,C4 H5 N3 O,111.04316,112.05044,2.917,mzCloud,No results
+Feature1458,NA,C18 H24 N9 P S,429.1627,430.16998,16.772,NA,No results
+Feature1457,NA,C16 H26 N O7 P S,407.11687,408.12415,1.471,NA,No results
+Feature1456,NA,C14 H30 N O11 P,419.15531,420.16259,1.37,NA,No results
+Feature1455,NA,C18 H31 N O3,309.23024,310.23751,17.285,NA,No results
+Feature1454,NA,C4 H15 N7 O3 P2,271.07232,272.0796,1.321,NA,No results
+Feature1453,NA,C20 H33 N O4,351.24082,352.2481,16.796,NA,No results
+Feature1452,NA,C H3 N2 O2 P,105.99347,107.00072,0.977,NA,No results
+Feature1451,NA,C38 H5 O16 P3 S4,937.76569,938.77297,1.112,NA,No results
+Feature1450,NA,C9 H15 N O7,249.08461,250.09189,1.256,NA,No results
+Feature1449,NA,C6 H21 N7 O2 S,255.14872,256.15599,3.378,NA,No results
+Feature1448,NA,C11 H15 N O8,289.07953,290.0868,1.344,NA,No results
+Feature1447,NA,C9 H17 N O3,187.1207,188.12798,10.176,NA,No results
+Feature1446,NA,C3 H5 N S,87.01422,88.0215,1.541,NA,No results
+Feature1445,Desaminometribuzin,C8 H13 N3 O S,199.08187,200.08915,9.796,mzCloud,No results
+Feature1444,NA,C33 H5 N2 O17 P3 S5,953.73956,954.74684,1.115,NA,No results
+Feature1443,NA,C7 H5 N O3,151.02686,152.03414,8.623,NA,No results
+Feature1442,NA,C6 H11 N O,113.08396,131.11779,1.708,NA,No results
+Feature1441,NA,C10 H18 N2 O7,278.11116,279.11844,1.381,NA,No results
+Feature1440,NA,C12 H23 N O5,261.15743,262.16471,6.473,NA,No results
+Feature1439,NA,C11 H21 N O7,279.13162,280.13889,2.065,NA,No results
+Feature1438,NA,C8 H13 N O5,203.07918,204.08646,1.593,NA,No results
+Feature1437,NA,C18 H28 O3,292.20365,293.21092,16.883,NA,No results
+Feature1436,NA,C6 H12 O7,196.05811,197.0654,1.337,NA,No results
+Feature1435,NA,C7 H10 O7,206.0431,207.05038,1.086,NA,No results
+Feature1434,NA,C8 H23 N7 O2 S,281.16248,282.16976,14.671,NA,No results
+Feature1433,NA,C3 H9 N O,75.06837,76.07565,1.162,NA,No results
+Feature1432,NA,C7 H15 N O5,193.09484,194.10212,1.172,NA,No results
+Feature1431,NA,NA,111.99241,112.99969,1.517,NA,No results
+Feature1430,NA,C16 H22 N8 O,342.19017,343.19744,8.497,NA,No results
+Feature1429,NA,C8 H16 N2 O3,188.11599,189.12327,2.16,NA,No results
+Feature1428,NA,C4 H8 O3 S,136.01934,137.02662,2.747,NA,No results
+Feature1427,NA,NA,851.75833,852.7656,1.119,NA,No results
+Feature1426,NA,C18 H31 N8 O11 P,566.18298,567.19025,6.546,NA,No results
+Feature1425,NA,C10 H11 N5 O3,249.08597,250.09324,7.592,NA,No results
+Feature1424,NA,C22 H45 N3 O6 P2 S,541.24934,542.25661,6.981,NA,No results
+Feature1423,NA,C14 H21 O5 P3 S,394.0313,395.03857,1.079,NA,No results
+Feature1422,NA,C10 H26 N6 O10 P2 S2,516.06263,517.06991,1.206,NA,No results
+Feature1421,NA,C12 H19 N3 O6,301.12716,302.13443,1.517,NA,No results
+Feature1420,NA,C9 H15 N3 O3 S,245.08313,246.0904,1.546,NA,No results
+Feature1419,NA,C8 H19 N O4,193.13116,194.13844,6.032,NA,No results
+Feature1418,NA,C7 H13 N3 O4,203.09039,204.09766,1.776,NA,No results
+Feature1417,NA,C7 H10 O3,142.06289,143.07017,12.061,NA,No results
+Feature1416,NA,C8 H18 N O9 P,303.07172,304.079,1.236,NA,No results
+Feature1415,NA,C6 H8 N2 O2,140.05845,141.06573,1.559,NA,No results
+Feature1414,NA,C6 H8 O3,128.04721,129.05449,9.794,NA,No results
+Feature1413,NA,NA,104.99669,106.00397,0.978,NA,No results
+Feature1412,NA,C7 H10 N2 O2,154.07414,155.08141,6.447,NA,No results
+Feature1411,1-Methylguanine,C6 H7 N5 O,165.06493,166.0722,7.395,mzCloud,No results
+Feature1410,NA,C3 H8 N6 O4 S2,256.00604,257.01331,2.381,NA,No results
+Feature1409,NA,C16 H29 N O12,427.16856,428.17583,1.56,NA,No results
+Feature1408,NA,C8 H6 O,118.04173,136.07556,4.284,NA,No results
+Feature1407,NA,C14 H26 N2 O3 S,302.1662,303.17348,13.499,NA,No results
+Feature1406,NA,C13 H14 N3 P3,305.04102,306.0483,1.572,NA,No results
+Feature1405,NA,C6 H11 N O3,145.07377,146.08105,1.344,NA,No results
+Feature1404,NA,C3 H4 N8 O,168.05096,169.05824,1.23,NA,No results
+Feature1403,NA,C9 H15 N3 O6,261.09585,262.10313,1.391,NA,No results
+Feature1402,NA,C5 H4 O2,96.02102,97.02831,1.297,NA,No results
+Feature1401,NA,C9 H15 N O3,185.10506,186.11234,8.252,NA,No results
+Feature1400,NA,C11 H18 N4 O6,302.12308,303.12964,1.55,NA,No results
+Feature1399,NA,C24 H53 N7 O6,535.40758,558.39681,20.505,NA,No results
+Feature1398,NA,C15 H27 N3 O17 P2,583.08137,584.08864,1.6,NA,No results
+Feature1397,NA,C8 H15 N O2,157.11018,158.11746,10.244,NA,No results
+Feature1396,NA,C8 H17 N O2,159.12583,160.1331,2.037,NA,No results
+Feature1395,NA,C7 H16 N4 O2,188.12715,189.13442,1.216,NA,No results
+Feature1394,NA,C9 H15 N3 O2,197.11625,198.12353,1.155,NA,No results
+Feature1393,NA,C13 H21 N4 O15 P3 S,597.99364,599.00091,1.084,NA,No results
+Feature1392,NA,C6 H12 N2 O3,160.08466,161.09193,1.377,NA,No results
+Feature1391,NA,C14 H41 N10 O9 P,524.27754,525.28482,1.429,NA,No results
+Feature1390,Thymine,C5 H6 N2 O2,126.04281,127.05009,7.631,mzCloud,No results
+Feature1389,NA,C9 H24 N6 O2 S,280.16731,281.17459,16.571,NA,No results
+Feature1388,NA,C13 H31 N7 O2 S,349.22514,350.23242,16.591,NA,No results
+Feature1387,NA,C20 H27 N3 O9,453.17444,454.18172,6.799,NA,No results
+Feature1386,NA,NA,631.82236,632.82964,1.118,NA,No results
+Feature1385,NA,C8 H14 N2 O3,186.1003,204.13412,1.049,NA,No results
+Feature1384,NA,C14 H21 N3 O7 S,375.10974,376.11702,1.546,NA,No results
+Feature1383,NA,C53 H107 N O S4,901.72591,902.73318,1.118,NA,No results
+Feature1382,NA,NA,673.80312,674.8104,1.116,NA,No results
+Feature1381,NA,C13 H26 N6 O P2 S,376.13805,377.14532,11.291,NA,No results
+Feature1380,NA,C20 H37 N O6,387.26191,388.26919,15.997,NA,No results
+Feature1379,NA,C20 H31 N O5,365.22006,366.22733,16.607,NA,No results
+Feature1378,NA,C16 H23 N5 O9,429.14928,430.15655,6.727,NA,No results
+Feature1377,NA,C6 H11 O5 P S,226.00669,227.01396,1.17,NA,No results
+Feature1376,NA,C20 H33 N O5,367.23561,368.24288,16.661,NA,No results
+Feature1375,NA,C6 H10 O6,178.04759,179.05486,1.336,NA,No results
+Feature1374,NA,C6 H11 N O4,161.06871,162.07599,3.525,NA,No results
+Feature1373,NA,C18 H39 N O11,445.25198,446.25925,11.487,NA,No results
+Feature1372,NA,C8 H19 O10 P,306.0713,307.07857,1.333,NA,No results
+Feature1371,NA,C14 H32 N5 O3 P,349.22508,350.23236000000003,15.065,NA,No results
+Feature1370,NA,C7 H12 N P S,173.04351,174.05079,1.534,NA,No results
+Feature1369,NA,C6 H12 N2 O4,176.07953,177.08681,1.332,NA,No results
+Feature1368,NA,C11 H14 O6 S,274.05149,275.05876,1.074,NA,No results
+Feature1367,NA,C5 H4 N4 O2,152.03333,153.04061,7.211,NA,No results
+Feature1366,NA,C24 H37 N P2,401.24111,402.24839,15.717,NA,No results
+Feature1365,NA,C32 H19 N3,445.15774,446.16502,16.774,NA,No results
+Feature1364,NA,C5 H10 O4,134.05783,135.0651,2.685,NA,No results
+Feature1363,NA,C7 H5 N O S,151.00906,152.01634,13.681,NA,No results
+Feature1362,NA,NA,242.17584,243.18312,1.189,NA,No results
+Feature1361,NA,C14 H18 N2 O5,294.1214,295.12867,10.092,NA,No results
+Feature1360,NA,C8 H13 N O6,219.0741,220.08138,5.764,NA,No results
+Feature1359,NA,C4 H6 N2 O3,130.03772,131.04499,1.533,NA,No results
+Feature1358,NA,C9 H18 N4 O4,246.13257,247.13985,1.534,NA,No results
+Feature1357,NA,C6 H9 N O3,143.05814,144.06541000000001,1.486,NA,No results
+Feature1356,NA,C9 H18 N2 O3,202.13163,203.13891,2.722,NA,No results
+Feature1355,NA,C6 H11 N3 O4,189.07481,190.08209,2.151,NA,No results
+Feature1354,NA,C24 H23 N5 O2 S,445.15764,446.16492,15.481,NA,No results
+Feature1353,NA,C7 H15 N O4 S,209.07198,210.07926,11.291,NA,No results
+Feature1352,NA,C7 H16 N2 O,144.12621,145.13348,2.693,NA,No results
+Feature1351,NA,C15 H24 N2 O17 P2,566.0547,567.062,1.599,NA,No results
+Feature1350,NA,C19 H17 Cl N P,325.07807,326.08535,13.413,NA,No results
+Feature1349,NA,C7 H16 N4 O2,188.12711,189.13439,1.267,NA,No results
+Feature1348,NA,C13 H4 N6 O17 P2 S2,641.85518,642.86245,1.098,NA,No results
+Feature1347,NA,C10 H11 N8 O15 P S,545.98007,546.98734,1.089,NA,No results
+Feature1346,NA,C11 H28 N6 O S,292.20365,293.21092,16.998,NA,No results
+Feature1345,NA,C12 H23 N O7,293.14723,294.15451,6.058,NA,No results
+Feature1344,NA,C5 H15 N8 P,218.11522,219.12249,12.06,NA,No results
+Feature1343,NA,C11 H17 N O8,291.09524,292.10252,2.063,NA,No results
+Feature1342,NA,C11 H12 N2 O3,220.08461,221.09188,8.833,NA,No results
+Feature1341,NA,C47 H95 N7,757.76386,758.77113,1.118,NA,No results
+Feature1340,NA,C19 H28 N6 O13 S2,612.11509,613.12237,6.299,NA,No results
+Feature1339,NA,C13 H19 N O7,301.11593,302.12321,11.374,NA,No results
+Feature1338,NA,C6 H15 N3 O4 P2 S,287.02712,288.0344,10.013,NA,No results
+Feature1337,NA,C6 H9 N O5,175.048,176.05527,2.562,NA,No results
+Feature1336,NA,C21 H29 N7 O6 S3,571.13699,572.14427,16.775,NA,No results
+Feature1335,NA,C7 H21 N4 O P,208.14609,226.17992,16.192,NA,No results
+Feature1334,NA,C8 H15 N3 O4,217.10605,218.11333,5.957,NA,No results
+Feature1333,NA,C6 H10 N2 O5,190.05884,191.06612,1.298,NA,No results
+Feature1332,NA,NA,623.8354,624.84268,1.114,NA,No results
+Feature1331,NA,C6 H16 N7 O2 P,249.11121,250.11844,1.269,NA,No results
+Feature1330,NA,C9 H20 N4 O12 S,408.07974,409.08701,7.3,NA,No results
+Feature1329,NA,C14 H13 N S3,291.02205,292.02933,9.735,NA,No results
+Feature1328,NA,C14 H28 N4 O7 P2,426.14398,427.15126,1.072,NA,No results
+Feature1327,NA,C6 H10 N2 O5,190.05876,191.06604,1.255,NA,No results
+Feature1326,NA,C9 H18 N2 O3,202.13161,203.13889,2.545,NA,No results
+Feature1325,NA,NA,168.11494,186.14877,12.597,NA,No results
+Feature1324,2-Hydroxyquinoline,C9 H7 N O,145.0527,146.05997,11.203,mzCloud,No results
+Feature1323,NA,C11 H19 N3 O3,241.14245,242.14973,11.564,NA,No results
+Feature1322,NA,C11 H13 N O6,255.07408,256.0814,1.36,NA,No results
+Feature1321,NA,C10 H16 N2 O3 S,244.08788,245.09515,7.598,NA,No results
+Feature1320,NA,C14 H32 N7 O13 P S3,633.0957,634.10298,1.213,NA,No results
+Feature1319,NA,C8 H8 O2 P2,198.00062,199.00789,2.383,NA,No results
+Feature1318,NA,C10 H21 N O6 P2,313.0843,314.09157,9.156,NA,No results
+Feature1317,NA,C6 H11 N3 O4,189.07477,190.08208,1.173,NA,No results
+Feature1316,NA,C8 H17 N10 O4 P3 S2,474.0089,475.01618,1.209,NA,No results
+Feature1315,NA,C9 H19 N5 O3,245.14853,246.15581,1.14,NA,No results
+Feature1314,NA,C10 H13 N O9,291.05837,292.06565,7.303,NA,No results
+Feature1313,NA,C13 H30 N3 O10 P S2,483.10901,484.11629,2.313,NA,No results
+Feature1312,NA,C13 H25 N O3,243.18322,244.19049,15.693,NA,No results
+Feature1311,NA,C9 H12 N2 O6,244.06935,245.07662,2.513,NA,No results
+Feature1310,NA,C7 H7 N O3 S,185.01445,186.02173,10.118,NA,No results
+Feature1309,NA,C6 H6 O3,126.03154,127.03881,1.301,NA,No results
+Feature1308,NA,C27 H40 N9 O P3,599.2549,600.26218,6.523,NA,No results
+Feature1307,NA,NA,859.74522,860.75249,1.119,NA,No results
+Feature1306,NA,C7 H12 O6,192.06315,210.09697,1.331,NA,No results
+Feature1305,NA,C12 H17 N3 O6,299.11146,317.14527,1.562,NA,No results
+Feature1304,NA,C23 H43 N O18,621.24747,622.25474,1.556,NA,No results
+Feature1303,NA,C12 H18 N4 O2,250.14272,251.15,6.716,NA,No results
+Feature1302,NA,C10 H17 N O2,183.1258,184.13307,12.517,NA,No results
+Feature1301,NA,NA,867.73247,868.73975,1.119,NA,No results
+Feature1300,NA,C9 H22 N O11 P S,383.06489,384.07216,1.247,NA,No results
+Feature1299,NA,C7 H14 N2 O6 S,254.05702,255.06429,1.37,NA,No results
+Feature1298,NA,C8 H15 N O4,189.09994,190.10722,7.261,NA,No results
+Feature1297,NA,C12 H35 N8 O P S2,402.21111,403.21839,1.563,NA,No results
+Feature1296,NA,C11 H14 N2 O5,254.09003,255.0973,1.556,NA,No results
+Feature1295,NA,C26 H39 N O3,413.29274,414.30002,17.925,NA,No results
+Feature1294,NA,C16 H23 N9 O,357.20094,358.20822,1.557,NA,No results
+Feature1293,NA,C8 H17 N3 O3,203.1268,204.13408,1.05,NA,No results
+Feature1292,NA,C9 H10 O,134.07306,152.10689,11.841,NA,No results
+Feature1291,NA,C11 H18 N2 O7,290.11118,291.11846,6.224,NA,No results
+Feature1290,NA,C8 H23 N8 O4 P,326.15886,327.16614,6.246,NA,No results
+Feature1289,NA,C7 H15 O9 P,274.0451,275.05237,1.317,NA,No results
+Feature1288,NA,C9 H15 O5 P S,266.03802,267.0453,5.751,NA,No results
+Feature1287,NA,C8 H17 N8 O6 P3 S2,477.99253,478.99981,1.09,NA,No results
+Feature1286,NA,C24 H48 N4 O8 P2 S,614.26561,615.27289,6.857,NA,No results
+Feature1285,NA,C22 H28 N3 O3 P S,445.15762,446.1649,15.221,NA,No results
+Feature1284,NA,C19 H44 N7 O13 P,609.27536,610.28264,7.309,NA,No results
+Feature1283,NA,C7 H14 N2 O6,222.08498,223.09226,1.309,NA,No results
+Feature1282,NA,C10 H15 N3 O5,257.10094,258.10822,5.959,NA,No results
+Feature1281,NA,C12 H13 N O4,235.08434,236.09162,9.798,NA,No results
+Feature1280,NA,C11 H19 N O6,261.12108,262.12836,2.667,NA,No results
+Feature1279,NA,C9 H20 N2 O3,204.1472,205.15448,1.201,NA,No results
+Feature1278,NA,C10 H15 N O6,245.08961,284.05275,1.39,NA,No results
+Feature1277,NA,C4 H4 O3,100.01597,101.02325,3.946,NA,No results
+Feature1276,NA,NA,723.77044,724.77772,1.12,NA,No results
+Feature1275,NA,C12 H10 N4 O2,242.08024,243.08752,14.047,NA,No results
+Feature1274,NA,NA,275.20952,276.21679,17.036,NA,No results
+Feature1273,NA,C4 H13 N2 O4 P,184.06118,185.06849,1.085,NA,No results
+Feature1272,NA,C9 H10 O3,166.06276,184.09655,8.373,NA,No results
+Feature1271,NA,C7 H10 O3,142.06291,143.07019,11.422,NA,No results
+Feature1270,NA,C10 H18 N2 O3 S,246.10362,247.1109,7.928,NA,No results
+Feature1269,NA,C18 H34 N9 O P3,485.21195,486.21923,6.958,NA,No results
+Feature1268,NA,C7 H17 N4 O6 P,284.08869,285.09596,6.546,NA,No results
+Feature1267,NA,C8 H12 N2 O5,216.07436,234.10817,1.544,NA,No results
+Feature1266,NA,C9 H15 N O2,169.11014,187.14393,9.666,NA,No results
+Feature1265,NA,C20 H39 N4 O9 P,510.24361,511.25089,7.407,NA,No results
+Feature1264,NA,C15 H30 N8 O11,498.20573,499.21301,1.488,NA,No results
+Feature1263,NA,C9 H15 N O4,201.09994,202.10721,8.265,NA,No results
+Feature1262,NA,C12 H23 O P S,246.12137,247.12865,8.057,NA,No results
+Feature1261,NA,C9 H14 N2 O3,198.10025,199.10753,6.158,NA,No results
+Feature1260,NA,C7 H11 N O4,173.06872,174.076,5.242,NA,No results
+Feature1259,NA,NA,132.02719,133.03446,0.978,NA,No results
+Feature1258,NA,C14 H23 N O10,365.13187,366.13914,1.365,NA,No results
+Feature1257,NA,C15 H36 N3 O5 P S2,433.18142,434.18869,6.813,NA,No results
+Feature1256,NA,C7 H10 O8,222.03804,223.04532,1.077,NA,No results
+Feature1255,NA,C11 H13 N O9,303.05877,304.06605,4.789,NA,No results
+Feature1254,NA,C25 H5 N2 O15 P3 S5,825.75158,826.75886,1.119,NA,No results
+Feature1253,NA,C5 H7 N O3,129.04249,130.04977,3.939,NA,No results
+Feature1252,NA,C10 H16 N2 O2 S,228.09302,229.1003,10.697,NA,No results
+Feature1251,NA,NA,799.7449,800.75217,1.122,NA,No results
+Feature1250,NA,C10 H16 N2 O2 S,228.09304,229.10031,10.186,NA,No results
+Feature1249,NA,C7 H19 N3,145.15781,146.16509,0.902,NA,No results
+Feature1248,NA,C7 H11 N O4,173.06869,174.07597,2.094,NA,No results
+Feature1247,NA,C19 H29 N5 O7,439.2065,440.21377,7.521,NA,No results
+Feature1246,NA,C6 H11 N O5 S,209.03561,210.04289,1.687,NA,No results
+Feature1245,NA,C7 H15 N3 O2,173.11629,174.12356,5.718,NA,No results
+Feature1244,NA,C5 H17 N3 O5 P2 S,293.0377,294.04498,8.619,NA,No results
+Feature1243,NA,C12 H22 N2 O5,274.15267,275.15995,6.126,NA,No results
+Feature1242,NA,C7 H13 N O5,191.07922,192.0865,1.384,NA,No results
+Feature1241,NA,NA,512.1203,513.12758,18.157,NA,No results
+Feature1240,NA,C4 H9 N9 O,199.0939,200.10118,1.224,NA,No results
+Feature1239,NA,C17 H35 N2 O8 P,426.21126,427.21853,8.258,NA,No results
+Feature1238,NA,C7 H9 N O4,171.05305,172.06033,3.941,NA,No results
+Feature1237,NA,C11 H24 N2 O5,264.16834,265.17561,1.053,NA,No results
+Feature1236,NA,C9 H12 N3 O7 P,305.04111,306.04838,1.813,NA,No results
+Feature1235,NA,NA,197.93256,198.93984,0.977,NA,No results
+Feature1234,NA,C9 H10 N2 O2,178.07406,179.08133,1.543,NA,No results
+Feature1233,NA,C16 H35 N O8,369.23604,370.24331,9.27,NA,No results
+Feature1232,NA,C7 H15 N O2,145.11019,146.11746,8.591,NA,No results
+Feature1231,NA,C7 H16 N2 O7,240.09549,241.10276,1.309,NA,No results
+Feature1230,NA,C18 H32 N4 O4,368.24203,369.2493,1.56,NA,No results
+Feature1229,Tropine,C8 H15 N O,124.0887,142.12254,10.442,mzCloud,No results
+Feature1228,NA,C10 H20 N4 O4,260.14825,261.15553,1.047,NA,No results
+Feature1227,NA,C12 H24 N2 O7,308.15813000000003,309.16541,1.05,NA,No results
+Feature1226,NA,C15 H34 N5 O5 P3,457.17915,458.18643,1.466,NA,No results
+Feature1225,NA,C11 H19 N3 O2,225.14754,226.15481,6.103,NA,No results
+Feature1224,NA,C7 H7 N O3,153.04249,154.04977,7.998,NA,No results
+Feature1223,NA,C10 H14 N2 O5,242.09011,243.09738,6.166,NA,No results
+Feature1222,NA,C9 H6 O,130.04175,131.04903,7.301,NA,No results
+Feature1221,NA,C10 H16 N2 O3 S,244.0879,245.09518,7.547,NA,No results
+Feature1220,NA,C7 H17 N7 O5 S3,375.04365,376.05094,1.211,NA,No results
+Feature1219,NA,C8 H10 N2 O3 S,214.04104,215.04832,6.955,NA,No results
+Feature1218,NA,C5 H8 O4,132.04207,133.04939,1.528,NA,No results
+Feature1217,NA,C9 H28 N9 O4 P,357.19963,358.2069,10.514,NA,No results
+Feature1216,NA,NA,342.14653,365.13575,19.128,NA,No results
+Feature1215,NA,C12 H24 N2 O7,308.15817,309.16545,1.131,NA,No results
+Feature1214,NA,C5 H6 O3,114.03158,115.03886,8.032,NA,No results
+Feature1213,NA,C5 H14 N9 O4 P,295.09006,296.09733,1.297,NA,No results
+Feature1212,NA,C5 H10 N2 O3,146.06903,147.07631,1.383,NA,No results
+Feature1211,NA,C8 H12 N2 O5,216.07441,234.10823,1.472,NA,No results
+Feature1210,NA,C14 H27 N O2,241.20396,242.21124,17.163,NA,No results
+Feature1209,NA,C10 H15 N O8,277.07949,295.1133,1.287,NA,No results
+Feature1208,NA,C2 H5 N2 O2 P,120.00908,121.01635,0.977,NA,No results
+Feature1207,NA,C5 H2 O6 S,189.95634,190.96361,2.381,NA,No results
+Feature1206,NA,C10 H20 N2 O3,216.1472,217.15447,2.383,NA,No results
+Feature1205,2-Amino-3-methoxybenzoic acid,C8 H9 N O3,167.05817,168.06544,2.65,mzCloud,No results
+Feature1204,NA,C13 H16 N4 O6,324.10536,325.11263,1.547,NA,No results
+Feature1203,δ-Valerolactam,C5 H9 N O,99.06833,100.07561,1.666,mzCloud,No results
+Feature1202,NA,C15 H21 N O7,327.13165,328.13892,7.741,NA,No results
+Feature1201,NA,C6 H N4 O2 P S,223.95632,224.96359,1.244,NA,No results
+Feature1200,NA,C8 H11 N3 O3,197.07989,198.08717,1.706,NA,No results
+Feature1199,NA,C8 H13 N O3 S,203.0615,204.06878,9.905,NA,No results
+Feature1198,NA,C3 H11 N8 O2 P,222.07356,261.0367,1.302,NA,No results
+Feature1197,NA,C12 H17 N10 O15 P3 S,665.98089,666.98817,1.086,NA,No results
+Feature1196,NA,C10 H17 N O6,247.10542,248.11269,3.267,NA,No results
+Feature1195,NA,C12 H21 N O9,323.12145,324.12873,2.063,NA,No results
+Feature1194,NA,C5 H6 O4,130.02654,131.03381,2.668,NA,No results
+Feature1193,L-Glutathione (reduced),C10 H17 N3 O6 S,307.08361,308.09088,1.6,mzCloud,No results
+Feature1192,NA,C7 H15 N O3 S,193.0771,194.08437,11.09,NA,No results
+Feature1191,NA,C2 H7 N2 O10 P S3,345.90106,346.90833,0.977,NA,No results
+Feature1190,NA,C13 H31 N8 O P,346.23533,347.24261,16.794,NA,No results
+Feature1189,NA,C8 H6 O6 S,229.98826,230.99553,6.403,NA,No results
+Feature1188,NA,C6 H12 N4 O,156.10096,179.09018,1.132,NA,No results
+Feature1187,NA,C7 H9 N O5,187.04795,188.05522,3.41,NA,No results
+Feature1186,NA,C28 H42 O16 S,666.22137,684.25515,1.565,NA,No results
+Feature1185,NA,C8 H16 N2 O5,220.10571,259.06889,1.137,NA,No results
+Feature1184,NA,C9 H16 N4 O3,228.12202,229.12929,1.502,NA,No results
+Feature1183,NA,C7 H7 N5 O3,209.05475,210.06202,2.07,NA,No results
+Feature1182,NA,C12 H19 N3 O7,317.12213,318.1294,2.094,NA,No results
+Feature1181,NA,C7 H16 N2 O2,160.12106,161.12833,1.129,NA,No results
+Feature1180,NA,NA,854.80614,855.81342,1.109,NA,No results
+Feature1179,NA,C8 H26 N8 O P2 S,344.14102,345.1483,1.066,NA,No results
+Feature1178,NA,C11 H22 N2 O3,230.16284,231.17012,4.66,NA,No results
+Feature1177,NA,C22 H43 N3 O12,541.28587,542.29314,5.629,NA,No results
+Feature1176,NA,C11 H20 N4 O10,368.11685,369.12413,1.072,NA,No results
+Feature1175,NA,C8 H12 N6 O2,224.10208,225.1093,1.343,NA,No results
+Feature1174,NA,C11 H21 N O8,295.12644,296.13372,1.529,NA,No results
+Feature1173,NA,C8 H17 N O5,207.11048,208.11776,1.477,NA,No results
+Feature1172,NA,C7 H9 N5 O,179.08059,180.08786,6.95,NA,No results
+Feature1171,NA,C8 H19 N3 O S4,301.04272,302.05,10.716,NA,No results
+Feature1170,NA,C10 H14 N2 O4,226.09515,227.10245,1.56,NA,No results
+Feature1169,NA,C12 H23 N O2,213.17269,214.17997,15.19,NA,No results
+Feature1168,NA,C H2 N4 O8 S,229.95873,230.96609,0.978,NA,No results
+Feature1167,NA,C9 H17 N O6,235.10541,236.11269,5.681,NA,No results
+Feature1166,NA,C11 H12 S3,240.01107,241.01834,6.704,NA,No results
+Feature1165,NA,C13 H13 N9 O,311.12277,312.13004,8.353,NA,No results
+Feature1164,NA,C8 H13 N O5,203.07916,204.08644,1.305,NA,No results
+Feature1163,NA,C6 H13 O9 P,260.02939,261.03667,1.302,NA,No results
+Feature1162,Methylimidazoleacetic acid,C6 H8 N2 O2,140.05847,141.06575,1.487,mzCloud,No results
+Feature1161,NA,C14 H30 N4 O2,286.23671,287.24399,1.639,NA,No results
+Feature1160,NA,NA,114.04868,115.05596,3.378,NA,No results
+Feature1159,NA,C6 H7 N10 O P3,328.0023,329.00957,1.081,NA,No results
+Feature1158,NA,C10 H17 N3 O5,259.11667,260.12395,1.932,NA,No results
+Feature1157,NA,C9 H18 N8 O18 P2 S2,651.96533,652.97261,1.082,NA,No results
+Feature1156,NA,C16 H27 N O4 P2,359.14251,360.14979,1.342,NA,No results
+Feature1155,NA,C6 H11 N O3,145.07378,146.08104,1.165,NA,No results
+Feature1154,NA,C10 H14 N2 O4,226.09516,227.10243,7.801,NA,No results
+Feature1153,NA,C10 H28 N7 O4 P,341.19491,342.20219,8.894,NA,No results
+Feature1152,NA,C21 H37 N O12,495.23265,496.23993,7.293,NA,No results
+Feature1151,NA,C7 H15 N O6 S,241.06179,242.06907,1.361,NA,No results
+Feature1150,NA,C4 H4 O2,84.02109,85.02836,1.547,NA,No results
+Feature1149,NA,C17 H43 N8 O15 P,630.26065,631.26793,6.617,NA,No results
+Feature1148,NA,NA,86.98618,87.99346,0.978,NA,No results
+Feature1147,NA,C16 H30 N O10 P,427.16044,428.16771,7.96,NA,No results
+Feature1146,NA,C11 H20 N2 O6,276.13205,277.13932,2.568,NA,No results
+Feature1145,NA,C5 H13 N10 O2 P,276.09546,277.10274,1.56,NA,No results
+Feature1144,NA,C7 H15 N O4 S,209.07196,210.07924,1.498,NA,No results
+Feature1143,NA,C4 H13 N3 O7 P2 S2,340.96829,341.97557,8.618,NA,No results
+Feature1142,NA,C9 H14 N2 O3,198.10024,199.10752,7.214,NA,No results
+Feature1141,NA,C12 H19 N3 O5,285.13222,286.1395,8.196,NA,No results
+Feature1140,NA,C14 H23 N5 O6,357.16467,358.17195,2.961,NA,No results
+Feature1139,NA,C6 H12 N2 O3,160.08469,161.09196,1.517,NA,No results
+Feature1138,NA,C8 H14 N2 O3 S,218.0723,219.07958,4.172,NA,No results
+Feature1137,NA,C10 H21 N5 O4,275.15913,276.1664,1.163,NA,No results
+Feature1136,NA,C9 H13 N9 O8 P2 S,469.00961,470.01689,1.294,NA,No results
+Feature1135,NA,C10 H18 N2 O5,246.12138,247.12865,6.027,NA,No results
+Feature1134,NA,C8 H16 N5 O6 P S4,436.97084,437.97812,1.212,NA,No results
+Feature1133,NA,C9 H16 N2 O3,200.11594,201.12322,3.199,NA,No results
+Feature1132,NA,C15 H21 N5 O7,383.14248,384.14976,1.543,NA,No results
+Feature1131,NA,C6 H13 N3 O3,175.09557,176.10285,1.832,NA,No results
+Feature1130,NA,C15 H23 N3 O4,309.16864,310.17592,6.893,NA,No results
+Feature1129,NA,C7 H11 N O4 S,205.04071,206.04799,4.142,NA,No results
+Feature1128,NA,C3 H10 Cl N10 O7 P,364.0159,387.00531,1.13,NA,No results
+Feature1127,NA,C7 H10 N2 O3,170.06908,171.07635,2.438,NA,No results
+Feature1126,NA,C4 H7 N2 P S,146.00646,147.01375,0.977,NA,No results
+Feature1125,NA,C11 H17 N O9,307.0901,308.09737,1.343,NA,No results
+Feature1124,NA,C7 H10 O6,190.04761,191.05489,4.482,NA,No results
+Feature1123,NA,C3 H9 Cl2 N2 O7 P,285.95106,286.95833,0.976,NA,No results
+Feature1122,Methionine sulfoxide,C5 H11 N O3 S,165.04587,166.05315,2.5,mzCloud,No results
+Feature1121,NA,C12 H20 N4 O5,300.14317,301.15045,2.384,NA,No results
+Feature1120,NA,C12 H18 N4 O5,298.12758,299.13483,2.686,NA,No results
+Feature1119,NA,C9 H17 N O4,203.11562,204.1229,1.557,NA,No results
+Feature1118,NA,C15 H13 N4 P S,312.05874,313.06602,8.833,NA,No results
+Feature1117,NA,C5 H2 N6 O4 S5,369.87326,370.88054,1.244,NA,No results
+Feature1116,NA,C9 H17 N O3,187.12071,188.12799,9.145,NA,No results
+Feature1115,NA,C6 H11 N O7,209.05336,210.06063,1.386,NA,No results
+Feature1114,NA,C11 H21 O2 P S,248.1006,249.10788,1.38,NA,No results
+Feature1113,NA,C15 H32 Cl N3 S2,353.17287,354.18015,12.779,NA,No results
+Feature1112,NA,C5 H8 N6 O4,216.06078,217.06805,2.127,NA,No results
+Feature1111,NA,C9 H16 N2 O4,216.11081,217.11808,6.474,NA,No results
+Feature1110,NA,C2 H5 N2 O9 P S3,327.89045,328.89773,0.978,NA,No results
+Feature1109,NA,C11 H16 N4 O5,284.11183,285.11911,1.162,NA,No results
+Feature1108,NA,C11 H14 N2 O3,222.10026,223.10754,8.669,NA,No results
+Feature1107,NA,C10 H26 N6 O4 S,326.17464,344.20845,3.374,NA,No results
+Feature1106,NA,NA,298.25043,299.2577,20.665,NA,No results
+Feature1105,NA,NA,585.1372,586.14447,17.381,NA,No results
+Feature1104,NA,C15 H34 N3 O9 P,431.20146,432.20873,7.894,NA,No results
+Feature1103,NA,C10 H2 N4 O S,225.99552,227.00279,3.943,NA,No results
+Feature1102,NA,C10 H17 Cl O S,220.06934,221.07662,1.251,NA,No results
+Feature1101,NA,C9 H18 N4 O3,230.13771,231.14499,4.658,NA,No results
+Feature1100,NA,C7 H6 O5 S,201.99335,203.00063,6.402,NA,No results
+Feature1099,NA,C8 H12 N2 O3,184.08464,185.09191,5.91,NA,No results
+Feature1098,3-Ureidopropionic acid,C4 H8 N2 O3,132.05339,133.06066,2.164,mzCloud,No results
+Feature1097,NA,C9 H24 N7 O6 P S2,421.09821,422.10549,1.273,NA,No results
+Feature1096,NA,C8 H15 N O4,189.09999,190.10727,3.028,NA,No results
+Feature1095,NA,C3 H2 N2 O2,98.0115,116.04533,1.38,NA,No results
+Feature1094,NA,C13 H15 N2 O4 P,294.0784,295.08568,13.929,NA,No results
+Feature1093,NA,C3 H11 N2 O4 P,170.04559,171.05288,1.074,NA,No results
+Feature1092,NA,C3 H7 N O5 S2,200.97632,201.9836,1.311,NA,No results
+Feature1091,NA,C14 H26 N O P S,287.1479,288.15518,1.047,NA,No results
+Feature1090,NA,C22 H39 N5 O P2 S,483.23272,484.23999,7.117,NA,No results
+Feature1089,NA,C5 H N3 O,119.01233,120.0196,0.977,NA,No results
+Feature1088,NA,C17 H22 N5 O16 P,583.08127,584.08855,1.528,NA,No results
+Feature1087,NA,C9 H14 N2 O3,198.10024,199.10752,7.671,NA,No results
+Feature1086,NA,C2 H7 N2 O2 P S3,217.94083,218.94803,0.977,NA,No results
+Feature1085,NA,C9 H14 N3 O8 P,323.0518,324.05908,2.576,NA,No results
+Feature1084,NA,C11 H22 N10 O P2 S,404.11929,405.12657,1.177,NA,No results
+Feature1083,NA,NA,167.08553,168.09281,7.301,NA,No results
+Feature1082,NA,C9 H19 N O6 S,269.09309,270.10037,1.367,NA,No results
+Feature1081,NA,C9 H14 N2 O7,262.07987,263.08715,1.392,NA,No results
+Feature1080,NA,C11 H8 N8 O6 P2,410.00509,411.01237,1.088,NA,No results
+Feature1079,NA,C2 H8 N3 O2 P,137.03544,138.04272,6.532,NA,No results
+Feature1078,NA,C4 H5 N O,83.03709,84.04437,3.401,NA,No results
+Feature1077,NA,C9 H17 N O5,219.11049,220.11777,1.991,NA,No results
+Feature1076,NA,C14 H29 N3 O8 S,399.16567,400.17294,9.064,NA,No results
+Feature1075,5-Nitro-o-toluidine,C7 H8 N2 O2,152.05849,153.06576,6.362,mzCloud,No results
+Feature1074,NA,C6 H9 N O,111.06826,112.07555,1.56,NA,No results
+Feature1073,NA,C11 H16 N2 O6,272.10063,273.1079,1.356,NA,No results
+Feature1072,NA,C4 H9 N S,103.04548,104.05276,2.494,NA,No results
+Feature1071,NA,C5 H9 N,83.07347,84.08074,1.06,NA,No results
+Feature1070,NA,C6 H7 N5 O,165.06498,166.07226,5.343,NA,No results
+Feature1069,NA,C7 H13 N O4,175.08432,176.0916,1.17,NA,No results
+Feature1068,EPK,C16 H28 N4 O6,186.10032,187.1076,1.558,mzCloud,No results
+Feature1067,NA,C15 H39 N6 O12 P,526.23846,527.24573,6.798,NA,No results
+Feature1066,NA,C5 H6 N2 O5 S2,237.97195,238.97923,1.338,NA,No results
+Feature1065,NA,C18 H40 N7 O6 P3,543.22751,544.23478,1.029,NA,No results
+Feature1064,NA,C10 H19 N3 O5,261.13228,262.13956,1.137,NA,No results
+Feature1063,NA,C12 H21 N O6,275.13667,276.14395,6.057,NA,No results
+Feature1062,NA,C H4 O7,127.99591,146.02974,0.976,NA,No results
+Feature1061,NA,C2 H4 N6 O2 P2,205.98758,206.99486,3.374,NA,No results
+Feature1060,L-Glutathione (reduced),C10 H17 N3 O6 S,307.08363,308.09091,1.735,mzCloud,No results
+Feature1059,NA,C6 H10 O5,162.05273,180.08655,2.127,NA,No results
+Feature1058,U-69593,C22 H32 N2 O2,356.24211,357.24939,1.535,mzCloud,No results
+Feature1057,NA,C5 H8 N4 O3,172.05952,173.0668,2.098,NA,No results
+Feature1056,4-Hydroxybenzaldehyde,C7 H6 O2,122.03663,123.04391,4.284,mzCloud,No results
+Feature1055,NA,C4 H14 N10 O10 S,394.06008,395.06736,6.534,NA,No results
+Feature1054,NA,C8 H12 N2 O3,184.08465,185.09192,6.075,NA,No results
+Feature1053,NA,C9 H18 N4 O4,246.1325,247.13977,1.171,NA,No results
+Feature1052,NA,C6 H18 N10 O6 S3,422.05508,423.06229,6.533,NA,No results
+Feature1051,NA,C8 H20 N3 O11 P3,427.02921,428.03649,1.971,NA,No results
+Feature1050,NA,C23 H30 N3 O3 P S,459.17323,460.18051,15.479,NA,No results
+Feature1049,NA,C19 H17 N O P2,337.07959,338.08687,10.333,NA,No results
+Feature1048,NA,C14 H27 N3 O9,381.17457,382.18185,1.024,NA,No results
+Feature1047,"[Similar to: 2-oxa-4-azatetracyclo[6.3.1.1~6,10~.0~1,5~]tridecan-3-one; ΔMass: -0.0696 Da]",C6 H11 N O4 S,193.04069,194.04797,1.528,NA,No results
+Feature1046,NA,C12 H14 N2 O4,250.09522,251.1025,12.079,NA,No results
+Feature1045,NA,C14 H39 N8 O15 P S5,750.0872,751.09447,1.212,NA,No results
+Feature1044,NA,C2 H8 N3 O2 P,137.03544,138.04271,3.309,NA,No results
+Feature1043,NA,C10 H20 N4 O3,244.15331,245.16059,6.059,NA,No results
+Feature1042,NA,C7 H13 N7 O S2,275.06314,298.05229,1.532,NA,No results
+Feature1041,N6-Me-Adenosine,C11 H15 N5 O4,281.11222,282.1195,3.885,mzCloud,No results
+Feature1040,NA,C10 H18 O9,282.09619,283.10347,7.486,NA,No results
+Feature1039,Methionine sulfoxide,C5 H11 N O3 S,148.01933,149.02661,2.497,mzCloud,No results
+Feature1038,7-Methylguanosine,C11 H15 N5 O5,297.10711,298.11439,7.66,mzCloud,No results
+Feature1037,NA,C5 H10 N2 O3,146.06906,147.07633,3.494,NA,No results
+Feature1036,NA,C6 H18 N9 O3 P,295.1278,296.13508,9.539,NA,No results
+Feature1035,NA,C9 H10 N2 O4,210.0639,211.07121,2.628,NA,No results
+Feature1034,NA,C11 H18 N2 O5,258.12142,259.12869,3.825,NA,No results
+Feature1033,NA,C10 H19 N3 O5,261.1322,262.13948,1.177,NA,No results
+Feature1032,NA,C9 H24 N6 O5 S2,360.12649,383.11573,1.203,NA,No results
+Feature1031,NA,C5 H8 O4,132.04214,133.04941,1.371,NA,No results
+Feature1030,NA,C5 H18 N7 O7 P S,351.07337,352.08065,1.535,NA,No results
+Feature1029,NA,C8 H11 N O5,201.06354,202.07082,1.236,NA,No results
+Feature1028,NA,C13 H16 N8 O2,316.13815,317.14544,3.393,NA,No results
+Feature1027,NA,C23 H24 O,316.18197,317.18924,14.676,NA,No results
+Feature1026,NA,C8 H9 N O8 S3,342.94761,343.95489,8.619,NA,No results
+Feature1025,NA,C8 H12 N2 O4,200.07956,201.08684,2.476,NA,No results
+Feature1024,NA,C17 H13 N9 O3 S,423.08674,424.09402,6.55,NA,No results
+Feature1023,NA,C11 H20 N2 O8,308.12172,309.129,1.246,NA,No results
+Feature1022,[Similar to: 1-O-(28-Oxo-3-{[pentopyranosyl-(1-2)pentopyranosyl-(1-6)-2-acetamido-2-deoxyhexopyranosyl]oxy}olean-12-en-28-yl)hexopyranose; ΔMass: -882.4615 Da],C9 H17 N O4,203.11557,204.12284,1.346,NA,No results
+Feature1021,NA,C9 H11 N O4,197.06862,198.07589,1.558,NA,No results
+Feature1020,NA,C11 H19 N3 O5,273.13233,274.13961,3.072,NA,No results
+Feature1019,NA,C16 H42 N5 O15 P3,637.18849,638.19576,1.542,NA,No results
+Feature1018,NA,C5 H10 N2 O3,146.06902,147.07629,4.536,NA,No results
+Feature1017,NA,C7 H24 N7 O P S2,317.12214,318.12942,1.145,NA,No results
+Feature1016,NA,C7 H11 N O6,205.05844,206.06572,1.363,NA,No results
+Feature1015,NA,C5 H17 N4 O3 P S,244.07533,245.08261,1.546,NA,No results
+Feature1014,NA,C9 H15 N3 O5,245.10099,246.10826,1.351,NA,No results
+Feature1013,NA,C8 H14 N2 O3,186.10033,187.10761,1.797,NA,No results
+Feature1012,NA,NA,935.71965,936.72693,1.116,NA,No results
+Feature1011,NA,C14 H32 O4 P2 S,358.1486,359.15588,1.562,NA,No results
+Feature1010,NA,C2 H8 N6 O11 P2,353.97261,354.97989,6.406,NA,No results
+Feature1009,2-Hydroxycinnamic acid,C9 H8 O3,146.03668,147.04396,4.283,mzCloud,No results
+Feature1008,NA,C9 H14 N2 O6,246.08497,247.09224,1.442,NA,No results
+Feature1007,NA,C9 H12 N2 O5 S,260.04648,261.05376,6.039,NA,No results
+Feature1006,NA,C8 H15 N O3,173.10505,174.11233,1.487,NA,No results
+Feature1005,NA,C2 H4 O17 S,331.91739,370.88054,1.245,NA,No results
+Feature1004,NA,C17 H31 N2 O2 P3,388.15916,389.16643,1.176,NA,No results
+Feature1003,NA,C5 H13 N O2,119.09449,120.10177,1.156,NA,No results
+Feature1002,NA,NA,83.90392,84.9112,1.119,NA,No results
+Feature1001,NA,C5 H16 N10 O6 S,344.09822,345.1055,1.501,NA,No results
+Feature1000,NA,C5 H18 N9 O5 P,315.11755,316.12483,6.299,NA,No results
+Feature0999,NA,C11 H14 N2 O5,254.0901,255.09737,1.911,NA,No results
+Feature0998,NA,C4 H6 O2,86.03677,87.04404,3.5,NA,No results
+Feature0997,NA,C7 H14 N2 O3,174.10031,175.10759,4.127,NA,No results
+Feature0996,NA,C8 H11 N O4,185.06865,186.07592,1.593,NA,No results
+Feature0995,NA,C7 H13 N3 O4,203.09045,204.09772,2.437,NA,No results
+Feature0994,NA,NA,113.98024,132.01407,0.976,NA,No results
+Feature0993,NA,C21 H34 N3 O2 P S,423.21146,424.21874,6.324,NA,No results
+Feature0992,NA,C7 H14 N2 O4,190.09523,191.10251,1.45,NA,No results
+Feature0991,NA,C8 H12 N2 O4,200.07947,201.08672,1.293,NA,No results
+Feature0990,NA,C17 H27 N5 O7,413.19078,414.19806,6.59,NA,No results
+Feature0989,NA,C11 H10 O2 S3,269.98529,270.99256,1.203,NA,No results
+Feature0988,NA,C12 H16 N4 O2 S,280.09918,281.10646,7.666,NA,No results
+Feature0987,NA,C21 H24 O15 S,548.08529,549.09256,1.547,NA,No results
+Feature0986,NA,C10 H19 N O7,265.11586,266.12314,1.557,NA,No results
+Feature0985,NA,C14 H27 N3 O6 S2,397.13382,398.1411,8.201,NA,No results
+Feature0984,NA,C7 H5 N7,187.06077,188.06804,7.304,NA,No results
+Feature0983,NA,C8 H18 N O2 P S3,287.02303,288.03031,1.171,NA,No results
+Feature0982,NA,C15 H33 O2 P S,308.1945,309.20178,1.166,NA,No results
+Feature0981,NA,C15 H36 N10 O13 P2,626.19321,627.20048,1.055,NA,No results
+Feature0980,NA,C6 H12 N2 O4,176.07963,177.08691,2.667,NA,No results
+Feature0979,NA,NA,272.1984,273.20568,17.957,NA,No results
+Feature0978,NA,C7 H10 N2 O4,186.06393,187.07121,3.142,NA,No results
+Feature0977,NA,C6 H9 N O5,175.04797,176.05525,3.045,NA,No results
+Feature0976,NA,C7 H11 N O6,205.05852,206.06579,2.713,NA,No results
+Feature0975,NA,C8 H13 N O5,203.0792,204.08648,1.142,NA,No results
+Feature0974,NA,C6 H9 N3 O3,171.06425,172.07152,1.513,NA,No results
+Feature0973,NA,C2 H3 Cl N2 O15,329.92355,330.93083,0.977,NA,No results
+Feature0972,NA,C11 H21 N O6,263.13576,264.14303,1.43,NA,No results
+Feature0971,NA,C9 H16 N2 O2 S2,248.06422,249.07149,1.374,NA,No results
+Feature0970,NA,C14 H18 N2 O6,310.11629,311.12356,7.881,NA,No results
+Feature0969,NA,C9 H15 N3 O6,261.09585,262.10312,1.324,NA,No results
+Feature0968,NA,C10 H17 N3 O7,291.10616,292.11344,1.406,NA,No results
+Feature0967,NA,C16 H9 Cl O P2 S4,441.87076,442.87804,0.978,NA,No results
+Feature0966,NA,C15 H28 N4 O5,344.20571,345.21298,1.564,NA,No results
+Feature0965,NA,C10 H18 N2 O5,246.12138,247.12866,7.258,NA,No results
+Feature0964,NA,C10 H17 N O4,215.11558,216.12286,8.333,NA,No results
+Feature0963,NA,C9 H16 N2 O4,216.11082,217.11809,1.562,NA,No results
+Feature0962,Methylphenidate,C14 H19 N O2,233.13736,234.14464,1.049,mzCloud,No results
+Feature0961,NA,C20 H19 N O8 P2 S4,590.94627,591.95355,6.401,NA,No results
+Feature0960,NA,C9 H17 P S3,252.02235,253.02963,5.748,NA,No results
+Feature0959,NA,C6 H9 N O2,127.06321,145.09706,1.147,NA,No results
+Feature0958,NA,C28 H26 N4 O10 S,610.13572,611.143,6.297,NA,No results
+Feature0957,NA,C9 H19 P S3,254.03799,255.04527,1.231,NA,No results
+Feature0956,NA,C20 H18 N8 O S,418.13086,419.13813,8.216,NA,No results
+Feature0955,NA,C13 H24 N P S,257.13732,258.14459,6.979,NA,No results
+Feature0954,NA,C2 H7 Cl N2 O9 S2,301.92861,302.93588,0.977,NA,No results
+Feature0953,NA,C8 H13 N O3,171.08946,172.09673,6.817,NA,No results
+Feature0952,NA,C11 H20 N2 O3,228.14716,229.15443,7.822,NA,No results
+Feature0951,NA,C15 H28 N10 S2,412.19548,413.20275,6.757,NA,No results
+Feature0950,Proline,C5 H9 N O2,115.06324,116.07052,2.721,mzCloud,No results
+Feature0949,NA,C11 H17 N3 O6,287.11153,288.11879,2.107,NA,No results
+Feature0948,NA,C7 H12 N2 O3 S,204.05667,205.06395,4.786,NA,No results
+Feature0947,NA,C18 H31 N8 O6 P3 S2,612.10374,613.11102,6.533,NA,No results
+Feature0946,NA,C6 H3 N3 O6 S,244.97511,245.98239,2.381,NA,No results
+Feature0945,NA,C24 H55 N2 O8 P3 S,624.28672,625.294,7.2,NA,No results
+Feature0944,NA,C16 H41 N6 O14 P,572.24401,573.25128,7.021,NA,No results
+Feature0943,NA,C15 H15 N5 O6,361.10077,362.10804,3.213,NA,No results
+Feature0942,NA,NA,180.01873,181.02601,3.853,NA,No results
+Feature0941,NA,C6 H10 O5,162.05267,163.05997,1.198,NA,No results
+Feature0940,NA,C6 H11 N3 O2,157.08505,158.09233,3.636,NA,No results
+Feature0939,NA,NA,300.11078,301.11806,14.164,NA,No results
+Feature0938,NA,C8 H8 O9 S,279.98794,280.99522,1.308,NA,No results
+Feature0937,NA,C5 H17 N9 O P2,281.10415,282.11143,14.131,NA,No results
+Feature0936,NA,C5 H11 N3 O,129.09011,130.09739,2.221,NA,No results
+Feature0935,NA,C27 H30 O15 S3,690.07364,691.08091,5.588,NA,No results
+Feature0934,NA,C13 H22 N4 O6,330.15381,331.16109,3.556,NA,No results
+Feature0933,NA,C3 H6 O10,201.99553,203.00281,2.38,NA,No results
+Feature0932,NA,C8 H13 N O2,155.09442,173.12821,8.055,NA,No results
+Feature0931,Uracil,C4 H4 N2 O2,112.02714,113.03442,6.119,mzCloud,No results
+Feature0930,NA,NA,127.01186,128.01914,0.974,NA,No results
+Feature0929,NA,C19 H38 N3 P S,371.25297,372.26025,1.055,NA,No results
+Feature0928,NA,C11 H17 N O4,227.11482,228.12228,1.337,NA,No results
+Feature0927,NA,C4 H9 N O3,119.0581,120.06537,1.369,NA,No results
+Feature0926,NA,C10 H15 N3,177.12644,178.13371,8.708,NA,No results
+Feature0925,NA,C10 H22 N2 O5,250.15268,251.15996,1.05,NA,No results
+Feature0924,NA,C12 H25 N3 O4,275.18417,276.19145,1.322,NA,No results
+Feature0923,NA,C8 H18 O13 P2 S2,447.96466,448.97194,1.323,NA,No results
+Feature0922,NA,C6 H12 O4 S,180.04552,181.0528,2.056,NA,No results
+Feature0921,NA,C12 H20 O5 P2 S,338.05134,339.05862,6.339,NA,No results
+Feature0920,NA,C10 H17 N O6,247.10535,248.11263,1.557,NA,No results
+Feature0919,NA,C7 H13 N O5,191.07923,192.0865,1.541,NA,No results
+Feature0918,NA,C11 H19 N3 O6,289.12723,290.13451,3.542,NA,No results
+Feature0917,NA,C5 H14 N2 O7,214.08021,215.08749,1.012,NA,No results
+Feature0916,NA,C5 H6 O4,130.02652,131.0338,2.75,NA,No results
+Feature0915,NA,C12 H11 Cl O3 S5,397.89833,398.9056,0.977,NA,No results
+Feature0914,NA,C26 H35 N7 O3 P2 S2,619.17147,620.17874,6.645,NA,No results
+Feature0913,NA,C7 H10 O,110.07302,128.10685,8.599,NA,No results
+Feature0912,NA,C12 H20 N P S,241.10602,259.13985,1.556,NA,No results
+Feature0911,NA,C7 H13 N4 O P3 S3,357.94721,358.95449,6.402,NA,No results
+Feature0910,NA,C15 H17 N O8,339.09518,340.10245,10.826,NA,No results
+Feature0909,NA,C8 H18 O5,194.11561,195.12293,7.353,NA,No results
+Feature0908,NA,C9 H16 N2 O5,232.10575,233.11303,2.195,NA,No results
+Feature0907,NA,C7 H8 N10 O,248.08828,249.09557,1.132,NA,No results
+Feature0906,NA,C9 H20 N4 O4,248.14821,249.15549,1.426,NA,No results
+Feature0905,NA,C10 H11 N3 O8,301.05603,302.06331,1.386,NA,No results
+Feature0904,NA,C12 H12 N9 O3 P,361.07851,362.08579,6.544,NA,No results
+Feature0903,NA,C7 H15 N3 O2,173.1163,174.12357,6.079,NA,No results
+Feature0902,NA,C4 H8 O5,136.03706,137.04432,1.392,NA,No results
+Feature0901,NA,C13 H13 N2 O P3,306.02515,307.03237,3.077,NA,No results
+Feature0900,NA,C6 H19 N10 O2 P,294.14255000000003,295.14983,1.125,NA,No results
+Feature0899,NA,C3 H5 N3 O2,115.03807,116.04535,1.38,NA,No results
+Feature0898,NA,C10 H16 N2 O6,260.10069,261.10797,1.714,NA,No results
+Feature0897,NA,C12 H21 N2 O P S,272.11192,273.11919,1.515,NA,No results
+Feature0896,NA,C9 H15 N3 O5,245.10091,246.10819,1.478,NA,No results
+Feature0895,NA,C5 H13 N O5,167.07924,168.08652,1.496,NA,No results
+Feature0894,NA,C16 H33 N O17 P2,573.1217,574.12898,7.636,NA,No results
+Feature0893,NA,C9 H11 N O6 S,261.03056,262.03784,5.05,NA,No results
+Feature0892,NA,C6 H12 O3,132.07854,133.08581,6.866,NA,No results
+Feature0891,NA,C24 H21 N5 O2 S,443.14199,444.14927,13.934,NA,No results
+Feature0890,NA,C11 H18 N2 O5,258.12143,259.12871,3.131,NA,No results
+Feature0889,NA,C7 H24 N7 O7 P,349.14829,350.15557,1.391,NA,No results
+Feature0888,NA,C6 H7 N3 O6 P2,278.98011,279.98739,1.201,NA,No results
+Feature0887,NA,C11 H20 N2 O5,260.13701,261.14429,9.391,NA,No results
+Feature0886,NA,C16 H27 O7 P,362.14757,363.15484,4.28,NA,No results
+Feature0885,NA,C9 H10 N2 O3,194.06895,195.07622,6.18,NA,No results
+Feature0884,NA,C8 H17 N3 O4,219.12177,220.12905,1.017,NA,No results
+Feature0883,NA,C9 H12 S3,216.01114,217.01842,2.382,NA,No results
+Feature0882,NA,C10 H23 N9 O11,445.15152,446.1588,1.277,NA,No results
+Feature0881,NA,C7 H13 N O2,143.09454,161.12836,1.052,NA,No results
+Feature0880,"N-({[5-(tert-butyl)-1-(2,4,6-trichlorophenyl)-1H-pyrazol-3-yl]carbonyl}oxy)benzamide",C21 H18 Cl3 N3 O3,360.1756,361.18287,2.638,mzCloud,No results
+Feature0879,NA,C6 H11 O8 P,242.01893,260.05277,1.343,NA,No results
+Feature0878,NA,C7 H15 N O6,209.08971,210.09699,1.332,NA,No results
+Feature0877,NA,C10 H19 N O7,265.11594,266.12322,1.44,NA,No results
+Feature0876,NA,C5 H17 N6 O6 P S2,352.0384,353.04567,4.747,NA,No results
+Feature0875,NA,C9 H10 N2 O3,194.069,212.10283,5.767,NA,No results
+Feature0874,NA,C6 H7 N5 O,165.06498,166.07226,4.052,NA,No results
+Feature0873,NA,C8 H15 N O6 S,253.06181,254.06908,1.354,NA,No results
+Feature0872,NA,C9 H17 N5 O2,227.13808,228.14535,2.881,NA,No results
+Feature0871,NA,C11 H19 N3 O5,273.13231,274.13959,1.02,NA,No results
+Feature0870,NA,C7 H17 N5 O S,219.11527,220.12255,3.378,NA,No results
+Feature0869,NA,C6 H15 N9 O4 P2,339.07345,340.08073,1.387,NA,No results
+Feature0868,NA,C7 H13 N3 O5,219.08534,220.09263,1.175,NA,No results
+Feature0867,NA,NA,105.94201,106.94928,1.114,NA,No results
+Feature0866,NA,C11 H21 O P S,232.10562,233.1129,1.555,NA,No results
+Feature0865,NA,C6 H N4 O2 P S,223.95633,224.96361,1.362,NA,No results
+Feature0864,NA,C7 H11 N O4,173.06867,191.10249,1.45,NA,No results
+Feature0863,NA,C9 H26 N9 O8 P S2,483.10907,484.11635,5.586,NA,No results
+Feature0862,NA,C9 H15 N5 O3,241.11828,242.12459,1.385,NA,No results
+Feature0861,NA,C5 H4 O2,96.021,97.0283,1.546,NA,No results
+Feature0860,NA,C3 H N2 O6 P,191.95673,192.96401,2.382,NA,No results
+Feature0859,NA,C9 H15 N3 O2,197.11624,198.12352,1.392,NA,No results
+Feature0858,NA,C10 H21 O P S,220.1057,221.11297,1.412,NA,No results
+Feature0857,NA,C18 H28 N4 O18 P2,650.08839,651.09566,6.501,NA,No results
+Feature0856,NA,C4 H4 Cl N4 O3 P3,283.918,284.92528,0.977,NA,No results
+Feature0855,NA,NA,281.16248,282.16976,14.729,NA,No results
+Feature0854,NA,C9 H18 N4 O3,230.13778,231.14506,3.951,NA,No results
+Feature0853,NA,C12 H27 N2 O10 P S2,454.08255,455.08983,6.106,NA,No results
+Feature0852,NA,C10 H14 N2 O5,242.0901,243.09739,1.719,NA,No results
+Feature0851,NA,C14 H20 N2 O4 S2,344.08499,345.09227,8.834,NA,No results
+Feature0850,NA,C11 H21 N5 O7,335.1439,336.15118,1.349,NA,No results
+Feature0849,NA,C8 H13 N O5,203.07912,242.0422,1.248,NA,No results
+Feature0848,NA,C9 H14 N2 O5,230.09011,231.09739,2.798,NA,No results
+Feature0847,NA,C10 H13 N O8,275.06388,276.07116,4.788,NA,No results
+Feature0846,NA,C9 H17 N O5,219.11045,220.11772,1.565,NA,No results
+Feature0845,NA,C8 H17 N O3,175.12071,176.12798,6.816,NA,No results
+Feature0844,NA,C5 H5 N5,135.05432,136.0616,6.476,NA,No results
+Feature0843,NA,C11 H23 N O S2,249.12101,250.12829,2.381,NA,No results
+Feature0842,NA,C7 H11 O5 P S,238.00674,239.01402,2.434,NA,No results
+Feature0841,NA,C9 H16 N2 O5 S,264.0778,265.08508,4.731,NA,No results
+Feature0840,NA,C15 H19 N O6,309.12104,310.12832,7.748,NA,No results
+Feature0839,NA,C8 H14 N2 O3,186.10037,187.10764,1.973,NA,No results
+Feature0838,NP-015114,C11 H19 N O6,261.12107,262.12835,3.642,mzCloud,No results
+Feature0837,"[Similar to: 2-oxa-4-azatetracyclo[6.3.1.1~6,10~.0~1,5~]tridecan-3-one; ΔMass: -0.0518 Da]",C6 H11 N O6,193.05846,194.06574,1.5,NA,No results
+Feature0836,NA,C7 H10 N8 O6 S2,366.01763,367.02491,4.746,NA,No results
+Feature0835,NA,C4 H6 N6 O5 P2,279.9879,280.9952,1.204,NA,No results
+Feature0834,NA,C8 H12 N2 O4,200.07952,201.08679,5.732,NA,No results
+Feature0833,NA,C9 H13 N O3,183.08941,184.09669,6.703,NA,No results
+Feature0832,NA,C6 H8 N2 O4,172.04827,173.05553,2.151,NA,No results
+Feature0831,NA,C17 H26 N4 O6,382.18506,383.19234,7.218,NA,No results
+Feature0830,NA,C16 H31 N O11,413.19084,414.19812,6.4,NA,No results
+Feature0829,NA,C5 H6 N2 O4 P2 S,251.95113,290.91427,1.245,NA,No results
+Feature0828,NA,C15 H34 N9 O14 P S2,659.14099,660.14827,6.541,NA,No results
+Feature0827,NA,C12 H22 N8 O11 S2,518.08573,519.09301,1.29,NA,No results
+Feature0826,NA,C6 H19 N9 O7 P2 S2,455.0319,456.03917,2.785,NA,No results
+Feature0825,NA,C10 H26 N9 O13 P3,573.0871,574.09437,4.548,NA,No results
+Feature0824,NA,C7 H14 N2 O3,174.10033,175.10761,3.078,NA,No results
+Feature0823,NA,C4 H11 N O5,153.0636,154.07088,1.392,NA,No results
+Feature0822,NA,NA,130.01155,131.01882,0.977,NA,No results
+Feature0821,NA,C8 H10 N2 O3,182.06905,183.07633,3.018,NA,No results
+Feature0820,NA,C9 H17 N4 O3 P,260.10411,261.11138,3.375,NA,No results
+Feature0819,NA,C10 H10 Cl N3,207.05638,208.06366,3.254,NA,No results
+Feature0818,NA,NA,172.10284,173.11011,1.563,NA,No results
+Feature0817,NA,C20 H18 N7 O14 P,611.06617,612.07344,6.177,NA,No results
+Feature0816,NA,C9 H15 N3 O2,197.11622,198.12349,1.547,NA,No results
+Feature0815,NA,NA,254.15235,255.15963,3.374,NA,No results
+Feature0814,NA,C4 H4 O,68.02618,69.03346,1.499,NA,No results
+Feature0813,NA,C9 H19 N O4,205.13131,206.13859,3.636,NA,No results
+Feature0812,NA,C8 H16 N2 O3,188.116,189.12327,3.773,NA,No results
+Feature0811,NA,C6 H5 O6 P,203.98313,204.99041,1.171,NA,No results
+Feature0810,NA,C8 H15 O4 P S,238.0431,239.05038,1.05,NA,No results
+Feature0809,NA,C20 H8 N10 O8 P2 S,609.97114,610.97842,1.526,NA,No results
+Feature0808,NA,C10 H18 N2 O5,246.12138,247.12866,2.955,NA,No results
+Feature0807,NA,C18 H34 N2 O13,486.20586,487.21315,1.063,NA,No results
+Feature0806,NA,C6 H9 N3 O3 S,203.03625,204.04353,1.543,NA,No results
+Feature0805,NA,C10 H14 N2 O5,242.09009,243.09736,7.624,NA,No results
+Feature0804,NA,C7 H10 N4 O,166.08538,167.09266,2.111,NA,No results
+Feature0803,NA,C11 H12 N2 O3,220.0846,221.09188,5.896,NA,No results
+Feature0802,NA,C6 H11 N O4 S,193.04072,194.04799,1.739,NA,No results
+Feature0801,NA,C14 H20 N2 O6,312.1319,313.13918,5.674,NA,No results
+Feature0800,NA,C7 H10 N2 O2,154.07416,155.08143,2.629,NA,No results
+Feature0799,NA,C4 H5 N3 O,111.04313,112.05041,5.957,NA,No results
+Feature0798,NA,C18 H27 N O4 P2,383.14248,384.1498,1.495,NA,No results
+Feature0797,NA,C10 H12 N4 O6,284.07544,285.08272,7.338,NA,No results
+Feature0796,NA,C7 H15 N O3,161.1051,162.11238,2.168,NA,No results
+Feature0795,NA,C6 H6 N2 O3,154.03771,172.07153,1.514,NA,No results
+Feature0794,NA,C4 H7 N O,85.05268,86.05999,1.164,NA,No results
+Feature0793,NA,NA,350.20475,351.21242,1.154,NA,No results
+Feature0792,NA,C20 H36 N O8 P S,481.19049,482.19776,1.451,NA,No results
+Feature0791,NA,C11 H34 N8 O8 P2,468.19512,469.20241,1.161,NA,No results
+Feature0790,NA,C11 H27 N4 O8 P3,436.10424,437.11154,1.076,NA,No results
+Feature0789,NA,C9 H19 N3 O3,217.14243,218.14971,1.052,NA,No results
+Feature0788,NA,C9 H12 N2 O2,180.08972,181.09699,7.599,NA,No results
+Feature0787,NA,C15 H24 N6 O3,336.18942,337.1967,1.171,NA,No results
+Feature0786,NA,C4 H11 N2 O15 P,357.98932,358.99659,1.207,NA,No results
+Feature0785,NA,C19 H18 N8 O16,614.0833,615.09058,6.532,NA,No results
+Feature0784,NA,C21 H23 N7 O4,437.17955,438.18683,7.663,NA,No results
+Feature0783,NA,C7 H20 N10 O2 S2,340.12238,341.12966,1.054,NA,No results
+Feature0782,NA,C10 H17 N3 O6,275.11151,276.11878,1.389,NA,No results
+Feature0781,NA,C3 H9 N7 O3 S2,255.02205,256.02933,3.4,NA,No results
+Feature0780,NA,NA,227.09038,228.09767,1.556,NA,No results
+Feature0779,NA,C9 H7 N,129.05772,130.065,8.832,NA,No results
+Feature0778,NA,C8 H15 N3 O4,217.1061,218.11337,3.236,NA,No results
+Feature0777,NA,C7 H17 N7 O2 P2,293.093,294.10028,6.318,NA,No results
+Feature0776,NA,C12 H27 N O8,313.17351,314.18078,9.894,NA,No results
+Feature0775,NA,C6 H13 P S3,211.99105,212.99834,1.171,NA,No results
+Feature0774,NA,NA,195.05299,196.06027,1.38,NA,No results
+Feature0773,NA,C7 H11 N O4 S,205.04072,206.04799,6.213,NA,No results
+Feature0772,NA,C14 H20 N10 O10,488.13876,489.14604,4.746,NA,No results
+Feature0771,NA,C11 H21 N3 O4,259.15305,260.16033,4.729,NA,No results
+Feature0770,NA,C14 H27 N4 O10 P3,504.09167,505.09894,1.078,NA,No results
+Feature0769,NA,C8 H15 N3 O4,217.10611,218.11339,2.668,NA,No results
+Feature0768,NA,C11 H20 N4 O6,304.13812,305.14539,2.092,NA,No results
+Feature0767,NA,C27 H40 N9 O2 P3,615.24988,616.25715,6.335,NA,No results
+Feature0766,NA,C9 H7 N O4,193.03731,194.04459,4.789,NA,No results
+Feature0765,NA,NA,67.97484,68.98212,0.975,NA,No results
+Feature0764,NA,C9 H16 N8 O3 P2 S2,410.02615,411.03343,1.077,NA,No results
+Feature0763,NA,C10 H15 N3 O,193.12126,194.12854,6.998,NA,No results
+Feature0762,NA,C9 H27 N7 O2 P2 S,359.14258,360.14983,1.552,NA,No results
+Feature0761,NA,C8 H22 N10 O13 S,498.10886,499.11614,6.854,NA,No results
+Feature0760,NA,C4 H8 O4,120.04217,121.04944,3.036,NA,No results
+Feature0759,NA,C4 H15 N6 O7 P,290.07483,291.08211,3.325,NA,No results
+Feature0758,NA,C10 H19 N3 O7,293.12208,294.12936,1.37,NA,No results
+Feature0757,NA,C18 H30 O15,486.15821999999997,487.16547,1.545,NA,No results
+Feature0756,NA,C11 H21 N O5,247.14183,248.1491,3.53,NA,No results
+Feature0755,NA,C6 H21 N4 O10 P3,402.04767,403.05495,1.203,NA,No results
+Feature0754,NA,C11 H17 N3 O4 S,287.09373,288.101,1.515,NA,No results
+Feature0753,NA,C8 H12 N2 O4,200.07955,218.11337,4.089,NA,No results
+Feature0752,NA,C17 H33 N3 O11,455.21067,456.21795,4.535,NA,No results
+Feature0751,NA,C23 H38 N3 O6 P3,545.19529,546.20259,1.548,NA,No results
+Feature0750,NA,C16 H29 N7 O7,431.21256,432.21983,3.108,NA,No results
+Feature0749,NA,C9 H8 N2 O4,208.04825,209.05553,2.514,NA,No results
+Feature0748,[Similar to: D-(+)-Glucose; ΔMass: 17.0528 Da],C9 H15 N3 O2,197.11621,198.12349,1.256,NA,No results
+Feature0747,NA,C9 H7 N O2,161.04754,162.05482,9.474,NA,No results
+Feature0746,NA,C8 H11 N2 O4 P S,262.01795,263.02523,3.312,NA,No results
+Feature0745,NA,C10 H11 N O4,209.06865,210.07592,8.019,NA,No results
+Feature0744,NA,C5 H4 N4 O2,152.03334,153.04061,3.51,NA,No results
+Feature0743,NA,C2 H3 N O2,73.01637,74.02365,2.171,NA,No results
+Feature0742,NA,C7 H N4 O P S,219.96139,220.96866,1.339,NA,No results
+Feature0741,NA,NA,123.05563,124.06291,2.976,NA,No results
+Feature0740,NA,C6 H20 N5 O3 P3,303.07875,304.08603,7.302,NA,No results
+Feature0739,NA,C9 H9 N O5,211.04785999999999,212.05514,4.79,NA,No results
+Feature0738,NA,C9 H26 N9 O6 P3,449.11994,450.12722,1.34,NA,No results
+Feature0737,NA,C7 H6 O7 S,233.98247,234.98975,2.382,NA,No results
+Feature0736,NA,C8 H16 N2 O3,188.11596,189.12324,2.883,NA,No results
+Feature0735,NA,C4 H8 N2 O4,148.04824,149.05552,1.174,NA,No results
+Feature0734,NA,C10 H10 O S3,241.99036,242.99764,2.38,NA,No results
+Feature0733,NA,C11 H24 N6 O7,352.16961,375.1588,1.067,NA,No results
+Feature0732,NA,C8 H13 N7 O6 P2 S,397.01211,398.01939,4.798,NA,No results
+Feature0731,NA,C10 H18 N2 O8,294.10613,295.11341,1.298,NA,No results
+Feature0730,NA,C9 H9 N S3,226.99075,245.02461,1.174,NA,No results
+Feature0729,NA,C10 H19 N O7,265.11597,266.12325,1.354,NA,No results
+Feature0728,NA,C16 H31 N O6 S2,397.15816,398.16542,5.682,NA,No results
+Feature0727,NA,C11 H15 N O8,289.07954,290.08682,1.498,NA,No results
+Feature0726,NA,C5 H4 N2 O4,156.01697,174.0508,1.534,NA,No results
+Feature0725,NA,C8 H13 N O6,219.07408,220.08135,1.384,NA,No results
+Feature0724,NA,C7 H10 N2 O4,186.06389,187.07117,1.4,NA,No results
+Feature0723,NA,C8 H12 N2 O4,200.07946,201.08678,1.558,NA,No results
+Feature0722,NA,C7 H5 N9 O3 P2 S,356.97122,357.97849,6.403,NA,No results
+Feature0721,NA,C8 H24 N7 O16 P S,537.07577,538.08304,1.512,NA,No results
+Feature0720,NA,C27 H14 N3 O13 P S,650.99767,652.00495,1.548,NA,No results
+Feature0719,NA,C9 H16 N4 O3,228.12205,229.12933,6.84,NA,No results
+Feature0718,NA,C4 H2 Cl O6 P,211.92852,212.93579,0.972,NA,No results
+Feature0717,NA,C5 H18 N7 O9 P3,413.03795,414.04523,1.203,NA,No results
+Feature0716,NA,NA,245.08322,246.0905,1.398,NA,No results
+Feature0715,NA,C4 H Cl N6 O5,247.96936,248.97664,0.977,NA,No results
+Feature0714,NA,C9 H16 N2 O5,232.10571,233.11298,4.31,NA,No results
+Feature0713,NA,C18 H27 N2 O6 P S,430.13332,431.1406,6.849,NA,No results
+Feature0712,NA,NA,169.09082,170.0981,1.068,NA,No results
+Feature0711,NA,C6 H16 N9 O P S,293.09301,294.10028,6.282,NA,No results
+Feature0710,NA,C21 H32 N7 O P3 S2,555.13032,556.13759,4.373,NA,No results
+Feature0709,NA,C10 H20 N O9 P,329.08743,330.09471,6.06,NA,No results
+Feature0708,NA,C20 H39 N3 O14,545.24431,546.25158,6.312,NA,No results
+Feature0707,NA,C H2 N4 O9,213.98127,214.98854,0.977,NA,No results
+Feature0706,NA,C4 H7 N O10,229.00635,230.01363,1.169,NA,No results
+Feature0705,NA,NA,152.04634,153.05361,2.324,NA,No results
+Feature0704,NA,C13 H18 N3 P S,279.09519,280.10247,1.399,NA,No results
+Feature0703,NA,C9 H18 N O8 P,299.07681,300.08409,6.454,NA,No results
+Feature0702,NA,C5 H16 N5 O6 P,273.08468,274.09195,1.582,NA,No results
+Feature0701,NA,C20 H19 N6 P S4,502.03044,503.03772,1.534,NA,No results
+Feature0700,NA,C8 H17 N O3,175.12073,176.12801,4.737,NA,No results
+Feature0699,NA,C17 H28 N O2 P3,371.13431,372.14158,5.993,NA,No results
+Feature0698,NA,C5 H3 N3 O6 S,232.97466,233.98194,2.379,NA,No results
+Feature0697,NA,C20 H8 N10 O8 P2 S,609.97126,610.97854,1.599,NA,No results
+Feature0696,NA,C11 H19 N5 O4,285.14346,286.15073,2.96,NA,No results
+Feature0695,NA,C10 H11 N O6,241.05837,259.09219,1.516,NA,No results
+Feature0694,NA,C6 H4 Cl N8 O2 P3,347.93411,348.94135,0.977,NA,No results
+Feature0693,NA,C6 H19 N9 O9 S,393.10326,394.11054,1.359,NA,No results
+Feature0692,NA,NA,406.08048,407.08775,6.534,NA,No results
+Feature0691,NA,NA,324.10544,325.1127,1.298,NA,No results
+Feature0690,NA,C5 H7 N O2,113.04756,114.05484,1.38,NA,No results
+Feature0689,NA,NA,101.0018,102.00908,0.975,NA,No results
+Feature0688,NA,C10 H14 N2 O4,226.09523,227.1025,1.93,NA,No results
+Feature0687,NA,C18 H31 N3 O10,449.20062,450.2079,1.051,NA,No results
+Feature0686,NA,C9 H15 N3 O3 S,245.08318,246.09046,1.648,NA,No results
+Feature0685,NA,C10 H19 N O12 S,377.06381,378.07109,1.463,NA,No results
+Feature0684,NA,C5 H18 N7 O5 P S2,351.05566,352.06293,1.534,NA,No results
+Feature0683,NA,C7 H15 O4 P3,256.01723,257.02452,1.181,NA,No results
+Feature0682,NA,C7 H8 N2 O2,152.05851,153.06578,3.711,NA,No results
+Feature0681,NA,C5 H9 N O,99.06831,100.07559,1.062,NA,No results
+Feature0680,NA,C8 H9 N O5 S,231.01916,232.02643,4.533,NA,No results
+Feature0679,NA,C8 H15 N O3,173.10509,174.11237,1.792,NA,No results
+Feature0678,NA,C12 H27 N O7,297.17991,298.18718,1.056,NA,No results
+Feature0677,NA,C12 H20 N2 O3,240.14723,241.1545,5.578,NA,No results
+Feature0676,NA,C5 H2 Cl N8 O10 P,399.93136,400.93863,0.976,NA,No results
+Feature0675,NA,C12 H21 N3 O6,303.14287,304.15015,3.619,NA,No results
+Feature0674,NA,C6 H17 N10 P,260.13698,261.14426,6.065,NA,No results
+Feature0673,NA,C6 H10 O4,146.05783,147.06512,9.799,NA,No results
+Feature0672,NA,C5 H8 N2 O2,128.05846,129.06574,5.536,NA,No results
+Feature0671,NA,C9 H15 N3 O4,229.10605,230.11332,1.395,NA,No results
+Feature0670,NA,NA,233.94051,272.90364,1.246,NA,No results
+Feature0669,NA,C8 H5 N O7,227.00622,228.0139,1.181,NA,No results
+Feature0668,NA,C9 H13 N3 O3,211.09554,212.10282,1.858,NA,No results
+Feature0667,NA,C3 H9 N4 O11 P,308.00018,309.00746,1.233,NA,No results
+Feature0666,NA,C10 H15 N3 O5,257.10098,258.10825,3.992,NA,No results
+Feature0665,NA,C7 H8 O5,172.03703,173.0443,4.482,NA,No results
+Feature0664,NA,C14 H36 N9 P3 S,455.20131,456.20859,6.919,NA,No results
+Feature0663,NA,C18 H5 Cl O4,319.98885,320.99613,1.304,NA,No results
+Feature0662,NA,C5 H11 N,85.08911,86.09639,2.264,NA,No results
+Feature0661,NA,C5 H5 N5,135.05435,136.06163,2.801,NA,No results
+Feature0660,NA,C11 H23 N3 O2,229.17886,230.18614,5.265,NA,No results
+Feature0659,NA,C6 H9 N O3,143.05811,144.06538,1.376,NA,No results
+Feature0658,NA,C6 H21 N4 O10 P3,402.04771,403.05499,1.301,NA,No results
+Feature0657,NA,C2 H7 Cl N2 O7 P2,267.94048,268.94776,0.977,NA,No results
+Feature0656,NA,C6 H6 N4 O3,182.04387,183.05114,3.315,NA,No results
+Feature0655,NA,C5 H9 N3 O4,175.05916,176.06643,1.362,NA,No results
+Feature0654,NA,C5 H12 N2 O,116.09484,117.10212,1.376,NA,No results
+Feature0653,NA,C6 H10 N8 O5 S2,338.02273,339.03,4.745,NA,No results
+Feature0652,NA,C3 H3 N4 O5 P,205.98356,206.99084,1.171,NA,No results
+Feature0651,NA,C5 H20 N7 O3 P,257.13735,258.14463,1.565,NA,No results
+Feature0650,NA,C6 H6 O6,174.01631,175.02358,3.035,NA,No results
+Feature0649,NA,C10 H18 N2 O5,246.12137,247.12864,4.458,NA,No results
+Feature0648,NA,C26 H24 O18 S,656.06813,657.07541,5.588,NA,No results
+Feature0647,NA,C5 H7 N O3 S,161.01452,179.04834,1.542,NA,No results
+Feature0646,NA,C3 H8 Cl N9 S,237.03043,238.03771,1.562,NA,No results
+Feature0645,NA,C8 H15 N3 O4,217.10614,218.11342,3.108,NA,No results
+Feature0644,NA,C6 H14 N2 O,130.11051,131.11778,1.708,NA,No results
+Feature0643,NA,C9 H15 N O7,249.08463,250.09191,1.455,NA,No results
+Feature0642,NA,C8 H13 N8 P,252.09886,253.10614,6.474,NA,No results
+Feature0641,NA,C5 H9 Cl N2 S,164.01703,165.02432,0.976,NA,No results
+Feature0640,NA,C6 H10 N4 O9,282.04415,283.05141,1.135,NA,No results
+Feature0639,NA,C6 H4 Cl2 O13,353.90385,354.91113,0.976,NA,No results
+Feature0638,NA,C5 H17 N4 O2 P S,228.08052,229.08779,1.65,NA,No results
+Feature0637,NA,C7 H26 N10 O2 S,314.19511,315.20239,1.554,NA,No results
+Feature0636,NA,C10 H16 N2 O5,244.10576,245.11303,1.977,NA,No results
+Feature0635,NA,C6 H16 N9 O2 P,277.11731,278.12459,6.117,NA,No results
+Feature0634,NA,C7 H12 N2 O3,172.08468,173.09196,1.746,NA,No results
+Feature0633,NA,C6 H18 N9 O4 P3,373.07027,374.07755,6.297,NA,No results
+Feature0632,NA,C6 H9 N3 O2,155.0694,156.07668,2.233,NA,No results
+Feature0631,NA,C8 H11 N O5,201.06348,219.0973,1.334,NA,No results
+Feature0630,NA,C12 H23 O2 P S,262.11626,263.12344,1.56,NA,No results
+Feature0629,NA,C11 H20 N P S,229.10614,230.11342,2.369,NA,No results
+Feature0628,NA,C6 H10 N9 O P,255.07413,256.0814,2.298,NA,No results
+Feature0627,NA,C14 H30 N O P S,291.17914,292.18641,1.562,NA,No results
+Feature0626,NA,C10 H11 N O7,257.05332,258.06059,4.792,NA,No results
+Feature0625,NA,C7 H7 N O3,153.04249,171.07632,2.97,NA,No results
+Feature0624,NA,C4 H6 N4 P2 S2,235.95144,236.95858,0.976,NA,No results
+Feature0623,NA,C5 H9 N O2 S,147.03533,148.04261,2.68,NA,No results
+Feature0622,NA,C12 H18 O11 P2 S,432.00467,433.01195,2.171,NA,No results
+Feature0621,NA,C6 H13 N O9,243.05843,244.06571,2.026,NA,No results
+Feature0620,NA,C6 H8 O4,144.04217,145.04945,2.126,NA,No results
+Feature0619,NA,C13 H28 O12 S2,440.10337,441.11065,2.714,NA,No results
+Feature0618,NA,C7 H10 O5,174.05266,175.05993,1.36,NA,No results
+Feature0617,NA,C9 H14 N O P,183.08046,184.08774,4.287,NA,No results
+Feature0616,NA,C18 H35 N O16,521.19533,522.20261,1.636,NA,No results
+Feature0615,NA,C20 H31 N3 O18 P2,663.10887,664.11614,4.877,NA,No results
+Feature0614,NA,C14 H18 N2 O2,246.13665,247.14393,8.99,NA,No results
+Feature0613,NA,C4 H9 N O5,151.04799,152.05526,1.839,NA,No results
+Feature0612,NA,C14 H26 N2 O10,382.15851,383.16579,1.495,NA,No results
+Feature0611,NA,C5 H4 O4,128.01084,129.01812,3.033,NA,No results
+Feature0610,NA,C25 H38 N4 O17,666.22177,684.25555,1.911,NA,No results
+Feature0609,NA,C6 H16 N9 O2 P,277.116,278.12328,1.89,NA,No results
+Feature0608,NA,C39 H47 N9 O3 P2 S,783.30039,784.30767,1.563,NA,No results
+Feature0607,NA,C6 H12 N7 O P,229.08493000000001,230.0922,2.979,NA,No results
+Feature0606,NA,C7 H7 Cl N5 O2 P,259.00272,260.00999,0.975,NA,No results
+Feature0605,NA,C6 H12 O5,164.06836,182.10218,1.645,NA,No results
+Feature0604,NA,C2 H4 N10 O9,312.01621,313.02349,2.381,NA,No results
+Feature0603,NA,C9 H16 O P2 S2,266.01287,267.02014,1.38,NA,No results
+Feature0602,NA,C8 H13 N O6,219.07406,220.08133,1.501,NA,No results
+Feature0601,NA,C9 H15 N3 O5,245.10102,246.1083,3.048,NA,No results
+Feature0600,NA,C6 H5 N4 O2 P S,227.98598,228.99326,1.171,NA,No results
+Feature0599,NA,C9 H16 N2 O3,200.11593,201.12321,2.115,NA,No results
+Feature0598,NA,C12 H16 N2 O4,252.11094,253.11822,6.091,NA,No results
+Feature0597,NA,C13 H23 N3 O6,317.15842,318.1657,6.191,NA,No results
+Feature0596,NA,C11 H14 Cl N2 P,240.05874,241.06601,1.055,NA,No results
+Feature0595,NA,C4 H6 N2 O2,114.04284,115.05011,2.164,NA,No results
+Feature0594,NA,C10 H20 N O12 P S2,441.01631,442.02359,2.785,NA,No results
+Feature0593,NA,C5 H4 Cl N4 O4 P3,311.91287,312.92015,0.977,NA,No results
+Feature0592,NA,C14 H27 N2 P3,316.13818,317.14546,1.846,NA,No results
+Feature0591,NA,C19 H42 N9 O16 P,683.24798,684.25525,1.565,NA,No results
+Feature0590,NA,C10 H17 N3 O4 S,275.09382,276.1011,3.527,NA,No results
+Feature0589,NA,C3 H5 N6 O P3 S3,329.88867,352.87804,0.975,NA,No results
+Feature0588,NA,C15 H27 N O14,445.14421,446.15148,6.634,NA,No results
+Feature0587,NA,C9 H18 N2 O4,218.12651,219.13379,2.285,NA,No results
+Feature0586,NA,NA,174.95665,175.96392,1.17,NA,No results
+Feature0585,NA,C5 H10 Cl N4 O8 P S3,415.90891,416.91618,0.978,NA,No results
+Feature0584,NA,C10 H18 N2 O3,214.13156,215.13884,5.238,NA,No results
+Feature0583,NA,C19 H32 N6 O P2 S,454.18101,455.18829,2.917,NA,No results
+Feature0582,NA,C20 H35 O3 P3,416.17802,439.16724,1.14,NA,No results
+Feature0581,NA,C6 H7 N O4,157.03743,158.04473,1.85,NA,No results
+Feature0580,NA,C5 H2 Cl O7 P,239.92337,240.93064,0.974,NA,No results
+Feature0579,NA,C6 H13 N O5,179.07927,180.08655,2.124,NA,No results
+Feature0578,NA,C8 H15 N3 S,185.09855,186.10582,1.651,NA,No results
+Feature0577,NA,C13 H30 N10 O5 S,438.21105,439.21833,1.562,NA,No results
+Feature0576,NA,C8 H27 N8 O6 P,362.17993,363.18721,1.563,NA,No results
+Feature0575,NA,C7 H23 N5 O2 P2 S,303.10641,304.11369,1.561,NA,No results
+Feature0574,NA,C H4 Cl O10 P,241.92232,242.9296,1.254,NA,No results
+Feature0573,NA,C9 H17 N O5,219.11051,220.11779,1.896,NA,No results
+Feature0572,NA,C13 H24 N6 O4,328.18577,329.19305,1.682,NA,No results
+Feature0571,NA,C11 H17 N3 O3 S,271.09887,272.10615,1.521,NA,No results
+Feature0570,NA,C10 H22 N2 O4,234.1578,235.16508,2.03,NA,No results
+Feature0569,NA,C3 H N7 O2 P2,228.9672,229.97447,3.397,NA,No results
+Feature0568,Trigonelline,C7 H7 N O2,137.04755,138.05483,1.499,mzCloud,No results
+Feature0567,NA,C30 H45 N O16 S,707.24783,708.25511,1.545,NA,No results
+Feature0566,NA,C3 H4 N10 O5,260.03662,261.04389,13.068,NA,No results
+Feature0565,NA,C9 H13 N2 O4 P S,276.03357,277.04085,3.316,NA,No results
+Feature0564,NA,C14 H18 O2 P2 S2,344.02339,345.03067,6.532,NA,No results
+Feature0563,NA,C6 H10 N3 O12 P,346.99908,348.00636,1.208,NA,No results
+Feature0562,NA,C3 H7 N5 O4 P2 S2,302.94096,320.97502,1.21,NA,No results
+Feature0561,NA,C7 H11 N O4 S,205.04074,206.04801,2.632,NA,No results
+Feature0560,NA,C H2 Cl O17 P,351.87077,352.87805,0.977,NA,No results
+Feature0559,NA,C15 H11 N7 O P2 S,399.02355,400.03083,6.53,NA,No results
+Feature0558,NA,C7 H16 N2 O2,160.12108,161.12836,1.053,NA,No results
+Feature0557,NA,C12 H8 N2 O2,212.0584,230.09223,2.977,NA,No results
+Feature0556,NA,C6 H10 O2 P2 S,207.988,208.99528,3.372,NA,No results
+Feature0555,NA,C13 H17 Cl N O2 P,285.06896,286.07624,4.537,NA,No results
+Feature0554,NA,C6 H24 N7 P3 S2,351.07342,352.08069,5.582,NA,No results
+Feature0553,NA,C12 H15 N S3,269.03771,270.04499,3.399,NA,No results
+Feature0552,NA,C3 H10 Cl N5 O,167.0581,168.06538,1.501,NA,No results
+Feature0551,NA,C7 H10 N2 O3,170.06903,171.07631,2.979,NA,No results
+Feature0550,NA,C11 H11 N O8,285.04819,286.05546,4.788,NA,No results
+Feature0549,NA,C7 H22 N3 P3 S,273.07393,274.0812,3.308,NA,No results
+Feature0548,NA,C7 H10 O3 P2 S,235.98289,236.99017,2.386,NA,No results
+Feature0547,NA,C7 H13 P S3,223.99113,224.9984,2.43,NA,No results
+Feature0546,NA,C7 H5 N7 O,203.05562,204.0629,4.281,NA,No results
+Feature0545,NA,C6 H9 N O,111.0683,112.07557,1.696,NA,No results
+Feature0544,NA,NA,295.07746,296.08474,13.932,NA,No results
+Feature0543,NA,C14 H18 N2 O6,310.11626,311.12354,5.832,NA,No results
+Feature0542,NA,C3 H4 N4 O12,287.98198,288.98926,1.189,NA,No results
+Feature0541,NA,C10 H15 N3 O8,305.08574,306.09301,1.502,NA,No results
+Feature0540,NA,C6 H11 N O5,177.06358,178.07086,3.101,NA,No results
+Feature0539,NA,C9 H9 N2 O4 P S,272.00091,273.00819,1.406,NA,No results
+Feature0538,NA,C9 H17 N O5,219.11053,220.11781,2.53,NA,No results
+Feature0537,NA,C6 H9 O7 P,224.00837,225.01565,1.242,NA,No results
+Feature0536,NA,C10 H20 N2 O4,232.14215,233.14943,4.711,NA,No results
+Feature0535,L-Pyroglutamic acid,C5 H7 N O3,129.04241,147.07629,1.518,mzCloud,No results
+Feature0534,NA,C6 H7 N8 O9 P3,427.95528,428.96255,1.21,NA,No results
+Feature0533,NA,C14 H29 N10 O16 P S2,688.09449,689.10176,5.589,NA,No results
+Feature0532,NA,NA,293.13536,294.14264,1.147,NA,No results
+Feature0531,NA,C14 H26 N4 O5,330.19007,331.19734,1.35,NA,No results
+Feature0530,NA,C8 H9 N O2,151.06326,152.07054,2.485,NA,No results
+Feature0529,NA,C14 H21 N O11,379.11130000000003,380.11859,3.208,NA,No results
+Feature0528,NA,C4 H6 O5,134.02146,152.05528,1.839,NA,No results
+Feature0527,NA,C6 H4 O8 S,235.96312,236.97039,3.316,NA,No results
+Feature0526,NA,C15 H23 P3,296.1006,297.10787,4.296,NA,No results
+Feature0525,NA,C12 H22 N O P S,259.11665,260.12392,2.139,NA,No results
+Feature0524,NA,C12 H26 N2 O4,262.18902,263.1963,4.203,NA,No results
+Feature0523,NA,C6 H15 N8 O P,246.1115,247.11878,2.975,NA,No results
+Feature0522,NA,C3 H9 N2 P S,136.0221,137.02937,0.976,NA,No results
+Feature0521,NA,C17 H7 N O10,385.00736,386.01464,1.394,NA,No results
+Feature0520,NA,C8 H15 N O6,221.08959,222.09695,1.296,NA,No results
+Feature0519,NA,C H3 O13 P3 S,347.84972,348.85699,1.245,NA,No results
+Feature0518,Dihydrothymine,C5 H8 N2 O2,128.05845,129.06572,1.352,mzCloud,No results
+Feature0517,NA,C17 H28 N2 O18 P2,610.08216,611.08944,5.744,NA,No results
+Feature0516,NA,C8 H13 N3 O4,215.09047,216.09774,3.858,NA,No results
+Feature0515,NA,C5 H11 N10 O P,258.08498,259.09226,5.52,NA,No results
+Feature0514,NA,C9 H19 N O S2,221.08967,222.09704,1.588,NA,No results
+Feature0513,NA,NA,201.09342,202.1007,1.555,NA,No results
+Feature0512,NA,C4 H10 N4 O11,290.03407,313.02348,2.381,NA,No results
+Feature0511,NA,C10 H16 N3 O P S,257.07404,258.08131,4.53,NA,No results
+Feature0510,NA,C3 H4 O9,183.98492,202.01873,1.167,NA,No results
+Feature0509,NA,C7 H9 N3 O2,167.0694,168.07668,1.992,NA,No results
+Feature0508,NA,C5 H18 N5 O4 P S2,307.05331,308.06058,4.283,NA,No results
+Feature0507,NA,C16 H24 N2 P2,306.14259,307.14987,1.055,NA,No results
+Feature0506,NA,C13 H26 Cl N5 O P2,365.13193,366.1392,1.545,NA,No results
+Feature0505,NA,C11 H12 N2 O4,236.07947,237.08675,7.413,NA,No results
+Feature0504,NA,C13 H19 N9 O14 P2 S2,650.99784,652.00512,1.748,NA,No results
+Feature0503,NA,C6 H13 N O2,131.09452,132.10179,1.497,NA,No results
+Feature0502,NA,C8 H14 N2 O3,186.10034,187.10761,3.226,NA,No results
+Feature0501,NA,C3 H6 N9 O10 P,358.99711,360.00439,1.208,NA,No results
+Feature0500,NA,C7 H14 O6,194.0789,195.08617,1.383,NA,No results
+Feature0499,NA,NA,132.9916,133.99888,0.975,NA,No results
+Feature0498,NA,C5 H9 N O4,147.0531,148.06038,2.569,NA,No results
+Feature0497,NA,C6 H7 N3 O6 P2,278.98012,279.98739,1.31,NA,No results
+Feature0496,NA,C9 H12 N3 P S2,257.01996,258.02724,2.496,NA,No results
+Feature0495,NA,C6 H8 N4 O3,184.05949,185.06677,3.314,NA,No results
+Feature0494,NA,C8 H14 N2 O5,218.09012,219.0974,3.014,NA,No results
+Feature0493,NA,C3 H2 N2 O9,209.97549,210.98276,2.407,NA,No results
+Feature0492,NA,C8 H7 N O2,149.04763,150.0549,2.652,NA,No results
+Feature0491,NA,C12 H35 N9 O2 P2 S,431.21251,432.21979,5.597,NA,No results
+Feature0490,NA,C9 H11 N2 O5 P S,290.01286,291.02014,3.313,NA,No results
+Feature0489,NA,C7 H15 N O3,161.10509,162.11237,2.481,NA,No results
+Feature0488,NA,C4 H11 N O6 P2,231.00663,232.01391,1.054,NA,No results
+Feature0487,NA,C8 H12 N2 O4,200.07953,201.08681,3.115,NA,No results
+Feature0486,NA,C18 H30 N3 O P S,367.18532,368.1926,6.528,NA,No results
+Feature0485,NA,C13 H21 O P S,256.10571,257.11298,6.654,NA,No results
+Feature0484,NA,C9 H7 N O,145.05268,146.05996,8.848,NA,No results
+Feature0483,NA,C11 H21 N O7 S,311.10375,312.11102,3.433,NA,No results
+Feature0482,NA,C4 H14 N4 O5,198.09573,199.103,1.299,NA,No results
+Feature0481,NA,C11 H33 N8 O3 P,356.24211,357.24939,6.866,NA,No results
+Feature0480,NA,C6 H14 O8 S2,278.01287,279.02015,4.093,NA,No results
+Feature0479,NA,C11 H21 N3 O4,259.15311,260.16039,2.755,NA,No results
+Feature0478,NA,C10 H17 N3 O4,243.12174,261.1556,1.058,NA,No results
+Feature0477,NA,C8 H15 N O3,173.10511,174.11239,2.444,NA,No results
+Feature0476,NA,C8 H16 N O7 P,269.06627,270.07354,2.566,NA,No results
+Feature0475,NA,C7 H7 N O2,137.04758,138.05485,1.748,NA,No results
+Feature0474,NA,C4 H13 N8 O3 P,252.08566,253.09294,6.873,NA,No results
+Feature0473,[Similar to: N-Acetylneuraminic acid; ΔMass: -36.0213 Da],C11 H15 N O7,273.08467,274.09195,1.703,NA,No results
+Feature0472,NA,C8 H11 N3 O3,197.07986,198.08714,5.406,NA,No results
+Feature0471,NA,C4 H11 N7 O2 P2 S,283.01697,284.02425,3.399,NA,No results
+Feature0470,NA,C16 H21 Cl N P,293.11081,294.11809,1.398,NA,No results
+Feature0469,NA,C21 H30 N O10 P3,549.11055,550.11783,6.929,NA,No results
+Feature0468,NA,C15 H7 Cl O2 S5,413.87597,414.88325,0.977,NA,No results
+Feature0467,NA,C4 H8 N8 O P2,246.03008,247.03734,1.056,NA,No results
+Feature0466,NA,C9 H17 P S3,252.02241,253.02969,2.435,NA,No results
+Feature0465,NA,C10 H30 N7 O9 P,423.18481,424.19209,1.542,NA,No results
+Feature0464,NA,C7 H9 N O2 P2,201.01146,202.01871,1.169,NA,No results
+Feature0463,NA,C5 H8 O5,148.0371,149.0444,2.75,NA,No results
+Feature0462,NA,C5 H6 Cl2 N4 O7,303.96165,304.96893,0.977,NA,No results
+Feature0461,NA,C6 H13 N5 O18,443.02401,444.03129,3.289,NA,No results
+Feature0460,NA,C3 H3 Cl2 N5 O4 P2 S,336.87716,354.91103,0.974,NA,No results
+Feature0459,NA,C5 H8 O11,244.00606,245.01333,3.943,NA,No results
+Feature0458,NA,C7 H8 N2 O2,152.05852,153.06579,6.211,NA,No results
+Feature0457,NA,C16 H39 N7 O3 P2 S,471.23261,472.23988,7.476,NA,No results
+Feature0456,NA,C16 H9 N5 O2 S,335.04817,336.05545,4.28,NA,No results
+Feature0455,NA,C4 H9 N O3,119.05814,120.06542,3.517,NA,No results
+Feature0454,NA,C8 H9 N O3,167.05815,168.06543,1.381,NA,No results
+Feature0453,NA,C10 H17 O P S,216.07453,217.08181,2.672,NA,No results
+Feature0452,NA,C3 H6 N8 S3,249.98857,250.99582,1.17,NA,No results
+Feature0451,NA,C5 H14 N7 O P S3,315.01517,316.02245,2.38,NA,No results
+Feature0450,NA,C5 H8 N6 O4 P2,278.0073,279.01458,1.17,NA,No results
+Feature0449,NA,C14 H26 N O P3,317.12222,318.12949,1.85,NA,No results
+Feature0448,NA,C4 H10 Cl N7 O P2,269.01248,270.01976,1.171,NA,No results
+Feature0447,NA,C3 H8 N9 O5 P3,342.98630000000003,343.99358,4.744,NA,No results
+Feature0446,NA,C19 H2 N2 O,274.01611,275.02385,1.213,NA,No results
+Feature0445,[Similar to: N-Acetylneuraminic acid; ΔMass: -36.0213 Da],C11 H15 N O7,273.08464,274.09192,1.406,NA,No results
+Feature0444,NA,C6 H8 N9 P,237.06361,260.05284,1.343,NA,No results
+Feature0443,NA,C3 H3 N7 O9,280.99844,282.00571,4.286,NA,No results
+Feature0442,NA,C8 H6 N2 O8 S2,321.95674,322.96401,2.382,NA,No results
+Feature0441,NA,NA,218.97967,219.98687,0.975,NA,No results
+Feature0440,NA,C12 H21 N3 O5,287.14795,288.15524,1.14,NA,No results
+Feature0439,NA,C16 H19 N7 O16 S,597.06069,598.06796,1.654,NA,No results
+Feature0438,NA,C11 H29 N10 O2 P S2,428.16531,429.17258,2.296,NA,No results
+Feature0437,NA,C12 H28 N3 O5 P,325.17822,343.21206,3.373,NA,No results
+Feature0436,NA,C8 H15 O5 P S,254.03805,255.04532,1.056,NA,No results
+Feature0435,NA,C11 H21 N8 O2 P S5,488.01475,489.02203,1.534,NA,No results
+Feature0434,NA,C5 H4 O2,96.02104,97.02831,2.14,NA,No results
+Feature0433,NA,C2 H3 N5 O8 S,256.96967,257.97695,0.977,NA,No results
+Feature0432,NA,C28 H45 N O16 S,683.24806,684.25534,2.081,NA,No results
+Feature0431,NA,C13 H16 N8 O,300.14482,301.15209,1.161,NA,No results
+Feature0430,NA,C3 H7 N O3,105.04252,106.04979,1.977,NA,No results
+Feature0429,NA,C3 H10 N2 O9 P2 S,311.95958,312.96686,1.839,NA,No results
+Feature0428,NA,C6 H2 O7 S,217.95121,218.95849,3.945,NA,No results
+Feature0427,NA,NA,200.03384,201.04112,13.304,NA,No results
+Feature0426,NA,C7 H11 N5 O,181.09628,182.10351,3.307,NA,No results
+Feature0425,NA,C8 H14 N2 O3,186.10034,187.10761,3.494,NA,No results
+Feature0424,NA,C12 H25 N5 S2,303.15407,304.16135,2.394,NA,No results
+Feature0423,NA,C8 H22 N7 O6 P S,375.10981,376.11709,1.739,NA,No results
+Feature0422,NA,C8 H9 N O3,167.05815,168.06543,1.748,NA,No results
+Feature0421,NA,NA,189.06995,207.10379,8.833,NA,No results
+Feature0420,NA,C4 H6 Cl N3 O,147.02002,148.02729,0.977,NA,No results
+Feature0419,NA,C11 H19 N2 O P S,258.09622,259.10349,4.217,NA,No results
+Feature0418,NA,C6 H15 N O5,181.09491,182.10218,1.643,NA,No results
+Feature0417,NA,C8 H15 N O6,221.08979,222.09707,1.75,NA,No results
+Feature0416,NA,C22 H14 N2,306.11494,307.12222,6.685,NA,No results
+Feature0415,NA,C5 H15 N10 O P S,294.0884,295.09568,1.81,NA,No results
+Feature0414,NA,C5 H13 N6 O2 P,220.08465,221.09192,3.966,NA,No results
+Feature0413,NA,C12 H22 N4 O2 S2,318.11731,319.12456,1.355,NA,No results
+Feature0412,NA,C3 H12 N4 P2,166.05388,167.06112,4.281,NA,No results
+Feature0411,NA,C11 H20 N2 O2 S2,276.0956,277.10287,1.668,NA,No results
+Feature0410,NA,C5 H8 O4,132.04219,133.04945,8.031,NA,No results
+Feature0409,NA,C10 H19 N O6,249.12106,250.12834,2.705,NA,No results
+Feature0408,NA,C5 H6 O5,146.02144,147.02871,3.036,NA,No results
+Feature0407,NA,C15 H25 N5 O9,419.16514,420.17242,2.587,NA,No results
+Feature0406,NA,C6 H21 N4 O7 P3,354.06257,355.06985,1.384,NA,No results
+Feature0405,NA,C6 H12 N3 P,157.07649,158.08377,8.834,NA,No results
+Feature0404,NA,C9 H12 N2 O4,212.07955,230.11337,5.795,NA,No results
+Feature0403,NA,C8 H9 N4 O P S,240.02241,263.01163,1.065,NA,No results
+Feature0402,NA,C8 H10 N2 O2,166.07412,167.08138,1.492,NA,No results
+Feature0401,NA,C H3 Cl N2 O10 P2,299.89551,300.90279,0.978,NA,No results
+Feature0400,NA,C19 H27 O3 P S,366.14238,367.14965,8.794,NA,No results
+Feature0399,NA,C5 H11 N6 O P,202.07404,203.08131,5.895,NA,No results
+Feature0398,NA,C3 H6 Cl O4 P3,233.91682,251.9511,0.977,NA,No results
+Feature0397,NA,C7 H10 O7,206.04244,224.07625,1.515,NA,No results
+Feature0396,NA,C8 H11 N O6,217.05851,218.06579,1.864,NA,No results
+Feature0395,NA,C8 H21 N10 O3 P,336.15316,337.16044,1.993,NA,No results
+Feature0394,NA,C4 H5 N O P2 S,176.95702,177.9643,1.169,NA,No results
+Feature0393,NA,NA,284.00084,322.964,2.381,NA,No results
+Feature0392,NA,C6 H11 N O2,129.07887,147.1127,1.452,NA,No results
+Feature0391,NA,C6 H4 N2 O13,311.97128,312.97855,1.214,NA,No results
+Feature0390,NA,C5 H9 N O8 S,243.0043,244.01158,2.495,NA,No results
+Feature0389,NA,C10 H24 N9 O9 P,445.14424,446.15151,6.896,NA,No results
+Feature0388,NA,C4 H5 N3 O4 P2,220.97438,221.98166,0.976,NA,No results
+Feature0387,NA,C7 H8 N2 O5 S,232.01448,233.02175,1.054,NA,No results
+Feature0386,NA,C H2 Cl N3 O10,250.94381,251.95109,0.976,NA,No results
+Feature0385,NA,C7 H5 Cl N5 O P,240.99213,241.99941,0.976,NA,No results
+Feature0384,[Similar to: Cytidine 5'-diphosphocholine; ΔMass: -305.1428 Da],C7 H3 Cl N O P,182.96455,183.97183,1.169,NA,No results
+Feature0383,NA,C3 H3 Cl N2 O3 S,181.9549,182.96218,0.976,NA,No results
+Feature0382,NA,C11 H33 N9 P2 S,385.20721,386.21448,1.86,NA,No results
+Feature0381,NA,C8 H14 N2 O5 S,250.06219,251.06947,4.383,NA,No results
+Feature0380,NA,C8 H6 N4 O4 S,254.01074,255.01802,2.381,NA,No results
+Feature0379,NA,C5 H13 N10 O P,260.10068,261.10796,1.386,NA,No results
+Feature0378,NA,C17 H4 Cl N2 O P S2,381.92069,382.92796,0.976,NA,No results
+Feature0377,NA,NA,265.96677,304.92988,1.342,NA,No results
+Feature0376,NA,NA,205.12233,206.12961,2.385,NA,No results
+Feature0375,NA,NA,238.06402,239.07071,1.064,NA,No results
+Feature0374,NA,C14 H33 N4 O7 P,400.20679,401.21406,7.031,NA,No results
+Feature0373,NA,C6 H Cl O15,347.89905,348.90591,0.977,NA,No results
+Feature0372,NA,C6 H8 N2 O2,140.05847,158.09232,1.258,NA,No results
+Feature0371,NA,NA,156.0034,157.01068,1.836,NA,No results
+Feature0370,NA,C4 H13 N6 O2 P,208.08461,226.11843,7.216,NA,No results
+Feature0369,NA,C11 H21 N O4 S2,295.09011,296.09739,1.373,NA,No results
+Feature0368,NA,C2 H3 N O16 P2,358.89242,359.89969,1.244,NA,No results
+Feature0367,NA,C15 H33 N6 O5 P3,470.17466,471.18194,1.525,NA,No results
+Feature0366,NA,C6 H7 N8 P3,284.00085,285.00817,1.302,NA,No results
+Feature0365,NA,C6 H18 Cl N2 P3 S3,341.95219,342.95946,6.396,NA,No results
+Feature0364,NA,C6 H20 N7 O5 P,301.12716,319.16101,1.2,NA,No results
+Feature0363,NA,C9 H12 N2 O4,212.07953,213.08681,4.059,NA,No results
+Feature0362,NA,C9 H16 N4 O3,228.12206,229.12934,3.111,NA,No results
+Feature0361,NA,C3 H2 N10 S2,241.99043,242.99771,1.838,NA,No results
+Feature0360,NA,C12 H22 N O2 P S,275.11153,276.11881,2.095,NA,No results
+Feature0359,NA,C7 H12 N2 O5,204.07444,205.08173,2.135,NA,No results
+Feature0358,NA,C9 H14 N2 O6,246.08502,247.0923,2.46,NA,No results
+Feature0357,NA,C7 H10 N2 O2,154.07414,155.08141,2.974,NA,No results
+Feature0356,NA,C8 H10,106.07812,107.08541,11.836,NA,No results
+Feature0355,NA,C H4 Cl N9 O4,241.00636,259.04023,1.17,NA,No results
+Feature0354,NA,C13 H23 N5 O3,297.17996,298.18723,0.984,NA,No results
+Feature0353,NA,C22 H14 N6 O3 S,442.08511,443.09239,7.073,NA,No results
+Feature0352,NA,C11 H30 N4 O P2 S2,360.13197,361.13924,5.819,NA,No results
+Feature0351,NA,C10 H10 P2 S2,255.96971,256.97699,1.841,NA,No results
+Feature0350,NA,NA,338.13193,339.1392,4.535,NA,No results
+Feature0349,NA,C28 H45 N O16 S,683.24809,684.25536,1.916,NA,No results
+Feature0348,NA,C7 H Cl N6 O10 P2,425.89321,426.90049,0.977,NA,No results
+Feature0347,NA,C5 H6 O3,114.0315,115.03878,4.745,NA,No results
+Feature0346,NA,C9 H12 N10 O4,324.10543,325.1127,1.733,NA,No results
+Feature0345,NA,C6 H7 N O4,157.03745,158.04472,3.048,NA,No results
+Feature0344,NA,C6 H18 N8 O8 P2 S2,456.01595,457.02323,3.119,NA,No results
+Feature0343,NA,NA,478.99897,480.00624,1.533,NA,No results
+Feature0342,NA,C10 H19 N O5,233.1261,234.13338,5.755,NA,No results
+Feature0341,NA,C5 H9 N2 O11 P,303.99382,305.00108,1.148,NA,No results
+Feature0340,NA,C13 H26 N3 O17 P S,559.07134,560.07861,2.027,NA,No results
+Feature0339,NA,C19 H42 N9 O16 P,683.24812,684.2554,1.721,NA,No results
+Feature0338,NA,C H4 Cl O8 P,209.93351,210.94049,0.975,NA,No results
+Feature0337,NA,C2 H7 Cl2 N2 O5 P,239.94561,240.95289,0.975,NA,No results
+Feature0336,NA,C8 H13 N O5,203.07921,204.08648,3.09,NA,No results
+Feature0335,NA,C12 H22 N4 O S2,302.12283,303.12971,1.642,NA,No results
+Feature0334,NA,C5 H12 O7 S2,248.00229,249.00956,3.313,NA,No results
+Feature0333,NA,C10 H6 N6 O S,258.03289,259.0402,1.169,NA,No results
+Feature0332,NA,C4 H7 Cl N8 O S2,281.98831,282.99559,1.308,NA,No results
+Feature0331,NA,C3 H3 Cl N2 O4 S,197.95051,198.95779,2.382,NA,No results
+Feature0330,NA,C5 H13 N O7 P2,261.01722,262.0245,1.051,NA,No results
+Feature0329,NA,C9 H15 O P S3,266.00166,267.00894,2.435,NA,No results
+Feature0328,NA,C10 H17 N3 O5,259.11667,260.12394,2.291,NA,No results
+Feature0327,NA,C30 H7 N9 O9 S,669.00848,670.01579,1.547,NA,No results
+Feature0326,NA,C22 H45 N4 O13 P3,666.22162,667.22871,1.715,NA,No results
+Feature0325,NA,C5 H14 N5 O3 P3,285.03179,286.03907,10.012,NA,No results
+Feature0324,NA,C5 H10 N2 O4 P2,224.01137,225.01865,1.171,NA,No results
+Feature0323,NA,C3 H11 N3 O3 S,169.05277,170.06005,8.835,NA,No results
+Feature0322,NA,C10 H17 N3 O6 S,307.08363,308.09091,4.382,NA,No results
+Feature0321,NA,C7 H9 N O3,155.0581,156.06538,1.363,NA,No results
+Feature0320,NA,C11 H17 N O9,307.09018,308.09745,1.89,NA,No results
+Feature0319,NA,C21 H16 N8 O4 P2,506.07615,507.08342,6.791,NA,No results
+Feature0318,NA,C2 H5 Cl N2 O10 P2,313.91108,336.90051,0.973,NA,No results
+Feature0317,NA,C25 H38 N4 O17,666.22151,684.25532,2.238,NA,No results
+Feature0316,NA,C11 H19 O P S,230.09011,231.09738,2.108,NA,No results
+Feature0315,NA,C11 H23 N O6 S,297.12447,298.13174,2.043,NA,No results
+Feature0314,NA,C5 H20 N8 O4 P2,318.10872,319.116,4.533,NA,No results
+Feature0313,NA,C10 H15 N3 O5,257.10101,258.10827,3.26,NA,No results
+Feature0312,NA,C7 H4 Cl N3,165.00944,166.01671,1.534,NA,No results
+Feature0311,NA,C6 H20 Cl N6 O11 P S2,482.00741,483.01468,1.534,NA,No results
+Feature0310,NA,C24 H50 N9 O18 P,783.30027,784.30755,2.043,NA,No results
+Feature0309,NA,C16 H19 N9,337.17485,338.18213,2.802,NA,No results
+Feature0308,NA,C3 H7 N6 P S5,317.90616,318.91344,0.977,NA,No results
+Feature0307,NA,C5 H2 Cl O13 P,335.89322,336.9005,0.975,NA,No results
+Feature0306,NA,C5 H11 N10 P,242.09006,243.09734,1.384,NA,No results
+Feature0305,NA,C7 H2 Cl O3 P S,231.91553,232.9228,0.978,NA,No results
+Feature0304,NA,C6 H12 N2 O4,176.07959,177.08687,3.97,NA,No results
+Feature0303,NA,C4 H12 N6 O S5,319.96766,320.97494,2.38,NA,No results
+Feature0302,NA,C7 H7 N4 O2 P,210.031,211.03827,1.461,NA,No results
+Feature0301,NA,C11 H14 O S3,258.0217,259.02898,1.523,NA,No results
+Feature0300,NA,C19 H16 O5,324.09903,325.1063,1.545,NA,No results
+Feature0299,NA,C3 H Cl N5 P3,234.91369,235.92097,0.977,NA,No results
+Feature0298,NA,C8 H18 O4,178.12094,179.12828,6.867,NA,No results
+Feature0297,NA,C3 H2 N5 O P3,216.94673,217.95401,0.977,NA,No results
+Feature0296,NA,C9 H11 N6 O P3 S,343.99425,345.00152,4.741,NA,No results
+Feature0295,NA,C2 H7 N2 O5 P3,231.95609,232.96358,0.978,NA,No results
+Feature0294,NA,C4 H9 N10 P S,260.04653,261.05381,1.852,NA,No results
+Feature0293,NA,C8 H13 N O5,203.07924,204.08652,3.216,NA,No results
+Feature0292,NA,C4 H6 N6 O4 P2,263.99306,265.00034,1.523,NA,No results
+Feature0291,NA,C6 H5 Cl N5 O2 P,244.98709,245.99436,0.976,NA,No results
+Feature0290,NA,C3 H10 N3 O P3,197.00446,198.01174,2.384,NA,No results
+Feature0289,NA,C9 H17 N O5,219.11051,220.11779,2.409,NA,No results
+Feature0288,NA,C23 H14 O2,322.10105,323.10833,1.358,NA,No results
+Feature0287,NA,C9 H18 N2 O4,218.12656,219.13384,3.772,NA,No results
+Feature0286,NA,C23 H22 N2 S,358.14866,359.15594,1.781,NA,No results
+Feature0285,NA,C3 H6 N10 O3 S2,294.00782,295.01509,3.082,NA,No results
+Feature0284,NA,C4 H8 N10 O2 S2,292.02847,293.03575,4.096,NA,No results
+Feature0283,NA,C8 H16 N2 O4,204.11085,205.11813,3.477,NA,No results
+Feature0282,NA,C13 H37 N7 O12 P2,545.19532,546.20259,1.483,NA,No results
+Feature0281,NA,C21 H14 N O5 P,391.06039,392.06767,6.545,NA,No results
+Feature0280,NA,C7 H8 N2 O3 P2,230.00158,231.00886,1.17,NA,No results
+Feature0279,NA,C19 H43 N6 O10 P,546.27606,547.28334,3.881,NA,No results
+Feature0278,NA,C3 H12 N7 O10 P,337.03881,338.04608,2.302,NA,No results
+Feature0277,NA,C13 H18 N2 O5,282.12139,283.12866,4.412,NA,No results
+Feature0276,NA,C8 H12 N2 O6 S2,296.01222,297.0195,2.425,NA,No results
+Feature0275,NA,C3 H3 Cl N5 O P3,252.92425,253.93153,0.978,NA,No results
+Feature0274,NA,C9 H9 N O2 P2,225.01155,226.01882,2.212,NA,No results
+Feature0273,NA,C39 H11 N4 P3 S,659.99215,660.99942,1.549,NA,No results
+Feature0272,NA,C3 H3 N3 O3,129.0174,147.05122,3.475,NA,No results
+Feature0271,NA,C7 H14 N2 O3 S2,238.04445,239.05173,3.802,NA,No results
+Feature0270,NA,C5 H6 N3 O5 P,219.00398,220.01126,2.024,NA,No results
+Feature0269,NA,C13 H15 N10 O6 P,438.09028,439.09755,4.273,NA,No results
+Feature0268,NA,C34 H18 N3 O3 P3,609.05527,610.06256,4.771,NA,No results
+Feature0267,NA,C11 H23 N2 P S,246.13262,247.1399,2.998,NA,No results
+Feature0266,NA,C4 H15 N7 O2 S2,257.07403,258.08131,4.202,NA,No results
+Feature0265,NA,C7 H23 Cl N8 O P2,332.11463,333.12191,1.055,NA,No results
+Feature0264,NA,C3 H2 N4 O7 S,237.96351,238.97079,3.313,NA,No results
+Feature0263,NA,NA,97.01388,98.02117,1.168,NA,No results
+Feature0262,NA,C4 H4 N6 O2,168.03976,169.04704,8.842,NA,No results
+Feature0261,NA,C10 H15 N3 O4,241.10598,259.13978,1.505,NA,No results
+Feature0260,NA,C5 H20 N7 O3 P,257.13736,258.14464,1.944,NA,No results
+Feature0259,NA,C11 H12 N2 O4,236.07953,237.08681,4.68,NA,No results
+Feature0258,NA,C19 H19 N5 P2,379.11124,380.11851,1.526,NA,No results
+Feature0257,NA,C5 H7 O14 P,321.95676,322.96404,1.304,NA,No results
+Feature0256,NA,C5 H12 O3 S4,247.9678,248.97508,2.496,NA,No results
+Feature0255,NA,C10 H24 N9 O7 P,413.15313,414.1604,1.378,NA,No results
+Feature0254,NA,C19 H4 Cl N6 O P3 S3,555.85138,556.85866,0.977,NA,No results
+Feature0253,NA,C19 H36 N3 O9 P,481.21684,482.22411,1.509,NA,No results
+Feature0252,NA,C5 H7 N4 O5 P,234.01489,235.02217,1.055,NA,No results
+Feature0251,NA,C9 H16 N2 O6,248.10062,249.1079,4.062,NA,No results
+Feature0250,NA,C5 H7 N,81.05778,82.06506,1.056,NA,No results
+Feature0249,NA,C11 H12 N2 O4,236.07952,237.08679,5.737,NA,No results
+Feature0248,NA,C2 H5 N2 O P S3,199.92999,200.9374,0.975,NA,No results
+Feature0247,NA,C4 H9 N O4 S,167.02516,168.03244,1.816,NA,No results
+Feature0246,NA,C10 H15 N3 O4,241.10606,242.11334,5.344,NA,No results
+Feature0245,NA,C6 H4 N4 O2 S,196.00532,197.01259,2.383,NA,No results
+Feature0244,NA,NA,279.99196,318.95506,1.378,NA,No results
+Feature0243,NA,C2 H5 N O9,186.99588,188.00316,1.171,NA,No results
+Feature0242,NA,C11 H15 O2 P S,242.05369,243.06096,4.744,NA,No results
+Feature0241,NA,C4 H8 N2 O4 P2,209.9958,211.00298,1.179,NA,No results
+Feature0240,NA,C2 H8 N3 O P3,182.98883,183.99611,2.382,NA,No results
+Feature0239,NA,C6 H10 S4,209.96721,210.97449,2.382,NA,No results
+Feature0238,NA,NA,618.96578,619.97306,1.527,NA,No results
+Feature0237,NA,C7 H9 N O2,139.06321,157.09703,1.568,NA,No results
+Feature0236,NA,C8 H28 N8 O P2 S,346.16007,347.16708,1.375,NA,No results
+Feature0235,NA,C17 H34 N3 O2 P3,405.18569,406.19297,5.82,NA,No results
+Feature0234,NA,C16 H15 N8 O3 P S2,462.04336,463.05063,5.875,NA,No results
+Feature0233,NA,C26 H20 O2 S3,460.06413,461.0714,5.875,NA,No results
+Feature0232,NA,C7 H18 N5 O5 P,283.10541,284.11268,4.746,NA,No results
+Feature0231,NA,C6 H15 N O6,197.08982,198.0971,2.092,NA,No results
+Feature0230,NA,C5 H13 Cl N7 O6 P,333.03532,334.0426,5.586,NA,No results
+Feature0229,NA,C12 H20 N8 O15 P2 S2,641.99747,643.00473,1.601,NA,No results
+Feature0228,NA,C7 H14 N4 O3,202.10646,203.11374,1.836,NA,No results
+Feature0227,NA,C11 H19 N O6,261.12108,262.12835,5.034,NA,No results
+Feature0226,NA,C2 H5 Cl N O5 P,188.95948,189.96674,2.381,NA,No results
+Feature0225,NA,NA,557.08011,558.08738,1.55,NA,No results
+Feature0224,NA,C4 H N O10,222.96012,223.96739,1.245,NA,No results
+Feature0223,NA,C9 H15 N O3,185.10512,186.1124,2.25,NA,No results
+Feature0222,NA,C5 H13 O9 P,248.03049,249.03776,1.056,NA,No results
+Feature0221,NA,C12 H20 O10,324.10556,325.11284,1.912,NA,No results
+Feature0220,NA,C10 H21 N S2,219.11051,220.11778,1.509,NA,No results
+Feature0219,NA,C2 H8 N3 O3 P,153.03035,154.03763,4.093,NA,No results
+Feature0218,NA,C7 H16 N7 O12 P,421.05895,422.06622,6.534,NA,No results
+Feature0217,NA,C8 H6 N2 O3,178.03773,179.04501,2.515,NA,No results
+Feature0216,NA,NA,200.09021,201.09749,3.095,NA,No results
+Feature0215,NA,C2 H8 N7 O4 P S,257.00949,258.01677,2.381,NA,No results
+Feature0214,NA,C9 H12 N10 O4,324.10554,325.11281,2.066,NA,No results
+Feature0213,NA,C6 H2 O8 S,233.94608,234.95336,1.842,NA,No results
+Feature0212,NA,C10 H15 N3 O8,305.08582,306.0931,2.869,NA,No results
+Feature0211,NA,C4 H10 O2 S,122.04004,123.04732,2.864,NA,No results
+Feature0210,NA,C11 H31 N7 O2 P2 S,387.17512,388.18239,5.91,NA,No results
+Feature0209,NA,C3 H9 Cl N7 P S,241.00639,242.01367,3.397,NA,No results
+Feature0208,NA,C10 H13 N7 O13 S,471.02684,472.03411,3.138,NA,No results
+Feature0207,NA,NA,674.07894,675.08622,5.586,NA,No results
+Feature0206,NA,C9 H4 N O3 P3,266.93989,267.94716,0.976,NA,No results
+Feature0205,NA,C7 H9 N O4,171.05305,172.06033,5.246,NA,No results
+Feature0204,NA,C10 H11 N O4,209.06864,210.07591,3.644,NA,No results
+Feature0203,NA,C5 H18 N7 O5 P,287.11156,305.14533,1.15,NA,No results
+Feature0202,NA,C6 H10 N2 O4,174.06395,175.07124,1.845,NA,No results
+Feature0201,NA,C6 H8 N2 O2,140.05851,141.06579,1.669,NA,No results
+Feature0200,NA,NA,171.11303,172.12049,1.541,NA,No results
+Feature0199,NA,C9 H14 O7,234.07375,235.08102,1.67,NA,No results
+Feature0198,NA,NA,230.11826,231.12554,1.563,NA,No results
+Feature0197,NA,C5 H9 N4 P3 S,249.97737,250.98465,1.373,NA,No results
+Feature0196,NA,C3 H9 Cl N6 O11,340.00202,341.0093,4.745,NA,No results
+Feature0195,NA,C4 H12 N9 P,217.09479,218.10206,1.547,NA,No results
+Feature0194,NA,NA,363.19519,364.20247,1.557,NA,No results
+Feature0193,NA,C14 H18 N P S,263.09045,264.09772,5.029,NA,No results
+Feature0192,NA,C6 H6 N O P3 S,232.93833,233.94561,1.84,NA,No results
+Feature0191,NA,C12 H15 N O4,237.09989,255.13373,7.448,NA,No results
+Feature0190,NA,NA,267.98996,268.99724,1.201,NA,No results
+Feature0189,NA,NA,144.02719,145.03447,0.975,NA,No results
+Feature0188,NA,C11 H17 N O6,259.10539,260.11267,1.897,NA,No results
+Feature0187,NA,C5 H13 N9 P2,261.07807,262.08534,1.679,NA,No results
+Feature0186,NA,C19 H20 N5 O16 P S2,669.00866,670.01599,1.748,NA,No results
+Feature0185,NA,C2 H8 N7 O15 P,400.9822,401.98948,2.786,NA,No results
+Feature0184,NA,C4 H11 N10 O P,246.08488,247.09214,1.513,NA,No results
+Feature0183,NA,NA,546.08998,547.09725,1.548,NA,No results
+Feature0182,NA,C6 H8 Cl N4 O5 P3,343.93915,344.94643,0.978,NA,No results
+Feature0181,NA,C6 H13 N7 O2 S,247.08606,248.09333,1.496,NA,No results
+Feature0180,NA,C14 H17 N3 O P2,305.08569,306.09297,1.375,NA,No results
+Feature0179,NA,C3 H4 Cl O14 P3,391.8506,392.85787,0.975,NA,No results
+Feature0178,NA,C6 H17 N O2 P2,197.07391,198.08118,2.03,NA,No results
+Feature0177,NA,C6 H2 Cl N8 O3 P,299.96674,300.97401,0.976,NA,No results
+Feature0176,NA,C11 H20 N2 O5,260.13707,261.14435,5.063,NA,No results
+Feature0175,NA,C7 H19 N8 O7 P3,420.05959,421.06686,6.533,NA,No results
+Feature0174,NA,C4 H N2 O8 P,235.94656,236.95384,1.838,NA,No results
+Feature0173,NA,C6 H2 Cl N6 O15 P,463.90059,464.90786,6.403,NA,No results
+Feature0172,NA,C14 H27 N2 O6 P S,382.1309,383.13817,4.148,NA,No results
+Feature0171,NA,C6 H16 N9 O P,261.12106,262.12834,4.385,NA,No results
+Feature0170,[Similar to: Cytidine 5'-diphosphocholine; ΔMass: -305.1064 Da],C7 H7 N O P2,183.00091,184.00819,1.145,NA,No results
+Feature0169,NA,C4 H5 N9 O8 P2,368.97492,369.98219,1.175,NA,No results
+Feature0168,NA,C6 H17 N5 O3 P2,269.08169,270.08896,2.274,NA,No results
+Feature0167,NA,C15 H21 N O8,343.12657,344.13384,5.067,NA,No results
+Feature0166,NA,C17 H19 N9 O13 S,589.082,590.08927,3.285,NA,No results
+Feature0165,NA,C5 H14 N9 O P,247.10531,248.11259,1.375,NA,No results
+Feature0164,NA,C8 H13 Cl S,176.04323,177.05051,1.782,NA,No results
+Feature0163,NA,C5 H7 N3 O,125.05878,126.06606,5.341,NA,No results
+Feature0162,NA,NA,618.96579,619.97306,1.6,NA,No results
+Feature0161,NA,C11 H21 N6 O18 P S,588.03672,589.044,1.593,NA,No results
+Feature0160,NA,C8 H9 N O4,183.05295,201.08677,2.464,NA,No results
+Feature0159,NA,C4 H9 N,71.07347,72.08075,1.053,NA,No results
+Feature0158,NA,C6 H10 N2 O2 P2,204.02123,205.02859,2.38,NA,No results
+Feature0157,NA,C13 H21 N2 P S,268.117,269.12428,2.514,NA,No results
+Feature0156,NA,C12 H15 N P2,235.06904,236.07631,1.355,NA,No results
+Feature0155,NA,C4 H7 N10 P,226.05884,227.06607,1.585,NA,No results
+Feature0154,NA,C6 H2 N6 O P2,235.97668,236.98395,1.336,NA,No results
+Feature0153,NA,C4 H9 N O4,135.05271,136.05999,2.785,NA,No results
+Feature0152,NA,C9 H14 N2 O5,230.09012,231.0974,4.062,NA,No results
+Feature0151,NA,NA,241.99032,280.95344,1.499,NA,No results
+Feature0150,NA,C19 H11 N S,285.06114,286.06842,1.054,NA,No results
+Feature0149,NA,NA,665.06167,666.06895,5.589,NA,No results
+Feature0148,NA,C6 H8 N3 O5 P,233.01964,234.02691,4.533,NA,No results
+Feature0147,NA,C9 H N6 P,224.00026,225.00753,3.949,NA,No results
+Feature0146,NA,C7 H N2 O4 P,207.96689,208.97417,2.386,NA,No results
+Feature0145,NA,C7 H22 N9 O6 P3,421.09141,422.09868,6.546,NA,No results
+Feature0144,NA,C6 H19 N7 O P2,267.11228,268.11955,1.173,NA,No results
+Feature0143,NA,C5 H9 N6 O P,200.05811,201.06539,5.852,NA,No results
+Feature0142,NA,C8 H11 N2 O P,182.06113,183.06841,2.033,NA,No results
+Feature0141,NA,C10 H14 N2 O6,258.08496,259.09226,1.956,NA,No results
+Feature0140,NA,C7 H9 N O5,187.04794,205.08177,2.126,NA,No results
+Feature0139,NA,C8 H19 N O6,225.12106,226.12833,2.13,NA,No results
+Feature0138,NA,C5 H11 N O2 S,149.05096,150.05824,3.218,NA,No results
+Feature0137,NA,C4 H12 N2 O7,200.0646,201.07188,1.05,NA,No results
+Feature0136,NA,C4 H8 O4,120.04218,121.04945,1.791,NA,No results
+Feature0135,NA,C23 H16 N8 O7 S,548.08556,549.09284,1.737,NA,No results
+Feature0134,NA,C5 H5 N3 O3 P2,216.98016,217.98744,2.38,NA,No results
+Feature0133,NA,C5 H10 N2 O3 S2,210.01312,211.0204,1.53,NA,No results
+Feature0132,NA,C7 H N4 O3 P,219.97786,258.94127,0.977,NA,No results
+Feature0131,NA,C16 H23 O18 P3 S,627.98158,628.98882,1.527,NA,No results
+Feature0130,NA,C7 H2 N O8 P3,320.89922,321.90649,0.979,NA,No results
+Feature0129,NA,C3 H8 O5 P2,185.98489,208.97415,2.382,NA,No results
+Feature0128,NA,C3 H7 O5 P,154.00298,155.01027,1.375,NA,No results
+Feature0127,NA,C6 H3 N O3 P2,198.95941,199.96669,1.168,NA,No results
+Feature0126,NA,C9 H23 N6 O16 P3 S2,627.98195,628.9892,1.598,NA,No results
+Feature0125,NA,C3 H8 N6 O3 P2 S,269.98538,270.99265,2.379,NA,No results
+Feature0124,NA,C6 H8 N4 O4 P2,262.00239,263.00966,0.975,NA,No results
+Feature0123,NA,C4 H9 N10 P,228.07441,251.06362,6.12,NA,No results
+Feature0122,NA,C6 H7 N3 O5 P2,262.98516,263.99243,1.523,NA,No results
+Feature0121,NA,NA,392.06482,393.0721,6.536,NA,No results
+Feature0120,NA,NA,323.12146,324.12873,1.745,NA,No results
+Feature0119,NA,C3 H9 N3 O3 S,167.03637,168.04364,1.375,NA,No results
+Feature0118,NA,C15 H21 N2 O2 P S,324.10546,325.11274,2.24,NA,No results
+Feature0117,NA,C5 H11 N4 O18 P,445.97981,446.98708,2.788,NA,No results
+Feature0116,NA,C5 H17 N3 O3 P2,229.07555,230.08283,1.361,NA,No results
+Feature0115,NA,C32 H44 N7 O2 P3 S,683.24792,684.25519,2.235,NA,No results
+Feature0114,NA,C12 H23 N O8,309.14232,310.14959,2.892,NA,No results
+Feature0113,NA,C26 H15 O18 P3,707.94812,708.95539,1.599,NA,No results
+Feature0112,NA,C6 H10 N2 O3,158.06905,159.07633,3.974,NA,No results
+Feature0111,NA,C7 H26 N10 O5 S,362.17998,363.18726,1.786,NA,No results
+Feature0110,NA,C4 H6 O5 P2 S,227.94146,228.94874,0.973,NA,No results
+Feature0109,NA,C H2 N3 O5 P3,228.91993,229.9272,1.245,NA,No results
+Feature0108,NA,NA,213.12281,214.12967,1.634,NA,No results
+Feature0107,NA,C8 H7 N4 P3,251.98888,252.99616,1.171,NA,No results
+Feature0106,NA,C9 H11 N3 O5,241.06969,242.07697,2.275,NA,No results
+Feature0105,NA,C7 H17 N O6,211.10543,212.11271,1.761,NA,No results
+Feature0104,NA,C3 H9 N7 O2 S3,270.99924,272.00652,2.495,NA,No results
+Feature0103,NA,C2 H N7 O2 P2,216.96723,217.97451,2.214,NA,No results
+Feature0102,NA,NA,607.97602,608.98329,1.525,NA,No results
+Feature0101,NA,C5 H14 N9 O P,247.10546,248.11273,1.948,NA,No results
+Feature0100,NA,C2 H8 N O9 P S,252.96575,253.97303,3.315,NA,No results
+Feature0099,NA,C21 H25 Cl N4 O2 P2 S5,621.9745,622.98178,1.569,NA,No results
+Feature0098,NA,C6 H10 O5,162.0527,163.05999,5.53,NA,No results
+Feature0097,NA,C9 H10 O9 S,294.00366,295.01094,2.126,NA,No results
+Feature0096,NA,C14 H24 Cl N2 P S,318.10872,319.116,4.204,NA,No results
+Feature0095,NA,C7 H8 Cl N2 P,186.01184,187.01911,1.376,NA,No results
+Feature0094,NA,C23 H7 N S,329.03078,330.03806,1.515,NA,No results
+Feature0093,NA,C8 H7 N2 P,162.03499,163.04225,2.066,NA,No results
+Feature0092,NA,NA,659.99235,660.99963,1.75,NA,No results
+Feature0091,NA,C3 H N3 O3 P2,188.9485,189.95578,2.381,NA,No results
+Feature0090,NA,C7 H6 N3 O P S,210.99602,212.0033,2.22,NA,No results
+Feature0089,NA,C7 H20 N2 O8 P2,322.0706,323.07788,1.535,NA,No results
+Feature0088,NA,C2 H5 N4 O9 P S,291.95161,292.95888,3.036,NA,No results
+Feature0087,NA,C4 H15 N8 O3 P,254.10003,255.10735,1.524,NA,No results
+Feature0086,NA,NA,180.95463,181.96191,0.973,NA,No results
+Feature0085,NA,C5 H12 O5 P2,214.01592,215.02315,2.382,NA,No results
+Feature0084,NA,C2 H2 O10,185.96423,186.97151,2.383,NA,No results
+Feature0083,NA,C9 H25 N5 O3 P2 S,345.11707,346.12434,3.955,NA,No results
+Feature0082,NA,C8 H7 N O2 P2,210.9955,212.00241,1.171,NA,No results
+Feature0081,NA,C6 H13 N10 O2 P3,350.0431,351.05037,4.747,NA,No results
+Feature0080,NA,C12 H22 N7 O17 P3 S,661.00029,662.00756,1.746,NA,No results
+Feature0079,NA,C6 H8 N2 O P2,186.01188,187.01915,1.171,NA,No results
+Feature0078,NA,C7 H12 N8 O7 S3,416.00012,417.0074,4.747,NA,No results
+Feature0077,NA,C9 H2 Cl O2 P,207.94745,208.95472,0.973,NA,No results
+Feature0076,NA,NA,453.03669,454.04397,2.792,NA,No results
+Feature0075,NA,C8 H9 N2 O P,180.04554,181.05282,2.18,NA,No results
+Feature0074,NA,C13 H28 N2 O2 P2 S2,370.10574,371.11302,3.063,NA,No results
+Feature0073,NA,C8 H12 N2 O2,168.08973,186.12356,1.386,NA,No results
+Feature0072,NA,C H N5 O8 S,242.95405,243.96133,0.976,NA,No results
+Feature0071,NA,C3 H4 N5 O2 P3,234.95757,235.96485,0.975,NA,No results
+Feature0070,NA,C4 H6 N10 S2,258.02175,259.02903,3.94,NA,No results
+Feature0069,NA,C4 H12 Cl N3 O P2,215.01493,216.02221,2.387,NA,No results
+Feature0068,NA,NA,200.99931,202.00659,2.381,NA,No results
+Feature0067,NA,C8 H4 Cl O3 P,213.95916,214.96643,3.941,NA,No results
+Feature0066,NA,C4 H7 N2 O P3 S,223.94895,224.95615,0.975,NA,No results
+Feature0065,NA,C10 H11 N4 P,218.07237,219.07965,4.867,NA,No results
+Feature0064,NA,C6 H10 Cl2 N3 P,224.99937,226.00664,3.944,NA,No results
+Feature0063,NA,C3 H9 N10 O4 P3,342.00223,343.00951,2.302,NA,No results
+Feature0062,NA,C3 H8 N6 O3 P2 S3,333.92819,334.93547,3.944,NA,No results
+Feature0061,NA,C37 H58 N3 O11 P3 S,845.30082,846.3081,2.697,NA,No results
+Feature0060,NA,C3 H Cl2 N5 O7 P2,350.87465,351.88192,0.977,NA,No results
+Feature0059,NA,C2 H5 N O7,155.00681,156.0141,0.977,NA,No results
+Feature0058,NA,C25 H14 O2 S,378.07241,379.07968,1.055,NA,No results
+Feature0057,NA,C6 H10 O6 P2,239.99508,241.00235,2.382,NA,No results
+Feature0056,NA,NA,607.97606,608.98334,1.599,NA,No results
+Feature0055,NA,C40 H49 N9 O6 P2 S,845.3011,846.30837,2.565,NA,No results
+Feature0054,NA,C6 H10 N2 O4 P2,236.01146,237.01872,2.434,NA,No results
+Feature0053,NA,C17 H30 N10 S2,438.21113,439.2184,1.858,NA,No results
+Feature0052,NA,C15 H33 N10 O P3 S2,526.15086,527.15814,1.737,NA,No results
+Feature0051,NA,NA,216.09961,217.10689,2.294,NA,No results
+Feature0050,NA,C8 H15 N3 O2,185.1163,186.12358,1.415,NA,No results
+Feature0049,NA,C6 H7 N2 O5 P,218.00884,219.01611,5.216,NA,No results
+Feature0048,NA,C8 H3 N2 O5 P,237.97829,238.98556,2.381,NA,No results
+Feature0047,NA,C5 H16 N O12 P3,374.98871,375.99599,4.806,NA,No results
+Feature0046,NA,C14 H23 N9 O15 P2 S2,683.02399,684.03127,1.751,NA,No results
+Feature0045,NA,C4 H6 N3 O10 P3,348.92695,349.93422,2.384,NA,No results
+Feature0044,NA,C3 H9 O5 P3,217.96617,218.97345,1.335,NA,No results
+Feature0043,NA,C7 H14 N2 O4 P2,252.04276,253.05002,1.057,NA,No results
+Feature0042,NA,NA,114.98109,115.9883,0.974,NA,No results
+Feature0041,NA,C H3 N2 O8 P S,233.93399,234.94126,0.973,NA,No results
+Feature0040,NA,C13 H2 N O3 P,250.97601,251.98328,2.494,NA,No results
+Feature0039,NA,C6 H19 N5 O4 P2,287.09232,288.0996,2.285,NA,No results
+Feature0038,NA,C27 H36 O18 P2,710.13783,711.14511,2.238,NA,No results
+Feature0037,NA,C5 H4 N6 O7 P2,321.96227,322.96955,1.842,NA,No results
+Feature0036,NA,C11 H26 N9 O7 P,427.16857,428.17585,1.616,NA,No results
+Feature0035,NA,C9 H16 N P S,201.07482,202.08209,1.803,NA,No results
+Feature0034,NA,C14 H13 Cl N2 O S3,355.98912,356.9964,4.747,NA,No results
+Feature0033,NA,C6 H8 Cl N O9,272.98818,273.99546,3.399,NA,No results
+Feature0032,NA,C2 H N4 P3 S,205.91438,206.92166,0.98,NA,No results
+Feature0031,NA,NA,550.06602,551.0733,4.745,NA,No results
+Feature0030,NA,C6 H7 N3 O6 P2,278.98012,279.9874,2.384,NA,No results
+Feature0029,NA,NA,186.11882,187.1261,7.518,NA,No results
+Feature0028,NA,C6 H10 N4 O4 P2,264.01755000000003,265.02483,1.38,NA,No results
+Feature0027,NA,C5 H12 N2 O9,244.05377,245.06105,1.049,NA,No results
+Feature0026,NA,C7 H14 O8 P2,288.01751,289.02479,3.319,NA,No results
+Feature0025,NA,C2 H3 N O2,73.01635,74.02362,2.494,NA,No results
+Feature0024,NA,C9 H11 N O2,165.07888,166.08616,2.183,NA,No results
+Feature0023,NA,C3 H5 N3 O8 S,242.9807,243.98798,2.386,NA,No results
+Feature0022,NA,C5 H11 N10 O2 P3,336.02751,337.03479,4.747,NA,No results
+Feature0021,NA,C3 H8 N O5 P3 S,262.93389,263.94117,0.971,NA,No results
+Feature0020,NA,NA,282.18366,283.19093,3.37,NA,No results
+Feature0019,NA,C8 H6 N2 O2,162.04284,163.05012,5.429,NA,No results
+Feature0018,NA,C8 H N2 O2 P,187.9771,188.98438,2.377,NA,No results
+Feature0017,NA,C20 H30 O16,526.15073,527.15801,1.635,NA,No results
+Feature0016,NA,C4 H14 N6 O10,306.07573,307.08301,2.721,NA,No results
+Feature0015,NA,C3 H2 N6 O11 P2,359.92569,360.93297,2.382,NA,No results
+Feature0014,NA,C5 H N5 O5,210.99725,212.00453,2.27,NA,No results
+Feature0013,NA,C6 H18 N5 O4 P S4,382.99656,384.00383,4.802,NA,No results
+Feature0012,NA,C8 H10 N2 O3,182.06902,183.07631,3.245,NA,No results
+Feature0011,NA,C3 H12 N6 O2 S5,323.96263,324.9699,1.837,NA,No results
+Feature0010,NA,C2 H4 O11 S,235.94732,236.9546,0.926,NA,No results
+Feature0009,NA,C3 H9 N7 O8 P2,332.99939,334.00666,3.406,NA,No results
+Feature0008,NA,C6 H12 Cl N9 O2,277.07963,278.08691,1.77,NA,No results
+Feature0007,NA,C6 H14 N9 P3,305.05795,306.06523,4.277,NA,No results
+Feature0006,NA,C3 H5 N8 P3,245.98538,246.99265,1.841,NA,No results
+Feature0005,NA,C H2 N9 O3 P S,250.97398,251.98126,2.321,NA,No results
+Feature0004,NA,C3 H8 Cl N3 O3 S3,264.94226,265.94953,1.024,NA,No results
+Feature0003,NA,C6 H12 Cl N3 O4 P2 S,318.97152,319.97879,2.382,NA,No results
+Feature0002,NA,NA,208.96314,209.97042,1.83,NA,No results
+Feature0001,NA,C4 H10 Cl N9,219.07414,220.08142,2.828,NA,No results

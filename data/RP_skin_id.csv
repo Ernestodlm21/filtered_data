@@ -1,0 +1,97 @@
+FeatureID,Name,Formula,calc_mw,mz,rt,annot_source,Annot. Source: mzVault Search,CID
+Feature2369,Indole-3-carboxaldehyde,C9 H7 N O,145.05268,146.05996,12.402,mzVault and mzCloud,Full match,10256
+Feature2367,Ornithine,C5 H12 N2 O2,132.08982,133.09709,1.058,mzVault and mzCloud,Full match,6262
+Feature2365,D-Aspartic acid,C4 H7 N O4,133.03737,134.04465,1.215,mzVault and mzCloud,Full match,83887
+Feature2364,Cytidine-5'-monophosphate,C9 H14 N3 O8 P,323.0517,324.05897,1.799,mzVault and mzCloud,Full match,6131
+Feature2363,D-Histidine,C6 H9 N3 O2,155.06937,156.07667,1.131,mzVault and mzCloud,Full match,71083
+Feature2362,D-Histidine,C6 H9 N3 O2,155.06934,156.07662,1.169,mzVault and mzCloud,Full match,71083
+Feature2361,O-Phosphorylethanolamine,C2 H8 N O4 P,141.01897,142.02625,1.187,mzVault,Full match,1015
+Feature2360,L-Alanine,C3 H7 N O2,89.04761,90.05489,1.428,mzVault and mzCloud,Full match,5950
+Feature2358,D-Threonine,C4 H9 N O3,119.05809000000001,120.06537,1.253,mzVault and mzCloud,Full match,69435
+Feature2357,Cytidine,C9 H13 N3 O5,243.08533,244.0926,2.295,mzVault and mzCloud,Full match,6175
+Feature2355,L-Alanine,C3 H7 N O2,89.04762,90.0549,1.227,mzVault and mzCloud,Full match,5950
+Feature2354,L-Citrulline,C6 H13 N3 O3,175.09553,176.10281,1.306,mzVault and mzCloud,Full match,9750
+Feature2352,N-Acetylglutamic acid,C7 H11 N O5,189.06359,190.07087,3.943,mzVault,Full match,70914
+Feature2351,D-Valine,C5 H11 N O2,117.07884,118.08612,2.027,mzVault and mzCloud,Full match,71563
+Feature2350,D-Leucine,C6 H13 N O2,131.09448,132.10176,4.534,mzVault and mzCloud,Full match,439524
+Feature2349,D-Glutamine,C5 H10 N2 O3,146.06902,147.0763,1.231,mzVault and mzCloud,Full match,145815
+Feature2347,D-Glutamic acid,C5 H9 N O4,147.05302,148.06029,1.286,mzVault and mzCloud,Full match,23327
+Feature2344,D-Serine,C3 H7 N O3,105.04244,106.04972,1.187,mzVault and mzCloud,Full match,71077
+Feature2340,L-Tyrosine,C9 H11 N O3,181.07373,182.08101,4.281,mzVault and mzCloud,Full match,6057
+Feature2339,sn-glycero-3-Phosphocholine,C8 H20 N O6 P,257.1025,258.10978,1.267,mzVault,Full match,657272
+Feature2339,sn-glycero-3-Phosphocholine,C8 H20 N O6 P,257.1025,258.10978,1.267,mzVault,Full match,439285
+Feature2338,O-Acetyl-L-carnitine,C9 H17 N O4,203.11557,204.12285,2.388,mzVault and mzCloud,Full match,7045767
+Feature2337,Uridine,C9 H12 N2 O6,244.06931,245.07659,4.747,mzVault,Full match,6029
+Feature2336,Citicoline,C14 H26 N4 O11 P2,488.10684,489.11412,1.464,mzVault and mzCloud,Full match,13804
+Feature2335,2'-Deoxyadenosine,C10 H13 N5 O3,251.10164,252.10891,6.477,mzVault and mzCloud,Full match,13730
+Feature2334,L-Cystine,C6 H12 N2 O4 S2,240.02361,241.03089,1.173,mzVault and mzCloud,Full match,67678
+Feature2332,D-Proline,C5 H9 N O2,115.06316,116.07044,1.47,mzVault and mzCloud,Full match,8988
+Feature2329,L-Asparagine,C4 H8 N2 O3,132.05335,133.06063,1.195,mzVault and mzCloud,Full match,6267
+Feature2328,Betaine,C5 H11 N O2,117.07882,118.0861,1.312,mzVault and mzCloud,Full match,247
+Feature2325,D-Pantothenate,C9 H17 N O5,219.1105,220.11778,8.234,mzVault,Full match,6997253
+Feature2324,Maltotriose,C18 H32 O16,504.16862,522.20244,1.545,mzVault and mzCloud,Full match,871
+Feature2322,4-Aminosalicylic acid,C7 H7 N O3,153.04252,154.0498,8.618,mzVault and mzCloud,Full match,4649
+Feature2321,D-Glutamic acid,C5 H9 N O4,147.05304,148.06032,1.492,mzVault and mzCloud,Full match,23327
+Feature2320,L-Pyroglutamic acid,C5 H7 N O3,129.04248,130.04976,3.4,mzVault and mzCloud,Full match,7405
+Feature2319,Phosphocholine,C5 H14 N O4 P,183.06587,184.07314,1.224,mzVault,Full match,1014
+Feature2318,Guanosine,C10 H13 N5 O5,283.09143,284.0987,6.546,mzVault,Full match,135398635
+Feature2317,L-Norleucine,C6 H13 N O2,131.09449,132.10177,4.201,mzVault and mzCloud,Full match,21236
+Feature2316,L-Norleucine,C6 H13 N O2,131.09452,132.10179,4.106,mzVault and mzCloud,Full match,21236
+Feature2315,Phosphocholine,C5 H14 N O4 P,183.06586,184.07313,1.289,mzVault,Full match,1014
+Feature2314,Phosphocholine,C5 H14 N O4 P,183.06589,184.07316,1.358,mzVault,Full match,1014
+Feature2313,Creatinine,C4 H7 N3 O,113.05876,114.06604,1.336,mzVault and mzCloud,Full match,588
+Feature2311,2'-Deoxycytidine,C9 H13 N3 O4,227.09045,228.09773,2.917,mzVault,Full match,13711
+Feature2310,Xanthine,C5 H4 N4 O2,152.03332,153.0406,4.094,mzVault,Full match,1188
+Feature2308,Uridine-5'-phosphate,C9 H13 N2 O9 P,324.0357,325.04298,2.175,mzVault,Full match,6030
+Feature2307,Guanine,C5 H5 N5 O,151.04931,152.05659,2.329,mzVault and mzCloud,Full match,135398634
+Feature2306,L-Carnitine,C7 H15 N O3,161.10504,162.11232,1.279,mzVault and mzCloud,Full match,10917
+Feature2305,Taurine,C2 H7 N O3 S,125.01453,126.0218,1.212,mzVault and mzCloud,Full match,1123
+Feature2304,Adenosine,C10 H13 N5 O4,267.09646,268.10374,6.299,mzVault and mzCloud,Full match,60961
+Feature2300,D-Arginine,C6 H14 N4 O2,174.11156,175.11884,1.137,mzVault and mzCloud,Full match,71070
+Feature2299,Creatine,C4 H9 N3 O2,131.06934,132.07661,1.429,mzVault and mzCloud,Full match,586
+Feature2298,Creatine,C4 H9 N3 O2,131.06934,132.07662,1.5,mzVault and mzCloud,Full match,586
+Feature2297,N-Acetyl-L-methionine,C7 H13 N O3 S,191.06145,192.06873,9.243,mzVault,Full match,448580
+Feature2295,DL-Kynurenine,C10 H12 N2 O3,208.08462,209.0919,6.817,mzVault and mzCloud,Full match,846
+Feature2294,L-Pyroglutamic acid,C5 H7 N O3,129.0425,130.04978,3.138,mzVault and mzCloud,Full match,7405
+Feature2293,L-Carnosine,C9 H14 N4 O3,226.10638,227.11366,1.135,mzVault and mzCloud,Full match,439224
+Feature2290,Maltotriose,C18 H32 O16,504.1689,522.20273,1.737,mzVault and mzCloud,Full match,871
+Feature2289,4-Guanidinobutyric acid,C5 H11 N3 O2,145.08504,146.09231,2.197,mzVault and mzCloud,Full match,500
+Feature2285,N-Acetyl-DL-serine,C5 H9 N O4,147.05309,148.06036,1.981,mzVault and mzCloud,Full match,352294
+Feature2284,Nicotinic acid,C6 H5 N O2,123.03193,124.03921,2.645,mzVault and mzCloud,Full match,938
+Feature2283,Thymine,C5 H6 N2 O2,126.0428,127.05008,5.751,mzVault and mzCloud,Full match,1135
+Feature2282,Creatinine,C4 H7 N3 O,113.05881,114.06609,1.474,mzVault and mzCloud,Full match,588
+Feature2281,Phenylac-Gly-OH,C10 H11 N O3,193.07371,194.08099,10.719,mzVault and mzCloud,Full match,68144
+Feature2280,5-Methylcytidine,C10 H15 N3 O5,257.10098,258.10826,3.375,mzVault,Full match,92918
+Feature2279,N-Acetyl-D-mannosamine,C8 H15 N O6,221.08973,222.09701,1.491,mzVault and mzCloud,Full match,439281
+Feature2278,N-Acetyl-D-mannosamine,C8 H15 N O6,221.08974,222.09702,1.543,mzVault and mzCloud,Full match,439281
+Feature2277,trans-Urocanic Acid,C6 H6 N2 O2,138.04284,139.05012,2.594,mzVault and mzCloud,Full match,736715
+Feature2275,Niacinamide,C6 H6 N2 O,122.04788,123.05516,2.977,mzVault and mzCloud,Full match,936
+Feature2274,Creatine,C4 H9 N3 O2,131.06936,132.07663,1.587,mzVault and mzCloud,Full match,586
+Feature2272,N-Acetylglycine,C4 H7 N O3,117.0425,118.04977,2.214,mzVault,Full match,10972
+Feature2271,7-Methylguanine,C6 H7 N5 O,165.06497,166.07225,3.653,mzVault and mzCloud,Full match,135398679
+Feature2270,Choline,C5 H13 N O,103.09958,104.10686,1.194,mzVault and mzCloud,Full match,305
+Feature2269,Hippuric acid,C9 H9 N O3,179.0581,180.06538,10.013,mzVault and mzCloud,Full match,464
+Feature2268,N-Acetyl-L-arginine,C8 H16 N4 O3,216.12208,217.12935,2.382,mzVault and mzCloud,Full match,67427
+Feature2267,Hypoxanthine,C5 H4 N4 O,136.03839,137.04567,3.313,mzVault and mzCloud,Full match,135398638
+Feature2266,Trigonelline,C7 H7 N O2,137.04757,138.05485,1.447,mzVault and mzCloud,Full match,5570
+Feature2264,N-Acetylneuraminic acid,C11 H19 N O9,309.10579,310.11306,1.449,mzVault and mzCloud,Full match,439197
+Feature2263,Hypoxanthine,C5 H4 N4 O,136.03842,137.0457,3.445,mzVault and mzCloud,Full match,135398638
+Feature2262,Adenine,C5 H5 N5,135.05441,136.06169,2.234,mzVault and mzCloud,Full match,190
+Feature2261,L(-)-Pipecolinic acid,C6 H11 N O2,129.07888,130.08616,2.183,mzVault and mzCloud,Full match,849
+Feature2260,L(-)-Pipecolinic acid,C6 H11 N O2,129.07887,130.08614,2.37,mzVault,Full match,439227
+Feature2258,2-Deoxy-D-glucose,C6 H12 O5,164.06833,182.10216,1.524,mzVault,Full match,108223
+Feature2257,2-Deoxy-D-glucose,C6 H12 O5,164.06831,182.10213,1.55,mzVault,Full match,108223
+Feature2256,Allantoin,C4 H6 N4 O3,158.04388,159.05116,1.38,mzVault,Full match,204
+Feature2254,N-Acetyl-D-galactosamine,C8 H15 N O6,221.08974,222.09702,1.378,mzVault and mzCloud,Full match,35717
+Feature2253,1-Methyl adenosine,C11 H15 N5 O4,281.11217,282.11945,7.825,mzVault and mzCloud,Full match,260623
+Feature2252,Glycyl-L-leucine,C8 H16 N2 O3,188.11593,189.12321,7.803,mzVault and mzCloud,Full match,92843
+Feature2250,N-Acetyl-L-Lysine,C8 H16 N2 O3,188.11596,189.12324,1.561,mzVault,Full match,92907
+Feature2248,L-Carnitine,C7 H15 N O3,161.10507,162.11235,1.345,mzVault and mzCloud,Full match,10917
+Feature2247,2-Pyrrolidinone,C4 H7 N O,85.05274,86.06002,4.97,mzVault,Full match,12025
+Feature2246,Uric acid,C5 H4 N4 O3,168.02827,169.03554,3.084,mzVault and mzCloud,Full match,1175
+Feature2245,4-(Acetylamino)butanoic acid,C6 H11 N O3,145.07381,146.08108,6.121,mzVault and mzCloud,Full match,18189
+Feature2244,N-Acetyl-L-Lysine,C8 H16 N2 O3,188.11598,189.12326,1.661,mzVault,Full match,92907
+Feature2243,(S)-(+)-5-Hydroxymethyl-2-pyrrolidinone,C5 H9 N O2,115.06323,116.0705,3.145,mzVault and mzCloud,Full match,643511
+Feature2242,Bicine,C6 H13 N O4,163.08431,164.09159,1.291,mzVault and mzCloud,Full match,8761
+Feature2241,Indole-3-carboxaldehyde,C9 H7 N O,145.05267,146.05994,12.165,mzVault and mzCloud,Full match,10256
+Feature2240,N-Acetylneuraminic acid,C11 H19 N O9,309.10576,310.11304,1.406,mzVault,Full match,439197
